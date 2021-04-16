@@ -1,0 +1,1659 @@
+[
+   {
+      "_id": "0Xrkk46IM43iI1Fv",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It gains darkvision.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [
+            {
+               "key": "PF2E.RuleElement.Sense",
+               "label": "PF2E.SensesDarkvision",
+               "selector": "darkvision"
+            }
+         ],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "darkvision"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.0Xrkk46IM43iI1Fv"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Darkvision",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "officielle",
+            "name": "Vision dans le noir",
+            "description": "<p>Votre familier gagne vision dans le noir</p>"
+         }
+      }
+   },
+   {
+      "_id": "2fiQzoEKu6YUnrU9",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>In an encounter, if you don't Command your familiar, it still gains 1 action each round. Typically, you still decide how it spends that action, but, the GM might determine that your familiar chooses its own tactics rather than performing your preferred action.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "independent"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.2fiQzoEKu6YUnrU9"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Independent",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Ind\u00e9pendant",
+            "description": "<p>Lors d'une rencontre, si vous ne donnez pas d'ordre \u00e0 votre familier, il obtient toujours 1 action chaque round. Typiquement, vous d\u00e9cidez toujours comment il d\u00e9pense cette action, mais le MJ peut d\u00e9terminer que votre familier choisit sa propre tactique plut\u00f4t qu'accomplir l'action que vous pr\u00e9f\u00e9rez.</p>"
+         }
+      }
+   },
+   {
+      "_id": "43xB5UnexISlfRa5",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Prequisites @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Leshy Familiar Secrets}</p>\n<p>Your familiar recycles air, providing enough oxygen for a Medium creature in areas with stale air, such as a sealed chamber or extradimensional space. If the leshy is within the area of an inhaled poison effect or an effect that relies on smell, creatures within a 15-foot emanation from the leshy gain a +2 circumstance bonus to their saving throws against the effect.</p>"
+         },
+         "duration": {
+            "expiry": "turn-start",
+            "sustained": false,
+            "unit": "unlimited",
+            "value": -1
+         },
+         "level": {
+            "value": 4
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "start": {
+            "initiative": null,
+            "value": 0
+         },
+         "target": null,
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "purify-air"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.43xB5UnexISlfRa5"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Purify Air",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Purificateur d'air",
+            "description": "<p><strong>Pr\u00e9requis</strong> @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier l\u00e9chi}</p>\n<hr />\n<p>Votre familier recycle l'air, fournissant assez d'oxyg\u00e8ne \u00e0 une cr\u00e9ature de taille Moyenne dans les zones avec de l'air vici\u00e9, tel qu'une chambre scell\u00e9e ou un espace extradimensionnel. Si le l\u00e9chi est dans la zone d'un effet de poison inhal\u00e9 ou d'un effet qui compte sur l'odorat, les cr\u00e9atures dans une \u00e9manation de 4,5 m du l\u00e9chi obtiennent un bonus de circonstances de +2 \u00e0 leur jet de sauvegarde contre l'effet.</p>"
+         }
+      }
+   },
+   {
+      "_id": "57b8u8s3fV0UCrgJ",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Your plant familiar can change shape as a single action, transforming into a Tiny plant of a type roughly similar to the familiar's nature. This otherwise uses the effects of <em>tree shape</em>. You must have a familiar with the plant trait, such as a leshy, to select this ability.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "plant-form"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.57b8u8s3fV0UCrgJ"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Plant Form",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Forme de plante",
+            "description": "<p>Votre familier plante peut changer de forme par une unique action, en transformant en une Tr\u00e8s petite plante d'un type \u00e0 peu pr\u00e8s similaire \u00e0 la nature du familier. Cela utilise autrement les effets de @Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Morphologie d'arbre}. Vous devez avoir un familier avec le trait plante, tel qu'un l\u00e9chi, pour choisir cette capacit\u00e9.</p>"
+         }
+      }
+   },
+   {
+      "_id": "5gwqSpkRqWzrbDDU",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It takes no damage when it succeeds at Will saves; this doesn't prevent effects other than damage.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "damage-avoidance-will"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.5gwqSpkRqWzrbDDU"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Damage Avoidance: Will",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "\u00c9vitement des d\u00e9g\u00e2ts : Volont\u00e9",
+            "description": "<p>Votre familier ne subit aucun d\u00e9g\u00e2t lorsqu\u2019il r\u00e9ussit un jet de Volont\u00e9 ; cela n\u2019emp\u00eache pas les effets autres que les d\u00e9g\u00e2ts.</p>"
+         }
+      }
+   },
+   {
+      "_id": "7QosmRHlyLLhU1hX",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It can use your Quick Alchemy action. You must have Quick Alchemy, and your familiar must be in your space. This has the same cost and requirement as if you used it. It must have the manual dexterity ability to select this.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "lab-assistant"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.7QosmRHlyLLhU1hX"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Lab Assistant",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "officielle",
+            "name": "Assistant de laboratoire",
+            "description": "<p>Votre familier peut utiliser votre action Alchimie rapide. Vous devez poss\u00e9der Alchimie rapide et votre familier doit se trouver dans votre espace. Il l'accomplit au m\u00eame co\u00fbt et aux m\u00eames conditions que si vous l\u2019utilisiez. Votre familier doit avoir le pouvoir Dext\u00e9rit\u00e9 manuelle pour pouvoir s\u00e9lectionner ce pouvoir.</p>"
+         }
+      }
+   },
+   {
+      "_id": "8Z1UkLEWkFWIjOF8",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Your homunculus familiar has a reservoir for poison, allowing it to apply an injury poison to an adjacent ally's exposed weapon with a single Interact action. You must supply the poison and instill it into this reservoir using two consecutive Interact actions. You must have a homunculus familiar to select this ability.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "poison-reservoir"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.8Z1UkLEWkFWIjOF8"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Poison Reservoir",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "R\u00e9servoir de poison",
+            "description": "<p>Votre familier homoncule poss\u00e8de un r\u00e9servoir pour le poison, permettant d'appliquer un poison de blessure \u00e0 l'arme expos\u00e9e d'un alli\u00e9 adjacent par une unique action Interagir. Vous devez fournir le poison et l'instiller dans le r\u00e9servoir en utilisant deux actions Interagir cons\u00e9cutives. Vous devez poss\u00e9der un familier homoncule pour choisir cette capacit\u00e9.</p>"
+         }
+      }
+   },
+   {
+      "_id": "92lgSEPFIDLvKOCF",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Your familiar helps you perform. Whenever you attempt a Performance check, if your familiar is nearby and can act, it accompanies you with chirps, claps, or its own miniature instrument. This grants you a +1 circumstance bonus, or +2 if you're a master in Performance.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "accompanist"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.92lgSEPFIDLvKOCF"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Accompanist",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Accompagnateur",
+            "description": "<p>Votre familier aide votre repr\u00e9sentation. Lorsque vous tentez un test de Repr\u00e9sentation, si votre familier est \u00e0 proximit\u00e9 et peut agir, il vous accompagne avec des gazouillements, des applaudissement ou son propre instrument miniature. Cela vous donne un bonus de circonstances de +1 ou de +2 si vous \u00eates ma\u00eetre en Repr\u00e9sentation.</p>"
+         }
+      }
+   },
+   {
+      "_id": "9PsptrEoCC4QdM23",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>You can command your familiar to deliver you items more efficiently. Your familiar doesn't use its 2 actions immediately upon your command. Instead, up to twice before the end of your turn, you can have your familiar Interact to retrieve an item of light or negligible Bulk you are wearing and place it into one of your free hands. The familiar can't use this ability to retrieve stowed items. If the familiar has a different number of actions, it can retrieve one item for each action it has when commanded this way.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "valet"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.9PsptrEoCC4QdM23"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Valet",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Valet",
+            "description": "<p>Vous pouvez ordonner \u00e0 votre familier de vous donner des objets avec une grande efficacit\u00e9. Votre familier n'utilise pas ses deux actions imm\u00e9diatement lorsque vous lui donnez un ordre. \u00c0 la place, jusqu'\u00e0 deux fois avant la fin de votre tour, votre familier peut utiliser deux actions Interagir pour r\u00e9cup\u00e9rer un objet d'encombrement l\u00e9ger ou n\u00e9gligeable que vous \u00eates en train de manier et le placer dans une de vous mains libres. Le familier ne peut utiliser cette capacit\u00e9 pour r\u00e9cup\u00e9rer des objets rang\u00e9s. Si le familier poss\u00e8de un nombre d'actions diff\u00e9rentes, il peut retirer un objet pour chaque action qu'il poss\u00e8de lorsque vous lui avez donn\u00e9 des ordres de cette mani\u00e8re.</p>"
+         }
+      }
+   },
+   {
+      "_id": "A0C86V3MUECpX5jd",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It gains a swim Speed of 25 feet (or Speed of 25 feet if it already has a swim Speed).</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [
+            {
+               "key": "PF2E.RuleElement.BaseSpeed",
+               "selector": "land",
+               "value": 25
+            },
+            {
+               "key": "PF2E.RuleElement.BaseSpeed",
+               "selector": "swim",
+               "value": 25
+            }
+         ],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "amphibious"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.A0C86V3MUECpX5jd"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Amphibious",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Amphibie",
+            "description": "<p>Votre familier gagne une Vitesse de nage de 7,5 m (ou une Vitesse de 7,5 m s\u2019il a d\u00e9j\u00e0 une Vitesse de nage).</p>"
+         }
+      }
+   },
+   {
+      "_id": "BXssJhTJjKrfojwG",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Increase the familiar's land Speed from 25 feet to 40 feet.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [
+            {
+               "key": "PF2E.RuleElement.FlatModifier",
+               "selector": "land-speed",
+               "value": 15
+            }
+         ],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "fast-movement-land"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.BXssJhTJjKrfojwG"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Fast Movement: Land",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "D\u00e9placement rapide : Au sol",
+            "description": "<p>Augmentez la Vitesse de votre familier de 7,5 \u00e0 12 m.</p>"
+         }
+      }
+   },
+   {
+      "_id": "C16JgmeJJG249WXz",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>When in mask form, your familiar can hide its obvious supernatural qualities to pass as a simple, unassuming mask. It doesn\u2019t need to Impersonate to fool a passing glance, and it gains a +4 circumstance bonus to its Deception DC against an active observer Seeking or otherwise studying it.</p>"
+         },
+         "duration": {
+            "expiry": "turn-start",
+            "sustained": false,
+            "unit": "rounds",
+            "value": 0
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "start": {
+            "initiative": null,
+            "value": 0
+         },
+         "target": null,
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "mask-freeze"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.C16JgmeJJG249WXz"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Mask Freeze",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "officielle",
+            "name": "Masque fig\u00e9",
+            "description": "<p>lorsqu\u2019il est sous forme de masque, votre familier peut dissimuler ses \u00e9videntes capacit\u00e9s surnaturelles afin de passer pour un masque simple et sans pr\u00e9tention. Il n\u2019a pas besoin de Se d\u00e9guiser pour duper un simple coup d\u2019\u0153il et il gagne un bonus de circonstances de +4 \u00e0 son DD de Duperie contre un observateur actif qui Cherche ou qui l\u2019\u00e9tudie.</p>"
+         }
+      }
+   },
+   {
+      "_id": "FcQQLMAJMgOLjnSv",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Choose two of the following: acid, cold, electricity, fire, poison, or sonic. Your familiar gains resistance equal to half your level against the chosen damage types.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "resistance"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.FcQQLMAJMgOLjnSv"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Resistance",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "R\u00e9sistance",
+            "description": "<p>Choisissez deux des d\u00e9g\u00e2ts suivants : acide, \u00e9lectricit\u00e9, feu, froid, poison ou son. Votre familier obtient une r\u00e9sistance \u00e9gale \u00e0 la moiti\u00e9 de votre niveau contre les types de d\u00e9g\u00e2ts choisis.</p>"
+         }
+      }
+   },
+   {
+      "_id": "FlRUb8U13Crj3NaA",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It gains scent (imprecise, 30 feet).</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [
+            {
+               "acuity": "imprecise",
+               "key": "PF2E.RuleElement.Sense",
+               "label": "PF2E.SensesScent",
+               "range": 30,
+               "selector": "scent"
+            }
+         ],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "scent"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.FlRUb8U13Crj3NaA"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Scent",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "officielle",
+            "name": "Odorat",
+            "description": "<p>Votre familier gagne odorat (impr\u00e9cis, 9 m).</p>"
+         }
+      }
+   },
+   {
+      "_id": "JRP2bdkdCdj2JDrq",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Your familiar can change shape as a single action, transforming into a humanoid of your ancestry with the same age, gender, and build of its true form, though it always maintains a clearly unnatural remnant of its nature, such as a cat's eyes or a serpent's tongue. This form is always the same each time it uses this ability. This otherwise uses the effects of <em>humanoid form</em>, except the change is purely cosmetic. It only appears humanoid and gains no new capabilities. Your familiar must have the manual dexterity and speech abilities to select this.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "masters-form"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.JRP2bdkdCdj2JDrq"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Master's Form",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Forme du ma\u00eetre",
+            "description": "<p>Votre familier peut changer de forme par une unique action, se transformant en un humano\u00efde de votre h\u00e9ritage avec le m\u00eame \u00e2ge, le m\u00eame genre et la m\u00eame constitution que celle de sa v\u00e9ritable forme, bien qu'il pr\u00e9sente toujours un reste surnaturel \u00e9vident de sa nature, comme des yeux de chat ou une langue de serpent. Cette forme est toujours la m\u00eame chaque fois qu'il utilise cette capacit\u00e9. Cela utilise autrement les effets de @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Forme humano\u00efde}, sauf que le changement est purement cosm\u00e9tique. Il appara\u00eet seulement comme humano\u00efde mais ne gagne aucune capacit\u00e9 nouvelle. Votre familier doit avoir les capacit\u00e9s @Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]{dext\u00e9rit\u00e9 manuelle} et @Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]{parole} pour pouvoir s\u00e9lectionner cette capacit\u00e9.</p>"
+         }
+      }
+   },
+   {
+      "_id": "K5OLRDsGCfPZ6mO6",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It takes no damage when it succeeds at Reflex saves; this doesn't prevent effects other than damage.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "damage-avoidance-reflex"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.K5OLRDsGCfPZ6mO6"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Damage Avoidance: Reflex",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "\u00c9vitement des d\u00e9g\u00e2ts : R\u00e9flexes",
+            "description": "<p>Votre familier ne subit aucun d\u00e9g\u00e2t lorsqu\u2019il r\u00e9ussit un jet de R\u00e9flexes ; cela n\u2019emp\u00eache pas les effets autres que les d\u00e9g\u00e2ts.</p>"
+         }
+      }
+   },
+   {
+      "_id": "LUBS9csNNgRTui4p",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Prequisites @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Leshy Familiar Secrets}</p>\n<p>Your familiar can extend vines or similar tendrils, increasing its reach to 15 feet.</p>"
+         },
+         "duration": {
+            "expiry": "turn-start",
+            "sustained": false,
+            "unit": "unlimited",
+            "value": -1
+         },
+         "level": {
+            "value": 4
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "start": {
+            "initiative": null,
+            "value": 0
+         },
+         "target": null,
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "grasping-tendrils"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.LUBS9csNNgRTui4p"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Grasping Tendrils",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Vrilles agrippantes",
+            "description": "<p>Pr\u00e9requis @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier l\u00e9chi}</p>\n<p>Votre familier peut faire pousser des lianes ou des vrilles similaires, augmentant son allonge \u00e0 4,5 m.</p>"
+         }
+      }
+   },
+   {
+      "_id": "Le8UWr5BU8rV3iBf",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Your familiar's maximum Hit Points increase by 2 per level.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [
+            {
+               "key": "PF2E.RuleElement.FlatModifier",
+               "selector": "hp-per-level",
+               "value": 2
+            }
+         ],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "tough"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.Le8UWr5BU8rV3iBf"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Tough",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Robuste",
+            "description": "<p>Le nombre maximal de Point de vie de votre familier augmente de 2 par niveau</p>"
+         }
+      }
+   },
+   {
+      "_id": "O5TIjqXAuta8iVSz",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>When you Refocus, you generate magical energy that heals your familiar. Your familiar regains 1 Hit Point per level whenever you Refocus.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "focused-rejuvenation"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.O5TIjqXAuta8iVSz"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Focused Rejuvenation",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "R\u00e9cup\u00e9ration concentr\u00e9e",
+            "description": "<p>Lorsque vous Refocalisez, vous g\u00e9n\u00e9rez de l'\u00e9nergie magique qui soine votre familier.</p>\n<p>Votre familier r\u00e9cup\u00e8re 1 Point de Vie par niveau lorsque vous Refocalisez.</p>"
+         }
+      }
+   },
+   {
+      "_id": "SKIS1xexaOvrecdV",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Prequisites @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Leshy Familiar Secrets}</p>\n<p>When your familiar dies,it releases its primal energy to cast the 3-action version of @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}, heightened to a level 1 lower than your highest-level spell slot. The <em>heal</em> spell gains a status bonus equal to twice the spell's level to the Hit Points it restores to plants. You must be able to cast 2nd-level spells using spell slots to select this familiar ability.</p>"
+         },
+         "duration": {
+            "expiry": "turn-start",
+            "sustained": false,
+            "unit": "unlimited",
+            "value": -1
+         },
+         "level": {
+            "value": 4
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "start": {
+            "initiative": null,
+            "value": 0
+         },
+         "target": null,
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "verdant-burst"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.SKIS1xexaOvrecdV"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Verdant Burst",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "chang\u00e9",
+            "name": "Explosion verdoyante",
+            "description": "<p><strong>Pr\u00e9requis</strong> @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier l\u00e9chi}</p>\n<p>Lorsque votre familier meurt, il rel\u00e2che son \u00e9nergie primordiale pour lancer la version de @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Gu\u00e9rison} \u00e0 trois actions, intensifi\u00e9 \u00e0 un niveau de 1 inf\u00e9rieur \u00e0 votre plus haut emplacement de sort. Le sort <em>Gu\u00e9rison</em> obtient aussi un bonus de statut \u00e9gal \u00e0 deux fois le niveau de sort au nombre de Points de vie qu'il redonne aux plantes. Vous devez \u00eatre capable de lancer les sorts de niveau 2 en utilisant des emplacements de sort pour choisir cette aptitude de familier.</p>"
+         }
+      }
+   },
+   {
+      "_id": "SxWYVgqNMsq0OijU",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Increase the familiar's climb Speed from 25 feet to 40 feet.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [
+            {
+               "key": "PF2E.RuleElement.FlatModifier",
+               "selector": "climb-speed",
+               "value": 15
+            }
+         ],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "fast-movement-climb"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.SxWYVgqNMsq0OijU"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Fast Movement: Climb",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "D\u00e9placement rapide : Escalade",
+            "description": "<p>Augmentez la Vitesse d'escalade de votre familier de 7,5 \u00e0 12 m.</p>"
+         }
+      }
+   },
+   {
+      "_id": "VHQUZcjUxfC3GcJ9",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Increase the familiar's fly Speed from 25 feet to 40 feet.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [
+            {
+               "key": "PF2E.RuleElement.FlatModifier",
+               "selector": "fly-speed",
+               "value": 15
+            }
+         ],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "fast-movement-fly"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.VHQUZcjUxfC3GcJ9"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Fast Movement: Fly",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "D\u00e9placement rapide : Vol",
+            "description": "<p>Augmentez la Vitesse de vol de votre familier de 7,5 \u00e0 12 m.</p>"
+         }
+      }
+   },
+   {
+      "_id": "XCqYnlVbLGqEGPeX",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Your familiar can telepathically communicate with you via touch. If it also has the speech ability, it can telepathically communicate via touch with any creature if they share a language.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "touch-telepathy"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.XCqYnlVbLGqEGPeX"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Touch Telepathy",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "T\u00e9l\u00e9pathie de contact",
+            "description": "<p>Votre familier peut communiquer t\u00e9l\u00e9pathiquement avec vous par le contact. S'il poss\u00e8de \u00e9galement la capacit\u00e9 parole, il peut t\u00e9l\u00e9pathiquement communiquer par le contact avec toute cr\u00e9ature avec laquelle il partage une langue.</p>"
+         }
+      }
+   },
+   {
+      "_id": "ZHSzNt3NxkXbj1mI",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It gains a fly Speed of 25 feet.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [
+            {
+               "key": "PF2E.RuleElement.BaseSpeed",
+               "selector": "fly",
+               "value": 25
+            }
+         ],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "flier"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.ZHSzNt3NxkXbj1mI"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Flier",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Volant",
+            "description": "<p>Votre familier gagne une Vitesse de vol de 7,5 m.</p>"
+         }
+      }
+   },
+   {
+      "_id": "asOhEdyF8CWFbR96",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Choose a spell in your repertoire or that you prepared today that is at least 5 levels lower than your highest-level spell slot. Your familiar can Cast that Spell once per day using your magical tradition, spell attack modifier, and spell DC. If the spell has a drawback that affects the caster, both you and your familiar are affected. You must be able to cast 6th-level spells using spell slots to select this ability.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "spellcasting"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.asOhEdyF8CWFbR96"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Spellcasting",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Incantateur",
+            "description": "<p>Choisissez un sort dans votre r\u00e9pertoire ou que vous avez pr\u00e9par\u00e9 dans la journ\u00e9e qui est d'au moins 5 niveaux inf\u00e9rieur \u00e0 votre plus haut niveau d'emplacement de sort. Votre familier peut Lancer ce sort une fois par jour en utilisant votre tradition magique, votre modificateur de sort et votre DD de sort. Si le sort a un inconv\u00e9nient qui affecte l'incantateur, vous \u00eates affect\u00e9s tous les deux. Vous devez \u00eatre capable de lancer des sorts de niveau 6 en utilisant des emplacements de sort pour choisir cette capacit\u00e9.</p>"
+         }
+      }
+   },
+   {
+      "_id": "cT5octWchU4gjrhP",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It can use up to two of its limbs as if they were hands to use manipulate actions.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "manual-dexterity"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.cT5octWchU4gjrhP"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Manual Dexterity",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "officielle",
+            "name": "Dext\u00e9rit\u00e9 manuelle",
+            "description": "<p>Votre familier peut utiliser jusqu\u2019\u00e0 deux de ses membres comme s\u2019il s\u2019agissait de mains pour les actions Manipulation.</p>"
+         }
+      }
+   },
+   {
+      "_id": "dWTfO5WbLkD5mw2H",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It gains a climb Speed of 25 feet.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [
+            {
+               "key": "PF2E.RuleElement.BaseSpeed",
+               "selector": "climb",
+               "value": 25
+            }
+         ],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "climber"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.dWTfO5WbLkD5mw2H"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Climber",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "officielle",
+            "name": "Grimpeur",
+            "description": "<p> Votre familier gagne une Vitesse d\u2019escalade de 7,5 m.</p>"
+         }
+      }
+   },
+   {
+      "_id": "jevzf9JbJJibpqaI",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Choose a skill other than Acrobatics or Stealth. Your familiar's modifier for that skill is equal to your level plus your key spellcasting ability modifier, rather than just your level. You can select this ability repeatedly, choosing a different skill each time.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "skilled"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.jevzf9JbJJibpqaI"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Skilled",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Comp\u00e9tent",
+            "description": "<p>Choisissez une comp\u00e9tence autre que Acrobaties ou Vol. Le modificateur de votre familier dans cette comp\u00e9tence est \u00e9gale \u00e0 votre niveau auquel vous ajoutez votre modificateur de caract\u00e9ristique d'incantation au lieu simplement de votre niveau. Vous pouvez choisir cette capacit\u00e9 plusieurs fois, en choisissant une comp\u00e9tence diff\u00e9rente \u00e0 chaque fois.</p>"
+         }
+      }
+   },
+   {
+      "_id": "mK3mAUWiRLZZYNdz",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It takes no damage when it succeeds at Fortitude saves; this doesn't prevent effects other than damage.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "damage-avoidance-fortitude"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.mK3mAUWiRLZZYNdz"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Damage Avoidance: Fortitude",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "\u00c9vitement des d\u00e9g\u00e2ts : Vigueur",
+            "description": "<p>Votre familier ne subit aucun d\u00e9g\u00e2t lorsqu\u2019il r\u00e9ussit un jet de Vigueur ; cela n\u2019emp\u00eache pas les effets autres que les d\u00e9g\u00e2ts.</p>"
+         }
+      }
+   },
+   {
+      "_id": "qTxH8mSOvc4PMzrP",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It can understand and speak with animals of the same species. To select this, your familiar must be an animal, it must have the speech ability, and you must be at least 6th level.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "kinspeech"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.qTxH8mSOvc4PMzrP"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Kinspeech",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "officielle",
+            "name": "Parole des semblables",
+            "description": "<p>Votre familier peut comprendre et communiquer avec des animaux de la m\u00eame esp\u00e8ce que lui. Pour s\u00e9lectionner ce pouvoir, votre familier doit \u00eatre un animal, \u00eatre dou\u00e9 de parole et vous devez \u00eatre au moins de niveau 6.</p>"
+         }
+      }
+   },
+   {
+      "_id": "uUrsZ4WvhjKjFjnt",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Your familiar can carry a set of tools of up to light Bulk. So long as your familiar is adjacent to you, you can draw and replace the tools as part of the action that uses them as if you were wearing them. Your familiar must have the manual dexterity ability to select this.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "toolbearer"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.uUrsZ4WvhjKjFjnt"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Toolbearer",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Porte outils",
+            "description": "<p>Votre familier peut transporter un jeu d'outils correspondant \u00e0 un Encombrement l\u00e9ger. Tant que votre familier est adjacent \u00e0 vous, vous pouvez retirer et replacer les outils durant l'action au cours de laquelle vous les utilisez comme si vous les maniez. Votre familier doit avoir la capacit\u00e9 @Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]{dext\u00e9rit\u00e9 manuelle} pour utiliser cette capacit\u00e9.</p>"
+         }
+      }
+   },
+   {
+      "_id": "uy15sDBuYNK48N3v",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It gains a burrow Speed of 5 feet, allowing it to dig Tiny holes.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [
+            {
+               "key": "PF2E.RuleElement.BaseSpeed",
+               "selector": "burrow",
+               "value": 5
+            }
+         ],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "burrower"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.uy15sDBuYNK48N3v"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Burrower",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "officielle",
+            "name": "Fouisseur",
+            "description": "<p>Votre familier gagne une Vitesse de creusement de 1,5 m, qui lui permet de creuser des trous tr\u00e8s Petits.</p>"
+         }
+      }
+   },
+   {
+      "_id": "v7zE3tKQb9G6PaYU",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Your familiar is your criminal associate. Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to Aid you on a Deception or Thievery skill check (it still has to prepare to help you as normal for the Aid reaction). It automatically succeeds at its check to Aid you with those skills or automatically critically succeeds if you're a master of the skill in question.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "partner-in-crime"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.v7zE3tKQb9G6PaYU"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Partner in Crime",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Associ\u00e9s dans le crime",
+            "description": "<p>Votre familier est votre associ\u00e9 criminel. En d\u00e9pit d'\u00eatre un sbire, votre familier obtient une r\u00e9action au d\u00e9but de son tour, qu'il ne peut utiliser que pour vous aider sur un test de comp\u00e9tence de Duperie ou de Vol or Thievery (il doit toujours se pr\u00e9parer \u00e0 vous aider comme habituellement avec la r\u00e9action Aider). Il obtient automatiquement un succ\u00e8s \u00e0 son test pour vous Aider avec ces comp\u00e9tences ou obtient un succ\u00e8s critique  si vous \u00eates ma\u00eetre dans la comp\u00e9tence en question.</p>"
+         }
+      }
+   },
+   {
+      "_id": "vpw2ReYdcyQBpdqn",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>Increase the familiar's swim Speed from 25 feet to 40 feet.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [
+            {
+               "key": "PF2E.RuleElement.FlatModifier",
+               "selector": "swim-speed",
+               "value": 15
+            }
+         ],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "fast-movement-swim"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.vpw2ReYdcyQBpdqn"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Fast Movement: Swim",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "D\u00e9placement rapide : Nage",
+            "description": "<p>Augmentez la Vitesse de nage de votre familier de 7,5 \u00e0 12 m.</p>"
+         }
+      }
+   },
+   {
+      "_id": "zyMRLQnFCQVpltiR",
+      "data": {
+         "description": {
+            "chat": "",
+            "unidentified": "",
+            "value": "<p>It understands and speaks a language you know.</p>"
+         },
+         "level": {
+            "value": 1
+         },
+         "rules": [],
+         "source": {
+            "value": ""
+         },
+         "traits": {
+            "custom": "",
+            "rarity": {
+               "value": "common"
+            },
+            "value": []
+         },
+         "slug": "speech"
+      },
+      "effects": [],
+      "flags": {
+         "core": {
+            "sourceId": "Compendium.pf2e.familiar-abilities.zyMRLQnFCQVpltiR"
+         }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "name": "Speech",
+      "permission": {
+         "default": 0
+      },
+      "type": "effect",
+      "translations": {
+         "fr": {
+            "status": "officielle",
+            "name": "Parole",
+            "description": "<p>Votre familier comprend et parle une langue que vous connaissez.</p>"
+         }
+      }
+   }
+]
