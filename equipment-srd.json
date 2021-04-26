@@ -168,6 +168,14 @@
       "rarity": "common",
       "level": 8,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -289,6 +297,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "flail",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -427,6 +443,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "poison",
+         "dice": 2,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -453,6 +477,14 @@
       "rarity": "uncommon",
       "level": 6,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 2,
+         "die": "d8"
+      },
+      "group": "club",
+      "range": "reach",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -629,6 +661,14 @@
       "rarity": "uncommon",
       "level": 5,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "10",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -690,6 +730,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "hammer",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -715,6 +763,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -815,6 +871,14 @@
       "rarity": "unique",
       "level": 18,
       "weaponType": "advanced",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -838,6 +902,14 @@
       "rarity": "uncommon",
       "level": 20,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -1060,6 +1132,14 @@
       "rarity": "common",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "positive",
+         "dice": 3,
+         "die": "d8"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -1179,6 +1259,14 @@
       "rarity": "common",
       "level": 5,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sling",
+      "range": "60",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -1308,6 +1396,14 @@
       "rarity": "uncommon",
       "level": 8,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "bow",
+      "range": "120",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "libre",
@@ -1447,6 +1543,14 @@
       "rarity": "unique",
       "level": 23,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "club",
+      "range": "10",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -1605,6 +1709,14 @@
       "rarity": "uncommon",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "spear",
+      "range": "20",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -1856,6 +1968,14 @@
       "rarity": "common",
       "level": 4,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -1897,6 +2017,13 @@
       "rarity": "uncommon",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "flail",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -1975,6 +2102,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "pick",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -2164,6 +2299,14 @@
       "rarity": "uncommon",
       "level": 12,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -2419,6 +2562,14 @@
       "rarity": "common",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "cold",
+         "dice": 4,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -2747,6 +2898,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -2931,6 +3090,14 @@
       "rarity": "common",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": ""
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -3082,6 +3249,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -3296,6 +3471,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "bow",
+      "range": "120",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -3520,6 +3703,14 @@
       "rarity": "unique",
       "level": 5,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -3540,6 +3731,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "pick",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -3563,6 +3762,14 @@
       "rarity": "common",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -3583,6 +3790,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -3735,6 +3950,14 @@
       "rarity": "rare",
       "level": 16,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -3813,6 +4036,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -3874,6 +4105,14 @@
       "rarity": "common",
       "level": 10,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -4028,6 +4267,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -4070,6 +4317,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -4271,6 +4526,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -4336,6 +4599,14 @@
       "rarity": "common",
       "level": 14,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -4407,6 +4678,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -4490,6 +4769,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "10",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -4588,6 +4875,14 @@
       "rarity": "common",
       "level": 16,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d12"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -4651,6 +4946,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d12"
+      },
+      "group": "axe",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -4773,6 +5076,14 @@
       "rarity": "common",
       "level": 1,
       "weaponType": "simple",
+      "damage": {
+         "type": "negative",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -4833,6 +5144,14 @@
       "rarity": "common",
       "level": 8,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -4887,6 +5206,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "axe",
+      "range": "",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "libre",
@@ -5244,6 +5571,14 @@
       "rarity": "common",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -5268,6 +5603,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "electricity",
+         "dice": 2,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -5632,6 +5975,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -5874,6 +6225,14 @@
       "rarity": "common",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "electricity",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -5971,6 +6330,14 @@
       "rarity": "rare",
       "level": 20,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "hammer",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -6015,6 +6382,14 @@
       "rarity": "rare",
       "level": 15,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -6057,6 +6432,14 @@
       "rarity": "common",
       "level": 5,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -6080,6 +6463,14 @@
       "rarity": "common",
       "level": 10,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -6332,6 +6723,14 @@
       "rarity": "uncommon",
       "level": 17,
       "weaponType": "simple",
+      "damage": {
+         "type": "good",
+         "dice": 3,
+         "die": "d4"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -6353,6 +6752,14 @@
       "rarity": "uncommon",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 2,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -6764,6 +7171,14 @@
       "rarity": "common",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": ""
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -6894,6 +7309,14 @@
       "rarity": "rare",
       "level": 19,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -7105,6 +7528,14 @@
       "rarity": "rare",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "fire",
+         "dice": 3,
+         "die": ""
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -7166,6 +7597,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "spear",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -7420,6 +7859,14 @@
       "rarity": "rare",
       "level": 1,
       "weaponType": "simple",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "polearm",
+      "range": "",
+      "weight": "-",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -7520,6 +7967,14 @@
       "rarity": "common",
       "level": 12,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -7541,6 +7996,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "sling",
+      "range": "80",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -7583,6 +8046,14 @@
       "rarity": "uncommon",
       "level": 9,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "flail",
+      "range": "reach",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -7627,6 +8098,14 @@
       "rarity": "uncommon",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "fire",
+         "dice": 2,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -7707,6 +8186,14 @@
       "rarity": "uncommon",
       "level": 5,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "brawling",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -7821,6 +8308,14 @@
       "rarity": "common",
       "level": 10,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -7884,6 +8379,14 @@
       "rarity": "uncommon",
       "level": 12,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -8084,6 +8587,14 @@
       "rarity": "common",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8241,6 +8752,14 @@
       "rarity": "common",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "cold",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8298,6 +8817,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "hammer",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -8321,6 +8848,14 @@
       "rarity": "common",
       "level": 10,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8423,6 +8958,14 @@
       "rarity": "unique",
       "level": 8,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -8459,6 +9002,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "spear",
+      "range": "20",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -8506,6 +9057,14 @@
       "rarity": "common",
       "level": 2,
       "weaponType": "unarmed",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "brawling",
+      "range": "melee",
+      "weight": "-",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8563,6 +9122,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "dart",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8606,6 +9173,14 @@
       "rarity": "common",
       "level": 12,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8626,6 +9201,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -8700,6 +9283,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "spear",
+      "range": "",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "libre",
@@ -8722,6 +9313,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -8780,6 +9379,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "hammer",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -8863,6 +9470,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "polearm",
+      "range": "",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8921,6 +9536,14 @@
       "rarity": "common",
       "level": 13,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9203,6 +9826,14 @@
       "rarity": "common",
       "level": 14,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9294,6 +9925,14 @@
       "rarity": "common",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 4,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9393,6 +10032,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "polearm",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -9541,6 +10188,14 @@
       "rarity": "common",
       "level": 10,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9715,6 +10370,13 @@
       "rarity": "uncommon",
       "level": 1,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "dart",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -9751,6 +10413,14 @@
       "rarity": "rare",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "fire",
+         "dice": 1,
+         "die": ""
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -9880,6 +10550,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "flail",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -9935,6 +10613,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "knife",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9957,6 +10643,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "slashing",
+         "dice": 0,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -9998,6 +10692,14 @@
       "rarity": "common",
       "level": 14,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -10143,6 +10845,14 @@
       "rarity": "common",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "sonic",
+         "dice": 4,
+         "die": "d4"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -10190,6 +10900,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "mental",
+         "dice": 2,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -10231,6 +10949,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "brawling",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -10277,6 +11003,14 @@
       "rarity": "uncommon",
       "level": 14,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "polearm",
+      "range": "reach",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "libre",
@@ -10318,6 +11052,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "axe",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -10491,6 +11233,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "dart",
+      "range": "30",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -10515,6 +11265,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "sonic",
+         "dice": 2,
+         "die": "d4"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -10908,6 +11666,14 @@
       "rarity": "uncommon",
       "level": 3,
       "weaponType": "simple",
+      "damage": {
+         "type": "good",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -11118,6 +11884,14 @@
       "rarity": "unique",
       "level": 6,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -11162,6 +11936,14 @@
       "rarity": "common",
       "level": 8,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -11249,6 +12031,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "club",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -11331,6 +12121,14 @@
       "rarity": "uncommon",
       "level": 18,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "flail",
+      "range": "",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "libre",
@@ -11435,6 +12233,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "spear",
+      "range": "20",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -11458,6 +12264,14 @@
       "rarity": "uncommon",
       "level": 12,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -11547,6 +12361,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -11624,6 +12446,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "axe",
+      "range": "10",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -11644,6 +12474,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -11705,6 +12543,14 @@
       "rarity": "common",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "positive",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -11908,6 +12754,14 @@
       "rarity": "common",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "poison",
+         "dice": 3,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12092,6 +12946,14 @@
       "rarity": "common",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "acid",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12251,6 +13113,14 @@
       "rarity": "common",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "mental",
+         "dice": 4,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12485,6 +13355,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "bow",
+      "range": "100",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12507,6 +13385,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "axe",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12551,6 +13437,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "axe",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -12573,6 +13467,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "axe",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12596,6 +13498,14 @@
       "rarity": "common",
       "level": 14,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12692,6 +13602,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -12732,6 +13650,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 0,
+         "die": "d6"
+      },
+      "group": "club",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12810,6 +13736,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13040,6 +13974,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "polearm",
+      "range": "",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13115,6 +14057,14 @@
       "rarity": "unique",
       "level": 20,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -13136,6 +14086,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13241,6 +14199,14 @@
       "rarity": "uncommon",
       "level": 14,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13285,6 +14251,14 @@
       "rarity": "rare",
       "level": 5,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13363,6 +14337,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "spear",
+      "range": "reach",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -13484,6 +14466,14 @@
       "rarity": "common",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13601,6 +14591,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "pick",
+      "range": "",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13624,6 +14622,14 @@
       "rarity": "common",
       "level": 12,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -14100,6 +15106,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "flail",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -14202,6 +15216,14 @@
       "rarity": "common",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -14277,6 +15299,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "flail",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -14838,6 +15868,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -14915,6 +15953,14 @@
       "rarity": "common",
       "level": 17,
       "weaponType": "simple",
+      "damage": {
+         "type": "negative",
+         "dice": 4,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -14936,6 +15982,14 @@
       "rarity": "common",
       "level": 10,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -15044,6 +16098,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "precision",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "bow",
+      "range": "80",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "libre",
@@ -15068,6 +16130,14 @@
       "rarity": "common",
       "level": 4,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -15194,6 +16264,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bow",
+      "range": "60",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -15215,6 +16293,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "pick",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -15299,6 +16385,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -15322,6 +16416,14 @@
       "rarity": "uncommon",
       "level": 16,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -15782,6 +16884,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "flail",
+      "range": "",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -15866,6 +16976,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "acid",
+         "dice": 2,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16056,6 +17174,14 @@
       "rarity": "common",
       "level": 10,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -16131,6 +17257,14 @@
       "rarity": "common",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": ""
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16167,6 +17301,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "knife",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16322,6 +17464,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "club",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16404,6 +17554,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "polearm",
+      "range": "reach",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -16670,6 +17828,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "dart",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16788,6 +17954,14 @@
       "rarity": "common",
       "level": 14,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -16827,6 +18001,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sling",
+      "range": "60",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16930,6 +18112,14 @@
       "rarity": "uncommon",
       "level": 7,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "flail",
+      "range": "reach",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -16950,6 +18140,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d12"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16973,6 +18171,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "flail",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17017,6 +18223,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "unarmed",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "brawling",
+      "range": "melee",
+      "weight": "-",
       "translations": {
          "fr": {
             "status": "libre",
@@ -17079,6 +18293,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "polearm",
+      "range": "reach",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17248,6 +18470,14 @@
       "rarity": "common",
       "level": 18,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 4,
+         "die": "d4"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -17291,6 +18521,14 @@
       "rarity": "common",
       "level": 4,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 2,
+         "die": "d4"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17559,6 +18797,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -17680,6 +18926,14 @@
       "rarity": "unique",
       "level": 22,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17724,6 +18978,14 @@
       "rarity": "uncommon",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -17799,6 +19061,14 @@
       "rarity": "uncommon",
       "level": 19,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "pick",
+      "range": "melee",
+      "weight": "16",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17952,6 +19222,14 @@
       "rarity": "uncommon",
       "level": 1,
       "weaponType": "simple",
+      "damage": {
+         "type": "good",
+         "dice": 1,
+         "die": ""
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -18041,6 +19319,14 @@
       "rarity": "uncommon",
       "level": 1,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18138,6 +19424,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "axe",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18161,6 +19455,14 @@
       "rarity": "common",
       "level": 16,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18200,6 +19502,14 @@
       "rarity": "common",
       "level": 4,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18265,6 +19575,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "positive",
+         "dice": 2,
+         "die": "d8"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18287,6 +19605,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "flail",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -18566,6 +19892,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18588,6 +19922,14 @@
       "rarity": "common",
       "level": 13,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "hammer",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18677,6 +20019,14 @@
       "rarity": "common",
       "level": 8,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18829,6 +20179,14 @@
       "rarity": "common",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -18910,6 +20268,14 @@
       "rarity": "common",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "sonic",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19004,6 +20370,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bow",
+      "range": "60",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19064,6 +20438,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19163,6 +20545,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "brawling",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -19259,6 +20649,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19341,6 +20739,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19417,6 +20823,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sling",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19618,6 +21032,14 @@
       "rarity": "rare",
       "level": 20,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -19658,6 +21080,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "club",
+      "range": "20",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19699,6 +21129,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "polearm",
+      "range": "reach",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19799,6 +21237,14 @@
       "rarity": "common",
       "level": 10,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -20018,6 +21464,14 @@
       "rarity": "common",
       "level": 20,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -20057,6 +21511,14 @@
       "rarity": "common",
       "level": 14,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -20080,6 +21542,14 @@
       "rarity": "uncommon",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 3,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -20160,6 +21630,14 @@
       "rarity": "common",
       "level": 14,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -20228,6 +21706,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "shield",
+      "range": "melee",
+      "weight": "-",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -20378,6 +21864,14 @@
       "rarity": "uncommon",
       "level": 13,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 3,
+         "die": "d6"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -20404,6 +21898,14 @@
       "rarity": "common",
       "level": 5,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "10",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -20740,6 +22242,14 @@
       "rarity": "common",
       "level": 10,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -20796,6 +22306,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "spear",
+      "range": "reach",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -21007,6 +22525,14 @@
       "rarity": "uncommon",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 4,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -21285,6 +22811,14 @@
       "rarity": "common",
       "level": 8,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -21379,6 +22913,14 @@
       "rarity": "common",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "bow",
+      "range": "100",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -21586,6 +23128,14 @@
       "rarity": "uncommon",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -21665,6 +23215,14 @@
       "rarity": "common",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -21685,6 +23243,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "club",
+      "range": "10",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -21806,6 +23372,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "flail",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -21852,6 +23426,14 @@
       "rarity": "common",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "fire",
+         "dice": 4,
+         "die": "d8"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -22445,6 +24027,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "bow",
+      "range": "100",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -22489,6 +24079,14 @@
       "rarity": "uncommon",
       "level": 8,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "10",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -22509,6 +24107,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "shield",
+      "range": "melee",
+      "weight": "-",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -22530,6 +24136,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "polearm",
+      "range": "reach",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -22553,6 +24167,14 @@
       "rarity": "uncommon",
       "level": 20,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -22696,6 +24318,14 @@
       "rarity": "common",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "mental",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -22737,6 +24367,14 @@
       "rarity": "common",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "sonic",
+         "dice": 3,
+         "die": "d4"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -22854,6 +24492,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bow",
+      "range": "60",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -23147,6 +24793,14 @@
       "rarity": "common",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -23260,6 +24914,14 @@
       "rarity": "unique",
       "level": 23,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -23396,6 +25058,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": ""
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -23519,6 +25189,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "flail",
+      "range": "reach",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -23666,6 +25344,14 @@
       "rarity": "uncommon",
       "level": 15,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "spear",
+      "range": "reach",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "libre",
@@ -23779,6 +25465,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "dart",
+      "range": "20",
+      "weight": "-",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -23974,6 +25668,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -24184,6 +25886,14 @@
       "rarity": "common",
       "level": 14,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24244,6 +25954,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "axe",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -24268,6 +25986,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "fire",
+         "dice": 2,
+         "die": "d8"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24311,6 +26037,14 @@
       "rarity": "common",
       "level": 14,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -24346,6 +26080,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "bow",
+      "range": "120",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24469,6 +26211,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24631,6 +26381,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bow",
+      "range": "60",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24673,6 +26431,14 @@
       "rarity": "common",
       "level": 5,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "10",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -24731,6 +26497,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "club",
+      "range": "reach",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24908,6 +26682,14 @@
       "rarity": "common",
       "level": 18,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -25092,6 +26874,14 @@
       "rarity": "common",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "positive",
+         "dice": 4,
+         "die": "d8"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25117,6 +26907,14 @@
       "rarity": "common",
       "level": 18,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25140,6 +26938,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "flail",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25251,6 +27057,14 @@
       "rarity": "uncommon",
       "level": 1,
       "weaponType": "advanced",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25313,6 +27127,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25561,6 +27383,14 @@
       "rarity": "common",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "cold",
+         "dice": 3,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25585,6 +27415,14 @@
       "rarity": "common",
       "level": 12,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 2,
+         "die": "d4"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25696,6 +27534,14 @@
       "rarity": "common",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "poison",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25739,6 +27585,14 @@
       "rarity": "common",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "acid",
+         "dice": 3,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25762,6 +27616,14 @@
       "rarity": "rare",
       "level": 14,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "spear",
+      "range": "20",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -25931,6 +27793,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -26047,6 +27917,14 @@
       "rarity": "uncommon",
       "level": 9,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -26121,6 +27999,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "slashing",
+         "dice": 0,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -26235,6 +28121,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -26277,6 +28171,14 @@
       "rarity": "common",
       "level": 14,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -26320,6 +28222,14 @@
       "rarity": "uncommon",
       "level": 13,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "spear",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -26418,6 +28328,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -26461,6 +28379,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "dart",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -26561,6 +28487,14 @@
       "rarity": "common",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "mental",
+         "dice": 3,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -26857,6 +28791,14 @@
       "rarity": "common",
       "level": 14,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27035,6 +28977,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "bow",
+      "range": "30",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27376,6 +29326,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "flail",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27477,6 +29435,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27535,6 +29501,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d12"
+      },
+      "group": "hammer",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -27599,6 +29573,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "simple",
+      "damage": {
+         "type": "negative",
+         "dice": 2,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -27764,6 +29746,14 @@
       "rarity": "common",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "fire",
+         "dice": 3,
+         "die": "d8"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27876,6 +29866,14 @@
       "rarity": "rare",
       "level": 20,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27954,6 +29952,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28073,6 +30079,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "shield",
+      "range": "melee",
+      "weight": "-",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -28126,6 +30140,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "cold",
+         "dice": 2,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28469,6 +30491,14 @@
       "rarity": "unique",
       "level": 25,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d12"
+      },
+      "group": "axe",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "libre",
@@ -28637,6 +30667,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "flail",
+      "range": "reach",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28679,6 +30717,14 @@
       "rarity": "uncommon",
       "level": 16,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -28811,6 +30857,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28852,6 +30906,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -28891,6 +30953,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -29031,6 +31101,14 @@
       "rarity": "common",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -29172,6 +31250,14 @@
       "rarity": "rare",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -29195,6 +31281,14 @@
       "rarity": "common",
       "level": 20,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -29386,6 +31480,14 @@
       "rarity": "common",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "-",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -29424,6 +31526,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sling",
+      "range": "50",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -29447,6 +31557,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -29470,6 +31588,14 @@
       "rarity": "common",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -29546,6 +31672,14 @@
       "rarity": "common",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d12"
+      },
+      "group": "axe",
+      "range": "melee",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -29733,6 +31867,14 @@
       "rarity": "rare",
       "level": 3,
       "weaponType": "martial",
+      "damage": {
+         "type": "fire",
+         "dice": 2,
+         "die": ""
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -29943,6 +32085,14 @@
       "rarity": "rare",
       "level": 14,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "dart",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -30001,6 +32151,14 @@
       "rarity": "common",
       "level": 12,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30088,6 +32246,14 @@
       "rarity": "common",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "electricity",
+         "dice": 3,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30256,6 +32422,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "10",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30363,6 +32537,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "hammer",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30408,6 +32590,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "flail",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30461,6 +32651,14 @@
       "rarity": "rare",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "fire",
+         "dice": 4,
+         "die": ""
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -30579,6 +32777,14 @@
       "rarity": "common",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "electricity",
+         "dice": 4,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30662,6 +32868,14 @@
       "rarity": "uncommon",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "spear",
+      "range": "20",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -30739,6 +32953,14 @@
       "rarity": "uncommon",
       "level": 11,
       "weaponType": "simple",
+      "damage": {
+         "type": "good",
+         "dice": 2,
+         "die": "d4"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -30849,6 +33071,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30870,6 +33100,14 @@
       "rarity": "uncommon",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d10"
+      },
+      "group": "polearm",
+      "range": "",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30894,6 +33132,14 @@
       "rarity": "common",
       "level": 17,
       "weaponType": "martial",
+      "damage": {
+         "type": "poison",
+         "dice": 4,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30955,6 +33201,14 @@
       "rarity": "common",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -31271,6 +33525,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "flail",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -31336,6 +33598,14 @@
       "rarity": "unique",
       "level": 15,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d12"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -31379,6 +33649,14 @@
       "rarity": "uncommon",
       "level": 11,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "club",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -31401,6 +33679,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -31489,6 +33775,14 @@
       "rarity": "uncommon",
       "level": 6,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "knife",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -31529,6 +33823,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "spear",
+      "range": "20",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -31555,6 +33857,14 @@
       "rarity": "unique",
       "level": 26,
       "weaponType": "advanced",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "axe",
+      "range": "",
+      "weight": "3",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -31741,6 +34051,14 @@
       "rarity": "uncommon",
       "level": 6,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -31866,6 +34184,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -31890,6 +34216,14 @@
       "rarity": "common",
       "level": 11,
       "weaponType": "simple",
+      "damage": {
+         "type": "negative",
+         "dice": 3,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -32025,6 +34359,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -32083,6 +34425,14 @@
       "rarity": "uncommon",
       "level": 11,
       "weaponType": "simple",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "dart",
+      "range": "30",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -32336,6 +34686,14 @@
       "rarity": "common",
       "level": 7,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -32358,6 +34716,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "club",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -32615,6 +34981,14 @@
       "rarity": "uncommon",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "acid",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -32716,6 +35090,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "polearm",
+      "range": "reach",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -32740,6 +35122,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "brawling",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -32870,6 +35260,14 @@
       "rarity": "common",
       "level": 9,
       "weaponType": "martial",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -33033,6 +35431,14 @@
       "rarity": "uncommon",
       "level": 12,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -33077,6 +35483,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "brawling",
+      "range": "",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "libre",
@@ -33098,6 +35512,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bow",
+      "range": "100",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -33172,6 +35594,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "sword",
+      "range": "melee",
+      "weight": "-",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -33320,6 +35750,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -33503,6 +35941,14 @@
       "rarity": "common",
       "level": 10,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -33652,6 +36098,14 @@
       "rarity": "uncommon",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "fire",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -33756,6 +36210,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "flail",
+      "range": "",
+      "weight": "2",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -33814,6 +36276,14 @@
       "rarity": "common",
       "level": 4,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -34117,6 +36587,14 @@
       "rarity": "common",
       "level": 1,
       "weaponType": "martial",
+      "damage": {
+         "type": "fire",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "bomb",
+      "range": "20",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -34199,6 +36677,14 @@
       "rarity": "common",
       "level": 12,
       "weaponType": "simple",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "club",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -34241,6 +36727,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "simple",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d4"
+      },
+      "group": "knife",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -34571,6 +37065,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "bludgeoning",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "pick",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "libre",
@@ -34679,6 +37181,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "knife",
+      "range": "melee",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -34776,6 +37286,14 @@
       "rarity": "common",
       "level": 0,
       "weaponType": "advanced",
+      "damage": {
+         "type": "piercing",
+         "dice": 1,
+         "die": "d6"
+      },
+      "group": "bow",
+      "range": "60",
+      "weight": "L",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -34812,6 +37330,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "flail",
+      "range": "melee",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -34832,6 +37358,14 @@
       "rarity": "uncommon",
       "level": 0,
       "weaponType": "martial",
+      "damage": {
+         "type": "slashing",
+         "dice": 1,
+         "die": "d8"
+      },
+      "group": "sword",
+      "range": "",
+      "weight": "1",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
