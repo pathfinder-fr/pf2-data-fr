@@ -166,6 +166,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 8,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -285,6 +287,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "libre",
@@ -421,6 +425,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -445,6 +451,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 6,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -619,6 +627,8 @@
          "versatile-s"
       ],
       "rarity": "uncommon",
+      "level": 5,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -678,6 +688,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -701,6 +713,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -799,6 +813,8 @@
          "two-hand-d10"
       ],
       "rarity": "unique",
+      "level": 18,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -820,6 +836,8 @@
          "two-hand-d8"
       ],
       "rarity": "uncommon",
+      "level": 20,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -1040,6 +1058,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -1157,6 +1177,8 @@
          "propulsive"
       ],
       "rarity": "common",
+      "level": 5,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -1284,6 +1306,8 @@
          "teleportation"
       ],
       "rarity": "uncommon",
+      "level": 8,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -1421,6 +1445,8 @@
          "thrown-10"
       ],
       "rarity": "unique",
+      "level": 23,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -1577,6 +1603,8 @@
          "thrown-20"
       ],
       "rarity": "uncommon",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -1826,6 +1854,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 4,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -1865,6 +1895,8 @@
          "thrown-20"
       ],
       "rarity": "uncommon",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -1941,6 +1973,8 @@
          "fatal-d12"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -2128,6 +2162,8 @@
          "magical"
       ],
       "rarity": "uncommon",
+      "level": 12,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -2381,6 +2417,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -2707,6 +2745,8 @@
          "versatile-s"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -2889,6 +2929,8 @@
          "consumable"
       ],
       "rarity": "common",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -3038,6 +3080,8 @@
          "versatile-p"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -3250,6 +3294,8 @@
       "price": "3 gp",
       "traits": [],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -3472,6 +3518,8 @@
          "twin"
       ],
       "rarity": "unique",
+      "level": 5,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -3490,6 +3538,8 @@
          "fatal-d10"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -3511,6 +3561,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -3529,6 +3581,8 @@
          "two-hand-d12"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -3679,6 +3733,8 @@
          "two-hand-d8"
       ],
       "rarity": "rare",
+      "level": 16,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -3755,6 +3811,8 @@
          "tengu"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -3814,6 +3872,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 10,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -3966,6 +4026,8 @@
          "monk"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -4006,6 +4068,8 @@
          "two-hand-d8"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -4205,6 +4269,8 @@
          "twin"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -4268,6 +4334,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 14,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -4337,6 +4405,8 @@
          "versatile-s"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -4418,6 +4488,8 @@
          "thrown-10"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -4514,6 +4586,8 @@
          "versatile-p"
       ],
       "rarity": "common",
+      "level": 16,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -4575,6 +4649,8 @@
          "sweep"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -4695,6 +4771,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 1,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -4753,6 +4831,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 8,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -4805,6 +4885,8 @@
          "sweep"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -5160,6 +5242,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -5182,6 +5266,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -5544,6 +5630,8 @@
          "shove"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -5784,6 +5872,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -5879,6 +5969,8 @@
          "shove"
       ],
       "rarity": "rare",
+      "level": 20,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -5921,6 +6013,8 @@
          "versatile-s"
       ],
       "rarity": "rare",
+      "level": 15,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -5961,6 +6055,8 @@
          "magical"
       ],
       "rarity": "common",
+      "level": 5,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -5982,6 +6078,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 10,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -6232,6 +6330,8 @@
          "consumable"
       ],
       "rarity": "uncommon",
+      "level": 17,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -6251,6 +6351,8 @@
          "splash"
       ],
       "rarity": "uncommon",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -6660,6 +6762,8 @@
          "consumable"
       ],
       "rarity": "common",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -6788,6 +6892,8 @@
          "versatile-s"
       ],
       "rarity": "rare",
+      "level": 19,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -6997,6 +7103,8 @@
       "price": "250",
       "traits": [],
       "rarity": "rare",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -7056,6 +7164,8 @@
          "thrown-20"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -7308,6 +7418,8 @@
          "magical"
       ],
       "rarity": "rare",
+      "level": 1,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -7406,6 +7518,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 12,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -7425,6 +7539,8 @@
          "propulsive"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -7465,6 +7581,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 9,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -7507,6 +7625,8 @@
          "splash"
       ],
       "rarity": "uncommon",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -7585,6 +7705,8 @@
          "versatile-s"
       ],
       "rarity": "uncommon",
+      "level": 5,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -7697,6 +7819,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 10,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -7758,6 +7882,8 @@
          "two-hand-d8"
       ],
       "rarity": "uncommon",
+      "level": 12,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -7956,6 +8082,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8111,6 +8239,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8166,6 +8296,8 @@
          "shove"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -8187,6 +8319,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 10,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8287,6 +8421,8 @@
          "versatile-s"
       ],
       "rarity": "unique",
+      "level": 8,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -8321,6 +8457,8 @@
          "thrown-20"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -8366,6 +8504,8 @@
          "unarmed"
       ],
       "rarity": "common",
+      "level": 2,
+      "weaponType": "unarmed",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8421,6 +8561,8 @@
          "nonlethal"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8462,6 +8604,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 12,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8480,6 +8624,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -8552,6 +8698,8 @@
          "reach"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -8572,6 +8720,8 @@
          "monk"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -8628,6 +8778,8 @@
          "thrown-20"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -8709,6 +8861,8 @@
          "trip"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8765,6 +8919,8 @@
          "versatile-p"
       ],
       "rarity": "common",
+      "level": 13,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9045,6 +9201,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 14,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9134,6 +9292,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9231,6 +9391,8 @@
          "trip"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -9377,6 +9539,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 10,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9549,6 +9713,8 @@
          "thrown-10"
       ],
       "rarity": "uncommon",
+      "level": 1,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -9583,6 +9749,8 @@
       "price": "3",
       "traits": [],
       "rarity": "rare",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -9710,6 +9878,8 @@
          "sweep"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -9763,6 +9933,8 @@
          "two-hand-d8"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9783,6 +9955,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -9822,6 +9996,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 14,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9965,6 +10141,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -10010,6 +10188,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -10049,6 +10229,8 @@
          "free-hand"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -10093,6 +10275,8 @@
          "reach"
       ],
       "rarity": "uncommon",
+      "level": 14,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -10132,6 +10316,8 @@
          "sweep"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -10303,6 +10489,8 @@
          "thrown-30"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -10325,6 +10513,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -10716,6 +10906,8 @@
          "consumable"
       ],
       "rarity": "uncommon",
+      "level": 3,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -10924,6 +11116,8 @@
          "versatile-p"
       ],
       "rarity": "unique",
+      "level": 6,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -10966,6 +11160,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 8,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -11051,6 +11247,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -11131,6 +11329,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 18,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -11233,6 +11433,8 @@
          "transmutation"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -11254,6 +11456,8 @@
          "two-hand-d8"
       ],
       "rarity": "uncommon",
+      "level": 12,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -11341,6 +11545,8 @@
          "monk"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -11416,6 +11622,8 @@
          "thrown-10"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -11434,6 +11642,8 @@
          "versatile-p"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -11493,6 +11703,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -11694,6 +11906,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -11876,6 +12090,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12033,6 +12249,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12265,6 +12483,8 @@
          "volley-30"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12285,6 +12505,8 @@
          "two-hand-d12"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12327,6 +12549,8 @@
          "thrown-10"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -12347,6 +12571,8 @@
          "thrown-20"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12368,6 +12594,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 14,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12462,6 +12690,8 @@
          "versatile-s"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -12500,6 +12730,8 @@
          "versatile-p"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12576,6 +12808,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12804,6 +13038,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12877,6 +13113,8 @@
          "intelligent"
       ],
       "rarity": "unique",
+      "level": 20,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -12896,6 +13134,8 @@
          "sweep"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -12999,6 +13239,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 14,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13041,6 +13283,8 @@
          "versatile-p"
       ],
       "rarity": "rare",
+      "level": 5,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13117,6 +13361,8 @@
          "reach"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -13236,6 +13482,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13351,6 +13599,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13372,6 +13622,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 12,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13846,6 +14098,8 @@
          "nonlethal"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13946,6 +14200,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -14019,6 +14275,8 @@
          "reach"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "libre",
@@ -14578,6 +14836,8 @@
          "twin"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -14653,6 +14913,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 17,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -14672,6 +14934,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 10,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -14778,6 +15042,8 @@
       "price": "8 gp",
       "traits": [],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "libre",
@@ -14800,6 +15066,8 @@
          "twin"
       ],
       "rarity": "common",
+      "level": 4,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -14924,6 +15192,8 @@
          "magical"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -14943,6 +15213,8 @@
          "fatal-d8"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -15025,6 +15297,8 @@
          "thrown-20"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -15046,6 +15320,8 @@
          "two-hand-d8"
       ],
       "rarity": "uncommon",
+      "level": 16,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -15504,6 +15780,8 @@
          "sweep"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -15586,6 +15864,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -15774,6 +16054,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 10,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -15847,6 +16129,8 @@
          "consumable"
       ],
       "rarity": "common",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -15881,6 +16165,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16034,6 +16320,8 @@
          "nonlethal"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16114,6 +16402,8 @@
          "trip"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -16378,6 +16668,8 @@
          "thrown-20"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16494,6 +16786,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 14,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -16531,6 +16825,8 @@
          "propulsive"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16632,6 +16928,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 7,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -16650,6 +16948,8 @@
          "versatile-p"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16671,6 +16971,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16713,6 +17015,8 @@
          "unarmed"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "unarmed",
       "translations": {
          "fr": {
             "status": "libre",
@@ -16773,6 +17077,8 @@
          "reach"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -16940,6 +17246,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 18,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -16981,6 +17289,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 4,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17247,6 +17557,8 @@
          "finesse"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -17366,6 +17678,8 @@
          "versatile-p"
       ],
       "rarity": "unique",
+      "level": 22,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17408,6 +17722,8 @@
          "two-hand-d8"
       ],
       "rarity": "uncommon",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -17481,6 +17797,8 @@
          "magical"
       ],
       "rarity": "uncommon",
+      "level": 19,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17632,6 +17950,8 @@
          "consumable"
       ],
       "rarity": "uncommon",
+      "level": 1,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -17719,6 +18039,8 @@
          "two-hand-d8"
       ],
       "rarity": "uncommon",
+      "level": 1,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17814,6 +18136,8 @@
          "sweep"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17835,6 +18159,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 16,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17872,6 +18198,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 4,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17935,6 +18263,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17955,6 +18285,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -18232,6 +18564,8 @@
          "sweep"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18252,6 +18586,8 @@
          "shove"
       ],
       "rarity": "common",
+      "level": 13,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18339,6 +18675,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 8,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18489,6 +18827,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -18568,6 +18908,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18660,6 +19002,8 @@
       "price": "3 gp",
       "traits": [],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18718,6 +19062,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18815,6 +19161,8 @@
          "free-hand"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -18909,6 +19257,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18989,6 +19339,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19063,6 +19415,8 @@
          "thrown-20"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19262,6 +19616,8 @@
          "versatile-s"
       ],
       "rarity": "rare",
+      "level": 20,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -19300,6 +19656,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19339,6 +19697,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19437,6 +19797,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 10,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19654,6 +20016,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 20,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -19691,6 +20055,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 14,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19712,6 +20078,8 @@
          "splash"
       ],
       "rarity": "uncommon",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19790,6 +20158,8 @@
          "magical"
       ],
       "rarity": "common",
+      "level": 14,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19856,6 +20226,8 @@
       "price": "",
       "traits": [],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -20004,6 +20376,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 13,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -20028,6 +20402,8 @@
          "versatile-s"
       ],
       "rarity": "common",
+      "level": 5,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -20362,6 +20738,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 10,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -20416,6 +20794,8 @@
          "reach"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -20625,6 +21005,8 @@
          "splash"
       ],
       "rarity": "uncommon",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -20901,6 +21283,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 8,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -20993,6 +21377,8 @@
          "volley-30"
       ],
       "rarity": "common",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -21198,6 +21584,8 @@
          "splash"
       ],
       "rarity": "uncommon",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -21275,6 +21663,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -21293,6 +21683,8 @@
          "thrown-10"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -21412,6 +21804,8 @@
          "trip"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -21456,6 +21850,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -22047,6 +22443,8 @@
          "volley-30"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -22089,6 +22487,8 @@
          "versatile-s"
       ],
       "rarity": "uncommon",
+      "level": 8,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -22107,6 +22507,8 @@
          "attached"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -22126,6 +22528,8 @@
          "versatile-s"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -22147,6 +22551,8 @@
          "two-hand-d8"
       ],
       "rarity": "uncommon",
+      "level": 20,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -22288,6 +22694,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -22327,6 +22735,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -22442,6 +22852,8 @@
          "propulsive"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -22733,6 +23145,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -22844,6 +23258,8 @@
          "two-hand-d12"
       ],
       "rarity": "unique",
+      "level": 23,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -22978,6 +23394,8 @@
          "consumable"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -23099,6 +23517,8 @@
          "trip"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -23244,6 +23664,8 @@
          "reach"
       ],
       "rarity": "uncommon",
+      "level": 15,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -23355,6 +23777,8 @@
          "thrown-20"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -23548,6 +23972,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -23756,6 +24182,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 14,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -23814,6 +24242,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -23836,6 +24266,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -23877,6 +24309,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 14,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -23910,6 +24344,8 @@
       "price": "4 gp",
       "traits": [],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24031,6 +24467,8 @@
          "sweep"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24191,6 +24629,8 @@
          "deadly-d10"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24231,6 +24671,8 @@
          "versatile-s"
       ],
       "rarity": "common",
+      "level": 5,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -24287,6 +24729,8 @@
          "trip"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24462,6 +24906,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 18,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -24644,6 +25090,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24667,6 +25115,8 @@
          "magical"
       ],
       "rarity": "common",
+      "level": 18,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24688,6 +25138,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24797,6 +25249,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 1,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24857,6 +25311,8 @@
          "versatile-s"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25103,6 +25559,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25125,6 +25583,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 12,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25234,6 +25694,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25275,6 +25737,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25296,6 +25760,8 @@
          "thrown-20"
       ],
       "rarity": "rare",
+      "level": 14,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -25463,6 +25929,8 @@
          "versatile-p"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -25577,6 +26045,8 @@
          "two-hand-d12"
       ],
       "rarity": "uncommon",
+      "level": 9,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -25649,6 +26119,8 @@
          "two-hand-d10"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25761,6 +26233,8 @@
          "versatile-b"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -25801,6 +26275,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 14,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25842,6 +26318,8 @@
          "transmutation"
       ],
       "rarity": "uncommon",
+      "level": 13,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25938,6 +26416,8 @@
          "shove"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -25979,6 +26459,8 @@
          "thrown-20"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "libre",
@@ -26077,6 +26559,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -26371,6 +26855,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 14,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -26547,6 +27033,8 @@
          "alchemical"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -26886,6 +27374,8 @@
          "trip"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -26985,6 +27475,8 @@
          "forceful"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27041,6 +27533,8 @@
          "shove"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -27103,6 +27597,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -27266,6 +27762,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27376,6 +27874,8 @@
          "two-hand-d8"
       ],
       "rarity": "rare",
+      "level": 20,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27452,6 +27952,8 @@
          "finesse"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27569,6 +28071,8 @@
          "attached"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -27620,6 +28124,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27961,6 +28467,8 @@
          "sweep"
       ],
       "rarity": "unique",
+      "level": 25,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -28127,6 +28635,8 @@
          "reach"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28167,6 +28677,8 @@
          "two-hand-d8"
       ],
       "rarity": "uncommon",
+      "level": 16,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -28297,6 +28809,8 @@
          "goblin"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28336,6 +28850,8 @@
          "magical"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -28373,6 +28889,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28511,6 +29029,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28650,6 +29170,8 @@
          "versatile-s"
       ],
       "rarity": "rare",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28671,6 +29193,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 20,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -28860,6 +29384,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -28896,6 +29422,8 @@
          "tengu"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -28917,6 +29445,8 @@
          "two-hand-d10"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -28938,6 +29468,8 @@
          "versatile-p"
       ],
       "rarity": "common",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -29012,6 +29544,8 @@
          "sweep"
       ],
       "rarity": "common",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -29197,6 +29731,8 @@
       "price": "10",
       "traits": [],
       "rarity": "rare",
+      "level": 3,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -29405,6 +29941,8 @@
          "thrown-20"
       ],
       "rarity": "rare",
+      "level": 14,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -29461,6 +29999,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 12,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -29546,6 +30086,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -29712,6 +30254,8 @@
          "versatile-s"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -29817,6 +30361,8 @@
          "shove"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -29860,6 +30406,8 @@
          "twin"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -29911,6 +30459,8 @@
       "price": "2500",
       "traits": [],
       "rarity": "rare",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -30027,6 +30577,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30108,6 +30660,8 @@
          "thrown-20"
       ],
       "rarity": "uncommon",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -30183,6 +30737,8 @@
          "consumable"
       ],
       "rarity": "uncommon",
+      "level": 11,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -30291,6 +30847,8 @@
          "orc"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30310,6 +30868,8 @@
          "shove"
       ],
       "rarity": "uncommon",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30332,6 +30892,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 17,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30391,6 +30953,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30705,6 +31269,8 @@
          "trip"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -30768,6 +31334,8 @@
          "versatile-p"
       ],
       "rarity": "unique",
+      "level": 15,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30809,6 +31377,8 @@
          "nonlethal"
       ],
       "rarity": "uncommon",
+      "level": 11,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -30829,6 +31399,8 @@
          "finesse"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30915,6 +31487,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 6,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30953,6 +31527,8 @@
          "thrown-20"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -30977,6 +31553,8 @@
          "two-hand-d12"
       ],
       "rarity": "unique",
+      "level": 26,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -31161,6 +31739,8 @@
          "two-hand-d8"
       ],
       "rarity": "uncommon",
+      "level": 6,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -31284,6 +31864,8 @@
          "versatile-b"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -31306,6 +31888,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 11,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -31439,6 +32023,8 @@
          "twin"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -31495,6 +32081,8 @@
          "thrown-30"
       ],
       "rarity": "uncommon",
+      "level": 11,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -31746,6 +32334,8 @@
          "versatile-s"
       ],
       "rarity": "common",
+      "level": 7,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -31766,6 +32356,8 @@
          "thrown-30"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -32021,6 +32613,8 @@
          "modular-b-P-or-s"
       ],
       "rarity": "uncommon",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -32120,6 +32714,8 @@
          "reach"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -32142,6 +32738,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -32270,6 +32868,8 @@
          "versatile-s"
       ],
       "rarity": "common",
+      "level": 9,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -32431,6 +33031,8 @@
          "two-hand-d8"
       ],
       "rarity": "uncommon",
+      "level": 12,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "libre",
@@ -32473,6 +33075,8 @@
          "kobold"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "libre",
@@ -32492,6 +33096,8 @@
          "modular-b-P-or-s"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "libre",
@@ -32564,6 +33170,8 @@
          "twin"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -32710,6 +33318,8 @@
          "shove"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -32891,6 +33501,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 10,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -33038,6 +33650,8 @@
          "splash"
       ],
       "rarity": "uncommon",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -33140,6 +33754,8 @@
          "trip"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -33196,6 +33812,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 4,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -33497,6 +34115,8 @@
          "splash"
       ],
       "rarity": "common",
+      "level": 1,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -33577,6 +34197,8 @@
          "two-hand-d8"
       ],
       "rarity": "common",
+      "level": 12,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -33617,6 +34239,8 @@
          "trip"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "simple",
       "translations": {
          "fr": {
             "status": "officielle",
@@ -33945,6 +34569,8 @@
          "modular-b-P-or-s"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "libre",
@@ -34051,6 +34677,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -34146,6 +34774,8 @@
          "repeating"
       ],
       "rarity": "common",
+      "level": 0,
+      "weaponType": "advanced",
       "translations": {
          "fr": {
             "status": "aucune"
@@ -34180,6 +34810,8 @@
          "trip"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -34198,6 +34830,8 @@
          "disarm"
       ],
       "rarity": "uncommon",
+      "level": 0,
+      "weaponType": "martial",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
