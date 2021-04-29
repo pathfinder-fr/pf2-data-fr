@@ -204,6 +204,16 @@
       }
    },
    {
+      "_id": "0NRIP8cDv9Opl5Ls",
+      "name": "Fiendsbane Oath (Paladin)",
+      "description": "<p>You've sworn an oath to banish the corruption of fiends to the dark planes they call home. Add the following tenet to your champion's code after the other tenets: \"You must banish or slay fiends you come across as long as you have a reasonable chance of success; in the incredibly unlikely event you find a good fiend, you don't have to banish or kill it.\"</p>\n<p>Your @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Retributive Strike} gains a +4 circumstance bonus to damage against a fiend, or a +6 circumstance bonus if you have master proficiency with the weapon you used.</p>\n<p>You don't consider fiends to be legitimate authorities, even in nations ruled by fiends.</p>",
+      "translations": {
+         "fr": {
+            "status": "aucune"
+         }
+      }
+   },
+   {
       "_id": "0PcVi7eav6PMLOPl",
       "name": "Channeled Succor",
       "description": "<p>You can remove conditions with divine grace.</p>\n<p>You can sacrifice one @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal} spell you've prepared in your extra slots from healing font to cast one of the following spells instead: @Compendium[pf2e.spells-srd.OyFCwQuw8XRazsNr]{Remove Curse}, @Compendium[pf2e.spells-srd.RneiyehRO6f7LP44]{Remove Disease}, @Compendium[pf2e.spells-srd.BCuHKrDeJ4eq53M6]{Remove Paralysis}, or @Compendium[pf2e.spells-srd.SnaLVgxZ9ryUFmUr]{Restoration}. The spell is heightened to the same level as the heal spell you sacrificed.</p>",
@@ -342,18 +352,6 @@
             "status": "chang\u00e9",
             "name": "Frappe vindicative",
             "description": "p><strong> Pr\u00e9requis</strong> Je t\u2019attends</p>\n<p><strong> D\u00e9clencheur</strong> Une cr\u00e9ature \u00e0 port\u00e9e vous attaque et obtient un succ\u00e8s simple ou critique</p>\n<p><strong> Conditions</strong> Vous \u00eates sous l\u2019effet de Je t\u2019attends</p>\n<hr>\n<p> Quand vous \u00eates frapp\u00e9 par un ennemi, vous r\u00e9ciproquez. Vous faites une Frappe au corps \u00e0 corps contre la cr\u00e9ature qui a d\u00e9clench\u00e9 ce pouvoir. Cette Frappe n\u2019est pas prise en compte pour votre malus d\u2019attaques multiples et votre malus d\u2019attaques multiples ne s\u2019applique pas \u00e0 cette Frappe.</p>"
-         }
-      }
-   },
-   {
-      "_id": "0lZeJHgk4ASO0clU",
-      "name": "Dragonslayer Oath",
-      "description": "<p>You've sworn to slay evil dragons. Add the following tenet to your code after the others: \"You must slay evil dragons you encounter as long as you have a reasonable chance of success.</p>\n<p>Your Retributive Strike gains a +4 circumstance bonus to damage against an evil dragon, or +6 if you have master proficiency with the weapon you used.</p>\n<p>@Compendium[pf2e.feat-effects.TYQscYhECkvD0QGX]{Dragonslayer Oath (Paladin)}</p>\n<p>Your Glimpse of Redemption's resistance against damage from an evil dragon is 7 + your level.</p>\n<p>If you use Liberating Step triggered by an evil dragon, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.</p>\n<p>@Compendium[pf2e.feat-effects.iyONT1qgeRgoYHsZ]{Effect: Liberating Step (vs. Dragon)}</p>\n<p>You don't consider evil dragons to be legitimate authorities, even in nations they rule.</p>",
-      "translations": {
-         "fr": {
-            "status": "officielle",
-            "name": "Serment du pourfendeur de dragons",
-            "description": "<p>Vous avez fait le serment de pourfendre des dragons mal\u00e9fiques. Ajoutez le principe suivant \u00e0 votre code, \u00e0 la suite des autres : \u00ab Vous devez tuer les dragons mal\u00e9fiques que vous rencontrez si vous avez des chances raisonnables de l\u2019emporter. \u00bb</p>\n<p>Votre Frappe punitive b\u00e9n\u00e9ficie d\u2019un bonus de circonstances de +4 aux d\u00e9g\u00e2ts contre un dragon d\u2019alignement mauvais ou de +6 si vous \u00eates un ma\u00eetre avec l\u2019arme que vous utilisez.</p>\n<p>@Compendium[pf2e.feat-effects.TYQscYhECkvD0QGX]{Serment du Pourfendeur de dragons (Paladin)}</p>\n<p>La r\u00e9sistance contre les d\u00e9g\u00e2ts d\u2019un dragon d\u2019alignement mauvais que vous conf\u00e8re votre Lueur de r\u00e9demption s\u2019\u00e9l\u00e8ve \u00e0 7 + votre niveau. Si vous utilisez Pas lib\u00e9rateur lorsqu\u2019il est d\u00e9clench\u00e9 par un dragon d\u2019alignement mauvais, votre alli\u00e9 b\u00e9n\u00e9ficie d\u2019un bonus de circonstances de +4 aux tests conf\u00e9r\u00e9 par votre Pas lib\u00e9rateur et il peut ensuite Faire un pas deux fois.</p>\n<p>@Compendium[pf2e.feat-effects.iyONT1qgeRgoYHsZ]{Effet: Pas lib\u00e9rateur (contre les dragons)}</p>\n<p>Vous ne consid\u00e9rez pas les dragons d\u2019alignement mauvais comme des autorit\u00e9s l\u00e9gitimes, m\u00eame au sein des nations sur lesquelles ils r\u00e8gnent..</p>"
          }
       }
    },
@@ -504,10 +502,10 @@
    {
       "_id": "19OLlTrxvEtDAOHc",
       "name": "Aggressive Block",
-      "description": "<p><strong>Trigger</strong> You use the Shield Block reaction, and the opponent that triggered Shield Block is adjacent to you and is your size or smaller.</p>\n<hr />\n<p>You push back as you block the attack, knocking your foe away or off balance.</p>\n<p>You use your shield to push the triggering creature, either automatically @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shoving} it 5 feet or causing it to become @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} until the start of your next turn.</p>\n<p>The triggering creature chooses whether to be moved or become flat-footed. If it chooses to be moved, you choose the direction. If the Shove would cause it to hit a solid object, enter a square of difficult terrain, or enter another creature's space, it must become flat-footed instead of being moved.</p>",
+      "description": "<p><strong>Trigger</strong> You use the Shield Block reaction, and the opponent that triggered Shield Block is adjacent to you and is your size or smaller.</p>\n<hr />\n<p>You push back as you block, knocking your foe away or off balance.</p>\n<p>You use your shield to push the triggering creature, either automatically @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shoving} it 5 feet or causing it to become @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} until the start of your next turn.</p>\n<p>The triggering creature chooses whether to be moved or become flat-footed. If it chooses to be moved, you choose the direction. If the Shove would cause it to hit a solid object, enter a square of difficult terrain, or enter another creature's space, it must become flat-footed instead of being moved.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Blocage agressif",
             "description": "<p><strong>D\u00e9clencheur</strong> Vous effectuez la r\u00e9action Blocage au bouclier et l\u2019adversaire qui l\u2019a d\u00e9clench\u00e9e est adjacent \u00e0 vous et sa taille est \u00e9gale ou inf\u00e9rieure \u00e0 la v\u00f4tre.</p>\n<hr />\n<p>Vous bloquez l\u2019attaque en repoussant votre adversaire ou en le d\u00e9s\u00e9quilibrant.</p>\n<p>Vous utilisez votre bouclier pour repousser la cr\u00e9ature \u00e0 l\u2019origine du d\u00e9clenchement, soit en la @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Poussant} automatiquement de 1,50 m ou en la prenant au d\u00e9pourvu jusqu\u2019au d\u00e9but de votre prochain tour.</p>\n<p>La cr\u00e9ature \u00e0 l\u2019origine du d\u00e9clenchement choisit si elle est d\u00e9plac\u00e9e ou @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au d\u00e9pourvu}. Si elle choisit d\u2019\u00eatre d\u00e9plac\u00e9e, c\u2019est vous qui d\u00e9terminez la direction de son d\u00e9placement. Si la cr\u00e9ature Pouss\u00e9e cogne un objet solide, entre dans une case de terrain difficile ou dans l\u2019espace d\u2019une autre cr\u00e9ature \u00e0 cause de ce d\u00e9placement, elle est forc\u00e9ment prise au d\u00e9pourvu et ne peut pas \u00eatre d\u00e9plac\u00e9e.</p>"
          }
@@ -1152,7 +1150,7 @@
    {
       "_id": "2OYJOFaEkhc8dFbl",
       "name": "Knockback Strike",
-      "description": "<p>You focus your strength into a blow powerful enough to push an enemy away from you. Make an unarmed Strike. If you hit, attempt an Athletics check to Shove the target. This attack uses the same multiple attack penalty as your Strike, and doesn't count toward your multiple attack penalty.</p>",
+      "description": "<p>You focus your strength into a blow powerful enough to push an enemy away from you. Make an unarmed Strike. If you hit, attempt an Athletics check to @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove} the target. This attack uses the same multiple attack penalty as your Strike, and doesn't count toward your multiple attack penalty.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -1440,10 +1438,10 @@
    {
       "_id": "2tUdsoPEnW9yS8so",
       "name": "Tangled Forest Stance",
-      "description": "<p><strong>Requirements</strong> You are unarmored</p>\n<hr />\n<p>You extend your arms like gnarled branches to interfere with your foes' movements. You can make lashing branch unarmed attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits. While you're in Tangled Forest Stance and can act, every enemy in your reach that tries to move away from you must succeed at a Reflex save, Acrobatics check, or Athletics check against your class DC or be immobilized for that action. If you prefer, you can allow the enemy to move.</p>\n<p>@Compendium[pf2e.feat-effects.PMHwCrnh9W4sMu5b]{Stance: Tangled Forest Stance}</p>",
+      "description": "<p><strong>Requirements</strong> You are unarmored</p>\n<hr />\n<p>You extend your arms like gnarled branches to interfere with your foes' movements. You can make lashing branch unarmed attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits.</p>\n<p>While you're in Tangled Forest Stance and can act, every enemy in your reach that tries to move away from you must succeed at a Reflex save, Acrobatics check, or Athletics check against your class DC or be @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} for that action. If you prefer, you can allow the enemy to move.</p>\n<p>@Compendium[pf2e.feat-effects.PMHwCrnh9W4sMu5b]{Stance: Tangled Forest Stance}</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Posture de la for\u00eat enchev\u00eatr\u00e9e",
             "description": "<p><strong>D\u00e9clencheur</strong> Vous ne portez aucune armure.</p>\n<hr />\n<p>Vous tendez vos bras, telles des branches noueuses, pour g\u00eaner les d\u00e9placements de vos adversaires. Vous pouvez faire des attaques \u00e0 mains nues de branche cinglante. Ces attaques infligent 1d8 d\u00e9g\u00e2ts tranchants ; elles font partie du groupe pugilat et poss\u00e8dent les traits agile, finesse, mains nues et non l\u00e9tal. Tant que vous gardez cette posture et que vous pouvez agir, chaque ennemi dans votre zone d\u2019allonge qui tente de s\u2019\u00e9loigner doit r\u00e9ussir un jet de R\u00e9flexes, un test d\u2019Acrobaties ou un test d\u2019Athl\u00e9tisme contre votre DD de classe ou \u00eatre immobilis\u00e9 \u00e0 cause de cette action. Vous pouvez \u00e9galement laisser l\u2019ennemi se d\u00e9placer si vous pr\u00e9f\u00e9rez.</p>\n<p>@Compendium[pf2e.feat-effects.PMHwCrnh9W4sMu5b]{Posture: Posture de la for\u00eat enchev\u00eatr\u00e9e}</p>"
          }
@@ -2292,10 +2290,10 @@
    {
       "_id": "4f65nrWVzTG8Njj8",
       "name": "Unbalancing Blow",
-      "description": "<p>Interweaving your most powerful attacks in a graceful fiow, you temporarily unbalance your foes. Whenever your Strike is a critical hit and deals damage, the target is flat-footed against your attacks until the end of your next turn.</p>",
+      "description": "<p>Interweaving attacks in a graceful fiow, you unbalance your foes. Whenever your Strike is a critical hit and deals damage, the target is flat-footed against your attacks until the end of your next turn.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Coup d\u00e9s\u00e9quilibrant",
             "description": "<p>Vous encha\u00eenez vos attaques les plus puissantes avec gr\u00e2ce et d\u00e9sar\u00e7onnez temporairement vos adversaires.</p>\n<p>\u00c0 chaque fois que votre Frappe est un coup critique qui inflige des d\u00e9g\u00e2ts, la cible se trouve Prise au d\u00e9pourvu face \u00e0 vos attaques jusqu\u2019\u00e0 la fin de votre prochain tour.</p>"
          }
@@ -2448,7 +2446,7 @@
    {
       "_id": "54JzsYCx3uoj7Wlz",
       "name": "Monstrosity Shape",
-      "description": "<p>You can transform into a powerful magical creature. Add the purple worm and sea serpent forms listed in monstrosity form to your wild shape list. If you have Soaring Shape, add the phoenix form listed in aerial form to your wild shape list.</p>",
+      "description": "<p>You can transform into a powerful magical creature. Add the purple worm and sea serpent forms listed in monstrosity form to your wild shape list. If you have Soaring Shape, also add the phoenix form to your wild shape list.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -3000,7 +2998,7 @@
    {
       "_id": "62glnJI2o0KnHULB",
       "name": "Triangle Shot",
-      "description": "<p><strong>Requirements</strong> You are in Monastic Archer Stance and wielding <br />a bow usable with that stance.</p>\n<hr />\n<p>You string three arrows to your bow and fire them all at once. Make three ranged @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strikes} against a single target with the required weapon, each using your current multiple attack penalty, and you take an additional -2 penalty. This counts as two attacks when calculating your multiple attack penalty, and you combine the attacks' damage for the purpose of resistances and weaknesses.</p>\n<p>Your @Compendium[pf2e.feats-srd.8bMmGBO6gsMfWZk3]{Stunning Fist} benefit applies to Triangle Shot, even though it isn't a @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Flurry of Blows}. If all three Strikes hit, the target takes [[/r 3d6 #persistent bleed]] persistent bleed damage.</p>",
+      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.YG2RxXE9SMfwo6wP]{Monastic Archer Stance} and wielding a bow usable with that stance.</p>\n<hr />\n<p>You string three arrows to your bow and fire them all at once. Make three ranged Strikes against a single target with the required weapon, each using your current multiple attack penalty, and you take an additional -2 penalty. This counts as two attacks when calculating your multiple attack penalty, and you combine the attacks' damage for the purpose of resistances and weaknesses.</p>\n<p>Your @Compendium[pf2e.feats-srd.8bMmGBO6gsMfWZk3]{Stunning Fist} benefit applies to Triangle Shot, even though it isn't a @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Flurry of Blows}. If all three Strikes hit, the target takes [[/r 3d6 #persistent bleed]] persistent bleed damage.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -3048,7 +3046,7 @@
    {
       "_id": "65gjc5KE4ZRoocbi",
       "name": "Abundant Step",
-      "description": "<p>You can teleport yourself a short distance. You gain the abundant step ki spell. Increase the number of Focus Points in your focus pool by 1.</p>",
+      "description": "<p>You can teleport yourself a short distance. You gain the @Compendium[pf2e.spells-srd.Az3PmWnlWSb5ELX9]{Abundant Step} ki spell. Increase the number of Focus Points in your focus pool by 1.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -3084,7 +3082,7 @@
    {
       "_id": "6AXAJuMEMpxU27PJ",
       "name": "Dispelling Slice",
-      "description": "<p>Your sneak attack slices through the threads binding magic to a target. Make a Strike against a flat-footed creature (your choice). If your Strike deals sneak attack damage, you attempt to counteract a single spell active on the target. Your counteract level is half your level (rounded up), and your counteract check modifier is equal to your class DC - 10.</p>",
+      "description": "<p>Your sneak attack slices through the threads binding magic to a target. Make a Strike against a flat-footed creature. If your Strike deals sneak attack damage, you attempt to counteract a single spell active on the target (your choice). Your counteract level is equal to half your level (rounded up), and your counteract check modifier is equal to your class DC \u2013 10.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -3180,7 +3178,7 @@
    {
       "_id": "6J2ZSGNsXPKPcJGV",
       "name": "Tiger Slash",
-      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.VCjAlOvjNvFJOsG5]{Tiger Stance}</p>\n<hr />\n<p>You make a fierce swipe with both hands. Make a tiger claw Strike. It deals two extra weapon damage dice (three extra dice if you're 14th level or higher), and you can push the target 5 feet away as if you had successfully Shoved them. If the attack is a critical success and deals damage, add your Strength modifier to the persistent bleed damage from your tiger claw.</p>",
+      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.VCjAlOvjNvFJOsG5]{Tiger Stance}</p>\n<hr />\n<p>You make a fierce swipe with both hands. Make a tiger claw Strike. It deals two extra weapon damage dice (three extra dice if you're 14th level or higher), and you can push the target 5 feet away as if you had successfully @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shoved} them.</p>\n<p>If the attack is a critical success and deals damage, add your Strength modifier to the persistent bleed damage from your tiger claw.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -3300,10 +3298,10 @@
    {
       "_id": "6cQSPqXoAO6oJl0i",
       "name": "Shooting Stars Stance",
-      "description": "<p>You enter a stance that lets you throw @Compendium[pf2e.equipment-srd.fjkwYZ0hRmBztwBG]{Shuriken} with lightning speed. While in this stance, you can use your monk feats or monk abilities that normally require unarmed attacks with shuriken instead.</p>",
+      "description": "<p>You enter a stance that lets you throw shuriken with lightning speed.</p>\n<p>While in this stance, you can use your monk feats or monk abilities that normally require unarmed attacks with shuriken instead.</p>\n<p>@Compendium[pf2e.feat-effects.RXbfq6oqzVnW6xOV]{Stance: Shooting Stars Stance}</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Posture des \u00e9toiles lanc\u00e9es",
             "description": "<p>Vous prenez une posture qui vous permet de lancer des @Compendium[pf2e.equipment-srd.fjkwYZ0hRmBztwBG]{Shuriken} avec la rapidit\u00e9 de l'\u00e9clair. Dans cette posture, vous pouvez utiliser vos dons de moine ou capacit\u00e9s de moine qui n\u00e9cessitent normalement des attaques \u00e0 mains nues avec les shuriken \u00e0 la place.</p>"
          }
@@ -3528,10 +3526,10 @@
    {
       "_id": "7FRYyKXDKjGoANYj",
       "name": "Stumbling Stance",
-      "description": "<p>You enter a seemingly unfocused stance that mimics the movements of the inebriated-bobbing, weaving, leaving false openings, and distracting your enemies from your true movements.</p>\n<p>While in this stance, you gain a +1 circumstance bonus to Deception checks to @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feint}. The only @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strikes} you can make are stumbling swing unarmed attacks. These deal [[/r 1d8 #bludgeoning]] bludgeoning damage; are in the brawling group; and have the agile, backstabber, finesse, nonlethal, and unarmed traits.</p>\n<p>If an enemy hits you with a melee Strike while in this stance, it becomes @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} against the next stumbling swing Strike you make against it before the end of your next turn.</p>\n<p>@Compendium[pf2e.feat-effects.BCyGDKcplkJiSAKJ]{Stance: Stumbling Stance}</p>",
+      "description": "<p>You enter a seemingly unfocused stance that mimics the movements of the inebriated-bobbing, weaving, leaving false openings, and distracting your enemies from your true movements.</p>\n<p>While in this stance, you gain a +1 circumstance bonus to Deception checks to @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feint}. The only Strikes you can make are stumbling swing unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the agile, backstabber, finesse, nonlethal, and unarmed traits.</p>\n<p>If an enemy hits you with a melee Strike while in this stance, it becomes @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} against the next stumbling swing Strike you make against it before the end of your next turn.</p>\n<p>@Compendium[pf2e.feat-effects.BCyGDKcplkJiSAKJ]{Stance: Stumbling Stance}</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Posture chancelante",
             "description": "<p>Vous adoptez une posture apparemment d\u00e9contract\u00e9e qui imite les mouvements de l'ivrogne, mouvante, laissant de fausses ouvertures et distrayant vos ennemis de vos mouvements v\u00e9ritables.</p>\n<p>Dans cette posture, vous obtenez un bonus de circonstances \u00e0 vos tests de Duperie pour @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinter}. Les seules @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} que vous pouvez porter sont des attaques \u00e0 mains nues de coups chancelants. Elles infligent [[/r 1d8 #contondants]] d\u00e9g\u00e2ts contondants ; sont dans le groupe pugilat ; Elles ont les traits \u00e0 mains nues, agile, finesse, non-l\u00e9tal et tra\u00eetre.</p>\n<p>Si un ennemi vous touche avec une Frappe au corps-\u00e0-corps alors que vous \u00eates dans cette posture, il devient @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au d\u00e9pourvu} contre le prochain coup chancelant que vous lui portez avant la fin de votre prochain tour.</p>\n<p>@Compendium[pf2e.feat-effects.BCyGDKcplkJiSAKJ]{Posture: Posture chancelante}</p>"
          }
@@ -3576,10 +3574,10 @@
    {
       "_id": "7IsHNime3WneCan6",
       "name": "Wall Run",
-      "description": "<p>You defy gravity, traversing vertical planes as easily as the ground. Stride up to your Speed. You must start your movement on a horizontal surface. During this movement, you can run up vertical surfaces, like walls, at your full Speed. If you end the Stride off the ground, you fall after taking your next action or when your turn ends, whichever comes first (though you can Grab an Edge, if applicable). If you have Water Step or a similar ability, Wall Run lets you run along flimsy vertical surfaces, as well as vertical liquids, such as a waterfall.</p>",
+      "description": "<p>You defy gravity, traversing vertical planes as easily as the ground. Stride up to your Speed. You must start your movement on a horizontal surface.</p>\n<p>During this movement, you can run up vertical surfaces, like walls, at your full Speed. If you end the Stride off the ground, you fall after taking your next action or when your turn ends, whichever comes first (though you can @Compendium[pf2e.actionspf2e.3yoajuKjwHZ9ApUY]{Grab an Edge}, if applicable).</p>\n<p>If you have @Compendium[pf2e.feats-srd.6gLWr3xghsHSFwxc]{Water Step} or a similar ability, Wall Run lets you run along flimsy vertical surfaces, as well as vertical liquids, such as a waterfall.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Course \u00e0 la verticale",
             "description": "<p>Vous d\u00e9fiez la gravit\u00e9 en franchissant avec aisance des surfaces verticales. Vous Marchez rapidement d\u2019une distance \u00e9gale \u00e0 votre Vitesse. Vous devez commencer votre d\u00e9placement sur une surface horizontale. Pendant ce d\u00e9placement, vous pouvez marcher sur des surfaces verticales, comme des murs, \u00e0 votre Vitesse normale. Si vous terminez votre d\u00e9placement ailleurs que sur le sol, vous chutez apr\u00e8s votre prochaine action ou quand votre tour se termine, selon ce qui se produit en premier (mais vous pouvez toujours Vous raccrocher in extremis, si la situation le permet). Si vous poss\u00e9dez Foul\u00e9e sur l\u2019eau ou un pouvoir similaire, la Course \u00e0 la verticale vous permet de fouler des surfaces verticales fragiles, ainsi que des surfaces liquides verticales, comme une chute d\u2019eau.</p>"
          }
@@ -4042,6 +4040,16 @@
       }
    },
    {
+      "_id": "85eUthbjE9TnF4fo",
+      "name": "Dragonslayer Oath (Redeemer)",
+      "description": "<p>You've sworn to slay evil dragons. Add the following tenet to your code after the others: \"You must slay evil dragons you encounter as long as you have a reasonable chance of success.</p>\n<p>Your @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{Glimpse of Redemption's} resistance against damage from an evil dragon is 7 + your level.</p>\n<p>You don't consider evil dragons to be legitimate authorities, even in nations they rule.</p>",
+      "translations": {
+         "fr": {
+            "status": "aucune"
+         }
+      }
+   },
+   {
       "_id": "8C9qo5LL9J0UTNGc",
       "name": "Courageous Onslaught",
       "description": "<p>You use your performance to orchestrate an onslaught against your enemies. If your next action is to cast the @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspire Courage} composition cantrip, one ally who gains a status bonus from the spell can immediately use a reaction to @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Stride} and then make a melee @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strike}.</p>",
@@ -4488,10 +4496,10 @@
    {
       "_id": "8sy3sHwOHS4ImwvJ",
       "name": "Dragon Stance",
-      "description": "<p><strong>Requirements</strong> You are unarmored</p>\n<hr />\n<p>You enter the stance of a dragon and make powerful leg strikes like a lashing dragon's tail. You can make dragon tail attacks that deal 1d10 bludgeoning damage. They are in the brawling group and have the backswing, nonlethal, and unarmed traits. While in Dragon Stance, you can ignore the first square of difficult terrain while Striding.</p>\n<p>@Compendium[pf2e.feat-effects.qUowHpn79Dpt1hVn]{Stance: Dragon Stance}</p>",
+      "description": "<p><strong>Requirements</strong> You are unarmored</p>\n<hr />\n<p>You enter the stance of a dragon and make powerful leg strikes like a lashing dragon's tail. You can make dragon tail attacks that deal 1d10 bludgeoning damage. They are in the brawling group and have the backswing, nonlethal, and unarmed traits.</p>\n<p>While in Dragon Stance, you can ignore the first square of difficult terrain while Striding.</p>\n<p>@Compendium[pf2e.feat-effects.qUowHpn79Dpt1hVn]{Stance: Dragon Stance}</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Posture du dragon",
             "description": "<p><strong>Conditions</strong> Vous ne portez aucune armure</p>\n<hr />\n<p>Vous prenez la posture d\u2019un dragon et faites de redoutables balayages avec vos jambes, tel un dragon avec sa queue. Vous pouvez faire des attaques de queue de dragon qui infligent 1d10 d\u00e9g\u00e2ts contondants. Ces attaques font partie du groupe pugilat et poss\u00e8dent les traits mains nues, non l\u00e9tal et prise d\u2019\u00e9lan. Tant que vous gardez cette posture, vous ignorez la premi\u00e8re case de terrain difficile lorsque vous Marchez rapidement.</p>\n<p>@Compendium[pf2e.feat-effects.qUowHpn79Dpt1hVn]{Posture: Posture du dragon}</p>"
          }
@@ -5340,10 +5348,10 @@
    {
       "_id": "ALbosSUygdq4T1Yk",
       "name": "Poison Weapon",
-      "description": "<p><strong>Requirements</strong> You are wielding a piercing or slashing weapon</p>\n<hr />\n<p>You apply a poison to the required weapon; if you're not holding a poison and have a free hand, you can Interact to draw a poison as part of this action. If your next attack with that weapon before the end of your next turn hits and deals damage, it applies the effects of the poison, provided that poison can be delivered by contact or injury. If you critically fail the attack roll, the poison is wasted as normal.</p>\n<p><strong>Special:</strong> During your daily preparations, you can prepare a number of simple injury poisons equal to your rogue level. These poisons deal 1d4 poison damage. Only you can apply these poisons properly, and they expire the next time you prepare.</p>",
+      "description": "<p><strong>Requirements</strong> You are wielding a piercing or slashing weapon</p>\n<hr />\n<p>You apply a poison to the required weapon; if you have a free hand, you can Interact to draw a poison as part of this action. If your next attack with that weapon before the end of your next turn hits and deals damage, it applies the effects of the poison, provided that poison can be delivered by contact or injury. If you critically fail the attack roll, the poison is wasted as normal.</p>\n<p><strong>Special:</strong> During your daily preparations, you can prepare a number of simple injury poisons equal to your rogue level. These poisons deal 1d4 poison damage. Only you can apply these poisons properly, and they expire the next time you prepare.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Arme empoisonn\u00e9e",
             "description": "<p><strong>Conditions</strong> Vous maniez une arme perforante ou tranchante.</p>\n<hr />\n<p>Vous appliquez un poison sur l\u2019arme requise. Si vous n\u2019avez pas de poison en main et avez une main libre, vous pouvez Interagir pour prendre un poison lors de cette action. Avant la fin de votre prochain tour, si la prochaine attaque que vous portez avec cette arme touche sa cible et inflige des d\u00e9g\u00e2ts, vous appliquez \u00e9galement les effets du poison, dans la mesure o\u00f9 celui\u2011ci peut \u00eatre administr\u00e9 par contact ou par blessure. Si vous obtenez un \u00e9chec critique au jet d\u2019attaque, le poison est g\u00e2ch\u00e9 suivant la r\u00e8gle normale.</p>\n<hr />\n<p><strong>Sp\u00e9cial</strong> Pendant vos pr\u00e9paratifs quotidiens, vous pouvez pr\u00e9parer un nombre de doses de poison simple administrable par blessure \u00e9gal \u00e0 votre niveau de roublard. Ces poisons infligent 1d4 d\u00e9g\u00e2ts de poison. Vous \u00eates le seul \u00e0 pouvoir appliquer ces doses de poison correctement et elles perdent leur efficacit\u00e9 lors de vos prochains pr\u00e9paratifs.</p>"
          }
@@ -5352,10 +5360,10 @@
    {
       "_id": "AN9jY1JVcU20Qdw6",
       "name": "Wolf Stance",
-      "description": "<p><strong>Requirements</strong> You are unarmored</p>\n<hr />\n<p>You enter the stance of a wolf, low to the ground with your hands held like fanged teeth. You can make wolf jaw unarmed attacks. These deal 1d8 piercing damage; are in the brawling group; and have the agile, backstabber, finesse, nonlethal, and unarmed traits. If you're flanking a target while in Wolf Stance, your wolf jaw unarmed attacks also gain the trip trait.</p>\n<p>@Compendium[pf2e.feat-effects.b2kWJuCPj1rDMdwz]{Stance: Wolf Stance}</p>",
+      "description": "<p><strong>Requirements</strong> You are unarmored</p>\n<hr />\n<p>You enter the stance of a wolf, low to the ground with your hands held like fanged teeth. You can make wolf jaw unarmed attacks. These deal 1d8 piercing damage; are in the brawling group; and have the agile, backstabber, finesse, nonlethal, and unarmed traits.</p>\n<p>If you're flanking a target while in Wolf Stance, your wolf jaw unarmed attacks also gain the trip trait.</p>\n<p>@Compendium[pf2e.feat-effects.b2kWJuCPj1rDMdwz]{Stance: Wolf Stance}</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Posture du loup",
             "description": "<p><strong>Conditions</strong> Vous ne portez aucune armure</p>\n<hr />\n<p>Vous prenez la posture d\u2019un loup, le corps pr\u00e8s du sol et les doigts courb\u00e9s tels de longs crocs. Vous pouvez faire des attaques \u00e0 mains nues de m\u00e2choire de loup. Ces attaques infligent 1d8 d\u00e9g\u00e2ts perforants, elles font partie du groupe pugilat et poss\u00e8dent les traits agile, mains nues, non l\u00e9tal et tra\u00eetre. Si vous prenez en tenaille une cible en \u00e9tant dans cette posture, vos attaques \u00e0 mains nues de m\u00e2choire de loup obtiennent \u00e9galement le trait croc\u2011en\u2011jambe.</p>\n<p>@Compendium[pf2e.feat-effects.b2kWJuCPj1rDMdwz]{Posture: Posture du loup}</p>"
          }
@@ -5580,10 +5588,10 @@
    {
       "_id": "AiV2xFhYB90KHt2x",
       "name": "Pinning Fire",
-      "description": "<p><strong>Trigger</strong> You use @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Flurry of Blows} to make two ranged piercing weapon @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strikes} against the same target.</p>\n<hr />\n<p>You target your opponent's clothing, equipment, or loose flesh with piercing projectiles to pin them to the ground or a nearby surface. If both your attacks hit, the target must succeed at a Reflex save against your class DC or become @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} until it or an adjacent creature succeeds at a DC 10 Athletics check to remove the pinning projectiles.</p>\n<p>The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort.</p>",
+      "description": "<p><strong>Trigger</strong> You use @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Flurry of Blows} to make two ranged piercing weapon Strikes against the same target.</p>\n<hr />\n<p>You target your opponent's clothing, equipment, or loose flesh with piercing projectiles to pin them to the ground or a nearby surface.</p>\n<p>If both your attacks hit, the target must succeed at a Reflex save against your class DC or become @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} until it or an adjacent creature succeeds at a DC 10 Athletics check to remove the pinning projectiles.</p>\n<p>The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort.</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Tir fichant",
             "description": "<p><strong>D\u00e9clencheur</strong> Vous utilisez @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{D\u00e9luge de coups} pour effectuer deux  @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} \u00e0 distance avec des armes perforantes contre la m\u00eame cible.</p>\n<hr />\n<p>Vous ciblez les v\u00eatements de votre adversaire, son \u00e9quipement ou de la chair accessible avec des projectiles perforants pour les clouer au sol ou sur une surface \u00e0 proximit\u00e9.</p>\n<p>Si vos deux attaques touchent, la cible doit r\u00e9ussir un jet de R\u00e9flexes contre votre DD de classe ou devenir @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilis\u00e9e} jusqu'\u00e0 ce qu'elle ou une cr\u00e9ature adjacente r\u00e9ussisse un test d'Athl\u00e9tisme contre un DD 10 pour retirer les projectiles fich\u00e9s.</p>\n<p>La cr\u00e9ature ne devient pas immobilis\u00e9e si elle est incorporelle, constitu\u00e9e de liquide (comme le serait un \u00e9l\u00e9mentaire d'eau ou certaines vases) ou si elle peut autrement s'\u00e9chapper sans effort.</p>"
          }
@@ -5616,10 +5624,10 @@
    {
       "_id": "AkV4Jyllo6nlK2Sl",
       "name": "Cobra Stance",
-      "description": "<p>You enter a tight stance, coiled up like a lashing cobra with your hands poised as venomous fangs.</p>\n<p>While in this stance, the only @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strikes} you can make are cobra fang unarmed attacks. These deal [[/r 1d4 #poison]] poison damage; are in the brawling group; and have the agile, deadly d10, finesse, nonlethal, poison, and unarmed traits.</p>\n<p>While in Cobra Stance, you gain a +1 circumstance bonus to Fortitude saves and your Fortitude DC, and you gain poison resistance equal to half your level.</p>\n<p>@Compendium[pf2e.feat-effects.CgxYa0lrLUjS2ZhI]{Stance: Cobra Stance}</p>",
+      "description": "<p>You enter a tight stance, coiled up like a lashing cobra with your hands poised as venomous fangs.</p>\n<p>While in this stance, the only Strikes you can make are cobra fang unarmed attacks. These deal 1d4 poison damage; are in the brawling group; and have the agile, deadly d10, finesse, nonlethal, poison, and unarmed traits.</p>\n<p>While in Cobra Stance, you gain a +1 circumstance bonus to Fortitude saves and your Fortitude DC, and you gain poison resistance equal to half your level.</p>\n<p>@Compendium[pf2e.feat-effects.CgxYa0lrLUjS2ZhI]{Stance: Cobra Stance}</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Posture du Cobra",
             "description": "<p>Vous prenez une posture tendue en spirale comme celle du cobra dress\u00e9 avec vos mains pr\u00eates comme des crochets venimeux.</p>\n<p>Dans cette posture, Les seules @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} que vous pouvez faire sont les attaques \u00e0 mains nues des crochets du cobra. Elles infligent [[/r 1d4 #poison]] d\u00e9g\u00e2ts de poison ; elles sont dans le groupe pugilat ; elles poss\u00e8dent les traits \u00e0 mains nues, agile, finesse, mortel d10, non-l\u00e9tal et poison.</p>\n<p>Dans la posture du Cobra, vous obtenez un bonus de circonstances de +1 aux jets de Vigueur, au DD de Vigueur et vous obtenez une r\u00e9sistance au poison \u00e9gale \u00e0 la moiti\u00e9 de votre niveau.</p>\n<p>@Compendium[pf2e.feat-effects.CgxYa0lrLUjS2ZhI]{Posture: Posture du cobra}</p>"
          }
@@ -6144,10 +6152,10 @@
    {
       "_id": "BU4NBIBkVZxdWLLH",
       "name": "Elemental Fist",
-      "description": "<p>You call upon the power of the elements, infusing your ki with elemental energy and allowing your attacks to deal energy damage. When you cast ki strike, in addition to the damage types normally available, you can deliver the extra damage in the form of a gust of storm-tossed wind (dealing electricity damage and gaining the air trait), a chunk of stone (dealing bludgeoning damage and gaining the earth trait), a flickering flame (dealing fire damage), or a crashing wave of frigid water (dealing cold damage and gaining the water trait).</p>",
+      "description": "<p>You call upon the power of the elements, infusing your ki with elemental energy and allowing your attacks to deal energy damage.</p>\n<p>When you cast @Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Ki Strike}, in addition to the damage types normally available, you can deliver the extra damage in the form of a gust of storm-tossed wind (dealing electricity damage and gaining the air trait), a chunk of stone (dealing bludgeoning damage and gaining the earth trait), a flickering flame (dealing fire damage), or a crashing wave of frigid water (dealing cold damage and gaining the water trait).</p>\n<p>@Compendium[pf2e.spell-effects.4CUZSDn4BiqWpvZg]{Spell Effect: Ki Strike (Air)}</p>\n<p>@Compendium[pf2e.spell-effects.U2ekk5iBaSfZlEkp]{Spell Effect: Ki Strike (Earth)}</p>\n<p>@Compendium[pf2e.spell-effects.rnu7tqMPe3Qm0apj]{Spell Effect: Ki Strike (Fire)}</p>\n<p>@Compendium[pf2e.spell-effects.tTRy1cc24ApPnym8]{Spell Effect: Ki Strike (Water)}</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Poing \u00e9l\u00e9mentaire",
             "description": "<p>Vous invoquez la puissance des \u00e9l\u00e9ments, en impr\u00e9gnant votre ki d\u2019\u00e9nergie \u00e9l\u00e9mentaire pour que vos attaques infligent des d\u00e9g\u00e2ts d\u2019\u00e9nergie.</p>\n<p>Quand vous lancez frappe ki, en plus des divers types de d\u00e9g\u00e2ts normalement disponibles, vous pouvez infliger des d\u00e9g\u00e2ts suppl\u00e9mentaires sous la forme d\u2019une bourrasque orageuse (qui inflige des d\u00e9g\u00e2ts d\u2019\u00e9lectricit\u00e9 avec le trait air), d\u2019un morceau de roche (qui inflige des d\u00e9g\u00e2ts contondants avec le trait terre), d\u2019une flamme vacillante (qui inflige des d\u00e9g\u00e2ts de feu) ou d\u2019une vague d\u00e9ferlante d\u2019eau glac\u00e9e (qui inflige des d\u00e9g\u00e2ts de froid avec le trait eau).</p>"
          }
@@ -6444,10 +6452,10 @@
    {
       "_id": "C3MgEkPNaIhTddbr",
       "name": "Peafowl Stance",
-      "description": "<p><strong>Requirements</strong> You are wielding a sword that has the monk <br />trait in one hand.</p>\n<hr />\n<p>You enter a tall and proud stance while remaining mobile, with all the grace and composure of a peafowl.</p>\n<p>While in this stance, the only @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strikes} you can make are melee Strikes with the required sword. Once per round, after you hit with a monk sword Strike, you can @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Step} as a free action as your next action.</p>",
+      "description": "<p><strong>Requirements</strong> You are wielding a sword that has the monk <br />trait in one hand.</p>\n<hr />\n<p>You enter a tall and proud stance while remaining mobile, with all the grace and composure of a peafowl.</p>\n<p>While in this stance, the only Strikes you can make are melee Strikes with the required sword. Once per round, after you hit with a monk sword Strike, you can Step as a free action as your next action.</p>\n<p>@Compendium[pf2e.feat-effects.vjvcccAwdkOLA1Fc]{Stance: Peafowl Stance}</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Posture du paon",
             "description": "<p><strong>Conditions</strong> Vous maniez une \u00e9p\u00e9e qui a le trait moine dans une main.</p>\n<hr />\n<p>Vous adoptez une posture fi\u00e8re en vous dressant tout en restant mobile avec toute la gr\u00e2ce et le sang froid d'un paon.</p>\n<p>Dans cette posture, les seules @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} que vous pouvez porter sont des Frappes au corps \u00e0 corps avec l'\u00e9p\u00e9e requise. Une fois par round, apr\u00e8s que vous ayez touch\u00e9 avec une Frappe port\u00e9e avec l'\u00e9p\u00e9e ayant le trait moine, vous pouvez @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faire un pas} comme prochaine action en utilisant une action libre.</p>"
          }
@@ -6504,7 +6512,7 @@
    {
       "_id": "C9nb7H5u2ElBXvCR",
       "name": "Mindblank Mutagen",
-      "description": "<p>With a minor adjustment of ratios in the formula for your serene mutagen, you gain mental protections. When you're affected by a serene mutagen, detection, revelation, and scrying effects of 9th level or lower detect nothing from you or your possessions and auras. For instance, detect magic would still detect other magic in the area, but not any magic on you.</p>",
+      "description": "<p>With the right mindset, consuming a serene mutagen grants you special mental protections. When you're affected by a serene mutagen, detection, revelation, and scrying effects of 9th level or lower detect nothing from you or your possessions and auras. For instance, detect magic would still detect other magic in the area, but not any magic on you.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -6588,10 +6596,10 @@
    {
       "_id": "CL9pFxxMXqzIyg4j",
       "name": "Wild Winds Initiate",
-      "description": "<p>You learn a mystical stance that lets you attack from a distance. You gain the wild winds stance ki spell. Increase the number of Focus Points in your focus pool by 1. While entering the stance is a ki spell, the wind crash Strikes the stance grants are not, so you can use them as often as you like while in the stance.</p>",
+      "description": "<p>You learn a mystical stance that lets you attack from a distance. You gain the @Compendium[pf2e.spells-srd.SkarN4VlNxSJSJNw]{Wild Winds Stance} ki spell. Increase the number of Focus Points in your focus pool by 1.</p>\n<p>While entering the stance is a ki spell, the wind crash Strikes the stance grants are not, so you can use them as often as you like while in the stance.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Initi\u00e9 des vents violents",
             "description": "<p>Vous apprenez une posture mystique qui vous permet d\u2019attaquer \u00e0 distance. Vous obtenez le sort ki @Compendium[pf2e.spells-srd.SkarN4VlNxSJSJNw]{Posture des vents violents}. Augmentez de 1 le nombre de points de focalisation de votre r\u00e9serve. Cette posture est un sort ki, ce qui n\u2019est pas le cas des Frappes de coup de vent qu\u2019elle conf\u00e8re ; vous pouvez donc les utiliser aussi souvent que vous le souhaitez tant que vous gardez cette posture.</p>"
          }
@@ -6696,10 +6704,10 @@
    {
       "_id": "CZQgH17ZxoBiVXLa",
       "name": "Ka Stone Ritual",
-      "description": "<p>You inscribe your true name on your <em>ka stone</em>, as well as oaths to gods and pharaohs, and embed it in your forehead in a special ritual with a sphinx or with a living monolith who already has this feat. The <em>ka stone</em> is an invested magic item that you automatically invest each day. It can't be removed without your permission, nor can it be dispelled, and you can never lose investiture in the ka stone. Its Bulk is negligible.<br /><br />The ka stone grants you a +1 item bonus to saves against death effects and negative effects, which increases to +2 at 8th level, +3 at 14th level, and +4 at 20th level.</p>\n<hr />\n<p><strong>Activate</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">2</span> (envision), or a different activation if otherwise specified;</p>\n<p><strong>Frequency</strong> a number of times each day equal to the number of class feats you have from the Living Monolith archetype;</p>\n<p><strong>Effect</strong> You cast @Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Enlarge} on yourself or use one of the other activated abilities granted by a later Living Monolith feat.</p>",
+      "description": "<p>You inscribe your true name on your <em>ka stone</em>, as well as oaths to gods and pharaohs, and embed it in your forehead in a special ritual with a sphinx or with a living monolith who already has this feat. The <em>ka stone</em> is an invested magic item that you automatically invest each day. It can't be removed without your permission, nor can it be dispelled, and you can never lose investiture in the ka stone. Its Bulk is negligible.<br /><br />The ka stone grants you a +1 item bonus to saves against death effects and negative effects, which increases to +2 at 8th level, +3 at 14th level, and +4 at 20th level.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> (envision), or a different activation if otherwise specified;</p>\n<p><strong>Frequency</strong> a number of times each day equal to the number of class feats you have from the Living Monolith archetype;</p>\n<p><strong>Effect</strong> You cast @Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Enlarge} on yourself or use one of the other activated abilities granted by a later Living Monolith feat.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Rituel de la pierre Ka",
             "description": "<p>Vous inscrivez votre v\u00e9ritable nom sur votre pierre de ka, ainsi que des serments pr\u00eat\u00e9s aux dieux et aux pharaons, puis incrustez la pierre dans votre front gr\u00e2ce \u00e0 un rituel sp\u00e9cial accompli avec un sphinx ou un monolithe vivant disposant d\u00e9j\u00e0 de ce don. La pierre de ka est un objet magique investi que vous investissez automatiquement chaque jour. Il est impossible de retirer la pierre sans votre permission. Elle ne peut pas \u00eatre dissip\u00e9e et vous ne pouvez pas perdre votre investiture avec elle. Son Encombrement est n\u00e9gligeable.</p>\n<p>La pierre de ka vous donne un bonus d\u2019objet de +1 aux jets de sauvegarde contre les effets de mort et les effets n\u00e9gatifs. Ce bonus passe \u00e0 +2 au niveau 8, +3 au niveau 14 et +4 au niveau 20. </p>\n<hr />\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">2</span>(imaginer)</span> ou un autre type d\u2019activation s\u2019il a \u00e9t\u00e9 sp\u00e9cifi\u00e9</p>\n<p><strong>Fr\u00e9quence</strong> chaque jour, un nombre de fois \u00e9gal au nombre de dons que vous poss\u00e9dez gr\u00e2ce \u00e0 l\u2019arch\u00e9type de monolithe vivant</p>\n<p><strong>Effet</strong> Vous lancez @Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement} sur vous-m\u00eame ou vous utilisez un autre pouvoir activable offert par un don de monolithe vivant obtenu ult\u00e9rieurement.</p>"
          }
@@ -6726,6 +6734,16 @@
             "status": "libre",
             "name": "D\u00e9vouement du Bricoleur",
             "description": "<p>Vous pouvez @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer} des objets m\u00eame sans disposer des outils appropri\u00e9s ou d'un atelier, bien que vous subissiez alors une p\u00e9nalit\u00e9 d'objet de -2 \u00e0 votre test d'Artisanat.</p>\n<p>De plus, vous n'avez pas besoin d'un formulaire pour vous rappeler de toutes vos formules ; vous payez le m\u00eame co\u00fbt que la normale lorsqu'il s'agit de les apprendre mais vous les m\u00e9morisez toutes.</p>\n<p>Vous pouvez Fabriquer des objets \u00e0 partir de rien, avec n'importe quel mat\u00e9riau qui vous tombe sous la main, passant seulement 10 minutes \u00e0 accomplir le test de Fabrication initial. L'objet temporaire doit \u00eatre courant, non-magique, de niveau 1 ou inf\u00e9rieur et doit \u00eatre une arme, une armure ou une partie non consommable d'\u00e9quipement d'aventurier (l'\u00e9quipement non consommable appara\u00eet dans le livre de base). Au lieu d'un unique objet, vous pouvez cr\u00e9er 10 pi\u00e8ces d'une unique sorte de munition. C'est un objet de mauvaise qualit\u00e9 mais vous ne subissez pas la p\u00e9nalit\u00e9 habituelle lorsque vous utilisez des objets de mauvaise qualit\u00e9 que vous avez fabriqu\u00e9s en utilisant ce don.</p>\n<p>Vos objets temporaires durent pendant [[/r 1d4]] heures avant de retomber en morceaux dans ces mat\u00e9riaux bruts ; Le MJ tire le nombre d'heures en secret. Vous ne pouvez cr\u00e9er qu'un objet physique, et non des informations ou de la magie ; ainsi par exemple, alors que vous pourriez cr\u00e9er un journal vierge ou un nombre de pages al\u00e9atoires, vous ne pourriez l'utiliser comme une encyclop\u00e9die \u00e9rudite ou un texte religieux.</p>\n<p>Vous pouvez incorporer tous les mat\u00e9riaux que vous avez sous la main, m\u00eame s'il ne s'agit pas du type de materiaux habituellement utilis\u00e9 pour Fabriquer l'objet, bien qu'il vous faille un volume suffisant de mat\u00e9riaux pour fabriquer l'objet que vous d\u00e9sirez.</p>\n<p>\u00c0 moins que tous les mat\u00e9riaux que vous avez utilis\u00e9s ne soient du type appropri\u00e9 pour Fabriquer l'objet, vous subissez une p\u00e9nalit\u00e9 de -5 au test d'Artisanat (ou une p\u00e9nalit\u00e9 de -10 si les mat\u00e9riaux que vous avez utilis\u00e9s sont particuli\u00e8rement inadapt\u00e9s, \u00e0 l'appr\u00e9ciation du MJ).</p>\n<p><strong>Sp\u00e9cial</strong> Vous ne pouvez choisir un autre don de d\u00e9vouement avant d'avoir obtenu deux autres dons de l'arch\u00e9type de Bricoleur.</p>"
+         }
+      }
+   },
+   {
+      "_id": "CcQISNjNdD0Fsj9n",
+      "name": "Shining Oath (Paladin)",
+      "description": "<p>You've sworn an oath to put the undead to rest. Add the following tenet to your champion's code after the other tenets: \"You must end the existence of undead you encounter as long as you have a reasonable chance of success; in the unlikely event you find a good undead, you can try to work out a more peaceful way to help it recover from its undead state rather than destroying it in combat, such as helping it complete its unfinished business and find peace.\"</p>\n<p>Your @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Retributive Strike} gains a +4 circumstance bonus to damage against an undead, or +6 if you have master proficiency with the weapon you used.</p>\n<p>You don't consider undead to be legitimate authorities, even in nations ruled by undead.</p>",
+      "translations": {
+         "fr": {
+            "status": "aucune"
          }
       }
    },
@@ -7320,7 +7338,7 @@
    {
       "_id": "Dcr63tofZUome1Ze",
       "name": "Manifold Edge",
-      "description": "<p>You've learned every possible edge to use against your foes. When you use Hunt Prey, you can gain a hunter's edge benefit other than the one you selected at 1st level. When you use Hunt Prey, you can gain a hunter's edge benefit other than the one you selected at 1st level.</p>",
+      "description": "<p>You've learned every possible edge to use against your foes. When you use Hunt Prey, you can gain a different hunter's edge benefit instead of the one you selected at 1st level.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -7476,10 +7494,10 @@
    {
       "_id": "DqD7htz8Sd1dh3BT",
       "name": "Gorilla Stance",
-      "description": "<p>You lower yourself to the ground and take an imposing, knuckle - walking stance.</p>\n<p>While in this stance, the only @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strikes} you can make are gorilla slam unarmed attacks. These deal <a class=\"inline-roll roll\" title=\"bludgeoning\" data-mode=\"roll\" data-flavor=\"bludgeoning\" data-formula=\"1d8\"> 1d8</a> bludgeoning damage; are in the brawling group; and have the backswing, forceful, grapple, nonlethal, and unarmed traits.</p>\n<p>While you are in Gorilla Stance, you gain a +2 circumstance bonus to Athletics checks to @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climb}, and if you roll a success on an Athletics check to Climb, you get a critical success instead.</p>\n<p>@Compendium[pf2e.feat-effects.RozqjLocahvQWERr]{Stance: Gorilla Stance}</p>",
+      "description": "<p>You lower yourself to the ground and take an imposing, knuckle - walking stance.</p>\n<p>While in this stance, the only Strikes you can make are gorilla slam unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the backswing, forceful, grapple, nonlethal, and unarmed traits.</p>\n<p>While you are in Gorilla Stance, you gain a +2 circumstance bonus to Athletics checks to @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climb}, and if you roll a success on an Athletics check to Climb, you get a critical success instead.</p>\n<p>@Compendium[pf2e.feat-effects.RozqjLocahvQWERr]{Stance: Gorilla Stance}</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Posture de gorille",
             "description": "<p>Vous vous baissez jusqu'\u00e0 toucher le sol et prenez une posture imposante en marchant sur vos poignets.</p>\n<p>Lorque vous \u00eates dans cette posture, Les seules Frappes que vous pouvez porter sont des attaques \u00e0 mains nues de coups du gorille. Elles infligent <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"contondants\" data-formula=\"1d8\" title=\"contondants\"><i class=\"fas fa-dice-d20\"></i>1d8</a> d\u00e9g\u00e2ts contondants; elles sont dans le groupe pugilat et poss\u00e8dent les traits \u00e0 mains nues, prise d'\u00e9lan, percutant, saisir et non-l\u00e9tal.</p>\n<p>Lorsque vous \u00eates dans la Posture du gorille, vous obtenez un bonus de circonstances de +2 aux tests d'Athl\u00e9tisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimper} et si vous obtenez une r\u00e9ussite sur un test d'Athl\u00e9tisme pour Grimper, vous obtenez une r\u00e9ussite critique \u00e0 la place.</p>\n<p>@Compendium[pf2e.feat-effects.RozqjLocahvQWERr]{Posture : Posture du gorille}</p>"
          }
@@ -7572,7 +7590,7 @@
    {
       "_id": "Dwxi1q1OWB1ufFvy",
       "name": "Overwhelming Breath",
-      "description": "<p>You control your breathing and align it with your ki, exhaling with controlled force in order to overcome your opponent's resistance. If you use your next action to @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Cast a Spell} that has the monk trait and no duration, the spell and any @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strikes} you make as a result of casting it ignore an amount of the target's resistance to physical damage equal to your level.</p>",
+      "description": "<p>You control your breathing and align it with your ki, exhaling with controlled force in order to overcome your opponent's resistance.</p>\n<p>If you use your next action to Cast a Spell that has the monk trait and no duration, the spell and any Strike} you make as a result of casting it ignore an amount of the target's resistance to physical damage equal to your level.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -7596,7 +7614,7 @@
    {
       "_id": "E1WXnYE2QwhHQxQb",
       "name": "Sleeper Hold",
-      "description": "<p><strong>Requirements</strong> You have a creature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed} or @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained}.</p>\n<hr />\n<p>You pinch crucial points of your target's nervous system, impeding its ability to function. Attempt an Athletics check to Grapple the creature, with the following success and critical success effects instead of the usual effects.</p>\n<hr />\n<p><strong>Critical Success:</strong> The target falls @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious} for 1 minute, though it remains standing and doesn't drop what it holds.</p>\n<p><strong>Success:</strong> The target is @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} until the end of its next turn.</p>",
+      "description": "<p><strong>Requirements</strong> You have a creature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed} or @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained}.</p>\n<hr />\n<p>You pinch crucial points of your target's nervous system, impeding its ability to function. Attempt an Athletics check to @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple} the creature, with the following success and critical success effects instead of the usual effects.</p>\n<hr />\n<p><strong>Critical Success:</strong> The target falls @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious} for 1 minute, though it remains standing and doesn't drop what it holds.</p>\n<p><strong>Success:</strong> The target is @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} until the end of its next turn.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8280,7 +8298,7 @@
    {
       "_id": "FWIQ3m5KZDWzDg47",
       "name": "Wind Jump",
-      "description": "<p>You gather the wind beneath you, allowing you to soar as you jump. You gain the wild winds stance ki spell. Increase the number of Focus Points in your focus pool by 1.</p>",
+      "description": "<p>You gather the wind beneath you, allowing you to soar as you jump. You gain the @Compendium[pf2e.spells-srd.kRxlkPPe6Gr7Du59]{Wind Jump} ki spell. Increase the number of Focus Points in your focus pool by 1.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8520,10 +8538,10 @@
    {
       "_id": "FrlhErsjR6fEn6kX",
       "name": "Minor Magic",
-      "description": "<p>You've dabbled in a variety of tricks, gaining minor magical abilities from a particular tradition. Choose arcane, divine, occult, or primal magic, and gain two cantrips from the common cantrips available to that tradition. Your key spellcasting ability is Charisma, and you're trained in spell attack rolls and DCs for the tradition of your chosen cantrips.</p>",
+      "description": "<p>You've dabbled in minor magical abilities. Choose arcane, divine, occult, or primal magic, and gain two cantrips from the common cantrips that are available in that tradition. Your key spellcasting ability is Charisma, and you're trained in spell attack rolls and DCs for the tradition of your chosen cantrips..</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Magie mineure",
             "description": "<p>Vous avez touch\u00e9 \u00e0 de nombreux domaines et avez ainsi acquis des pouvoirs mineurs dans une tradition magique.</p>\n<p>Choisissez une des traditions magiques suivantes, dans laquelle vous gagnez deux tours de magie s\u00e9lectionn\u00e9s dans la liste des tours de magie communs : arcanique, divine, occulte ou primordiale. Vous utilisez le Charisme comme caract\u00e9ristique essentielle d\u2019incantation. Vous \u00eates form\u00e9 aux DD et aux jets d\u2019attaque de sorts issus de la tradition des tours de magie que vous avez choisis.</p>"
          }
@@ -8940,7 +8958,7 @@
    {
       "_id": "GsrwoQ7DIjERXuPf",
       "name": "Superior Bond",
-      "description": "<p>When you draw upon your bonded item, you can leave a bit of energy within it for later use. You can use Drain Bonded Item one additional time per day, but only to cast a spell 2 or more levels lower than your highest-level spell.</p>",
+      "description": "<p>When you draw upon your bonded item, you can leave a bit of energy within it for later use. You can use Drain Bonded Item one additional time per day, but only to cast a spell 2 or more levels lower than your highest-level wizard spell slot.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -8952,10 +8970,10 @@
    {
       "_id": "Gw0wGXikhAhiGoud",
       "name": "Twin Takedown",
-      "description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Requirement</strong> You are wielding two melee weapons, each in a different hand</p>\n<hr />\n<p>You swiftly attack your hunted prey with both weapons. Make two Strikes against your hunted prey, one with each of the required weapons. If both hit the same hunted prey, combine their damage for the purpose of its resistances and weaknesses. Apply your multiple attack penalty to each Strike normally.</p>",
+      "description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Requirements</strong> You are wielding two melee weapons, each in a different hand</p>\n<hr />\n<p>You swiftly attack your hunted prey with both weapons. Make two Strikes against your hunted prey, one with each of the required weapons. If both hit the same hunted prey, combine their damage for the purpose of its resistances and weaknesses. Apply your multiple attack penalty to each Strike normally.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Agression jumel\u00e9e",
             "description": "<p><strong>Fr\u00e9quence</strong> une fois par round</p>\n<p><strong>Conditions</strong> Vous maniez deux armes de corps \u00e0 corps, une dans chaque main.</p>\n<hr />\n<p>Vous portez deux attaques rapides contre votre proie avec vos deux armes. Faites deux Frappes contre votre proie, une avec chacune des armes requises. Si les deux touchent, faites la somme de leurs d\u00e9g\u00e2ts avant d\u2019appliquer les r\u00e9sistances et les faiblesses. Vous appliquez normalement votre malus d\u2019attaques multiples \u00e0 ces Frappes.</p>"
          }
@@ -9216,7 +9234,7 @@
    {
       "_id": "HPETR6zq8L6YJyi1",
       "name": "Improved Knockback",
-      "description": "<p>When you successfully Shove a creature, increase both the distance you can push the creature and the distance you can move to follow along with the target by 5 feet on a success or 10 feet on a critical success. If you push the target into an obstacle, it takes bludgeoning damage equal to 6 plus your Strength modifier, or 8 plus your Strength modifier if you have legendary proficiency in Athletics.</p>",
+      "description": "<p>When you successfully @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove} a creature, increase both the distance you can push the creature and the distance you can move to follow along with the target by 5 feet on a success or 10 feet on a critical success.</p>\n<p>If you push the target into an obstacle, it takes bludgeoning damage equal to 6 plus your Strength modifier, or 8 plus your Strength modifier if you have legendary proficiency in Athletics.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9560,7 +9578,7 @@
    {
       "_id": "I9rSWQyueWHQyNxe",
       "name": "Plant Shape",
-      "description": "<p>You can take the form of a plant creature.</p>\n<p>Add the forms listed in @Compendium[pf2e.spells-srd.zCcfPS4y5SrZzU2x]{Plant Form} to your wild shape list; if you don't have <em>wild shape</em>, you can instead cast <em>plant form</em> once per day, heightened to the same level as your highest druid spell slot.</p>\n<p>Whenever you're polymorphed into another form using <em>wild shape</em>, you gain resistance 5 to poison.</p>",
+      "description": "<p>You can take the form of a plant creature.</p>\n<p>Add the forms listed in @Compendium[pf2e.spells-srd.zCcfPS4y5SrZzU2x]{Plant Form} to your wild shape list; if you don't have <em>wild shape</em>, you can instead cast <em>plant form</em> once per day, heightened to the same level as your highest-level druid spell slot.</p>\n<p>Whenever you're polymorphed into another form using <em>wild shape</em>, you gain resistance 5 to poison.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9752,7 +9770,7 @@
    {
       "_id": "IaiEZaA8erufMUCr",
       "name": "Whirling Blade Stance",
-      "description": "<p>You enter a mindful stance that creates a deep connection between you and your Monk weapons, allowing you to manipulate them with your ki even at a distance. All melee Monk weapons you wield with the finesse trait gain the thrown 10 feet trait (unless they already have the thrown trait with a greater range).</p>\n<p>Once you've made a thrown @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strike} with such a weapon, you can use the precision of your throw to make additional Strikes with it, even from a distance. Start from the space of the previous Strike's target to determine the range increment and whether the new target has cover. At the end of your turn, the thrown weapon flies directly back to you in a straight line. If a solid barrier blocks its path, it falls to the ground after hitting the barrier.</p>",
+      "description": "<p>You enter a mindful stance that creates a deep connection between you and your monk weapons, allowing you to manipulate them with your ki even at a distance.</p>\n<p>All melee Monk weapons you wield with the finesse trait gain the thrown 10 feet trait (unless they already have the thrown trait with a greater range).</p>\n<p>Once you've made a thrown Strike with such a weapon, you can use the precision of your throw to make additional Strikes with it, even from a distance. Start from the space of the previous Strike's target to determine the range increment and whether the new target has cover. At the end of your turn, the thrown weapon flies directly back to you in a straight line. If a solid barrier blocks its path, it falls to the ground after hitting the barrier.</p>\n<p>@Compendium[pf2e.feat-effects.JefXqvhzUeBArkAP]{Stance: Whirling Blade Stance}</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9860,7 +9878,7 @@
    {
       "_id": "IqDbNiwHQH1xApo9",
       "name": "Ironblood Surge",
-      "description": "<p><strong>Requirements</strong> You are in Ironblood Stance</p>\n<hr />\n<p>You steel yourself, preparing to resist oncoming attacks and using your muscles to absorb the impact. You gain the benefits of your iron sweep's parry trait (a +1 circumstance bonus to AC until the start of your next turn) and your resistance from Ironblood Stance increases to your Strength modifier (if it's higher) for the same duration.</p>",
+      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.x9cYkB8DrUBBwqJd]{Ironblood Stance}</p>\n<hr />\n<p>You steel yourself, preparing to resist oncoming attacks and using your muscles to absorb the impact.</p>\n<p>You gain the benefits of your iron sweep's parry trait (a +1 circumstance bonus to AC until the start of your next turn) and your resistance from Ironblood Stance increases to your Strength modifier (if it's higher) for the same duration.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9920,7 +9938,7 @@
    {
       "_id": "IxggfXunfldeVOsQ",
       "name": "Swift River",
-      "description": "<p><strong>Trigger</strong> Your turn ends and you have a status penalty to your Speed or are immobilized or slowed</p>\n<hr />\n<p>You flow like water, avoiding all restraints. End one status penalty to your speed, or end one immobilized or slowed condition affecting you.</p>",
+      "description": "<p><strong>Trigger</strong> Your turn ends and you have a status penalty to your Speed or are @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} or @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed}</p>\n<hr />\n<p>You flow like water, avoiding all restraints. End one status penalty to your speed, or end one immobilized or slowed condition affecting you.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -9962,6 +9980,16 @@
             "status": "libre",
             "name": "Pleinement volant",
             "description": "<p>Vous obtenez les effets de Vol juv\u00e9nile \u00e0 tout moment, au lieu de juste une fois par jour pendant 10 minutes. Cela inclut le bonus de statut \u00e0 votre Vitese si vous avez Vol de l'oisillon.</p>"
+         }
+      }
+   },
+   {
+      "_id": "J3R0vx1lszU3CLp5",
+      "name": "Fiendsbane Oath (Redeemer)",
+      "description": "<p>You've sworn an oath to banish the corruption of fiends to the dark planes they call home. Add the following tenet to your champion's code after the other tenets: \"You must banish or slay fiends you come across as long as you have a reasonable chance of success; in the incredibly unlikely event you find a good fiend, you don't have to banish or kill it.\"</p>\n<p>Your @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{Glimpse of Redemption's} resistance against damage from a fiend is 7 + your level.</p>\n<p>You don't consider fiends to be legitimate authorities, even in nations ruled by fiends.</p>",
+      "translations": {
+         "fr": {
+            "status": "aucune"
          }
       }
    },
@@ -10338,12 +10366,22 @@
       }
    },
    {
-      "_id": "K3TasgeZLJQ84qtZ",
-      "name": "Primal Evolution",
-      "description": "<p>You can call upon the creatures of the wild for aid. You gain an additional spell slot of your highest level, which you can use only to cast summon animal or summon plants and fungi. You can cast either of these spells using that spell slot, even if it they aren't in your spell repertoire.</p>",
+      "_id": "K3QkcNWY8qpNEJrk",
+      "name": "Dragonslayer Oath (Liberator)",
+      "description": "<p>You've sworn to slay evil dragons. Add the following tenet to your code after the others: \"You must slay evil dragons you encounter as long as you have a reasonable chance of success.</p>\n<p>If you use @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Liberating Step} triggered by an evil dragon, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.</p>\n<p>@Compendium[pf2e.feat-effects.iyONT1qgeRgoYHsZ]{Effect: Liberating Step (vs. Dragon)}</p>\n<p>You don't consider evil dragons to be legitimate authorities, even in nations they rule.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "aucune"
+         }
+      }
+   },
+   {
+      "_id": "K3TasgeZLJQ84qtZ",
+      "name": "Primal Evolution",
+      "description": "<p>You can call upon the creatures of the wild for aid. You gain an additional spell slot of your highest level, which you can use only to cast @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Summon Animal} or @Compendium[pf2e.spells-srd.jSRAyd57kd4WZ4yE]{Summon Plant or Fungus}. You can cast either of these spells using that spell slot, even if it they aren't in your spell repertoire.</p>",
+      "translations": {
+         "fr": {
+            "status": "chang\u00e9",
             "name": "\u00c9volution primordiale",
             "description": "<p>Vous pouvez invoquer des cr\u00e9atures de la nature sauvage pour b\u00e9n\u00e9ficier de leur aide. Vous gagnez un emplacement de sort suppl\u00e9mentaire du plus haut niveau que vous pouvez lancer. Vous pouvez l\u2019utiliser uniquement pour lancer <em>convocation d\u2019animal</em> ou <em>convocation de plantes et de champignons</em>. Vous pouvez lancer l\u2019un ou l\u2019autre de ces sorts en utilisant cet emplacement de sort, m\u00eame si ces sorts ne font pas partie de votre r\u00e9pertoire.</p>"
          }
@@ -11054,6 +11092,16 @@
             "status": "libre",
             "name": "Frappe instinctive",
             "description": "<p>Vous faites confiance \u00e0 vos instincts et votre sens  de l'odorat, utilisant tous vos sens pour d\u00e9terminer l'emplacement exact de votre adversaire.</p>\n<p>Faites une Frappe au corps-\u00e0-corps contre un adversaire qui ne cache pas son odeur avec un sort comme @Compendium[pf2e.spells-srd.0fKHBh5goe2eiFYL]{Supprimer l'ar\u00f4me}. Cette attaque ignore tout test nu n\u00e9cessaire qui serait li\u00e9 au fait que la cible est Masqu\u00e9e ou Cach\u00e9e.</p>"
+         }
+      }
+   },
+   {
+      "_id": "LZsTt6zPZfNyjIZl",
+      "name": "Dragonslayer Oath (Paladin)",
+      "description": "<p>You've sworn to slay evil dragons. Add the following tenet to your code after the others: \"You must slay evil dragons you encounter as long as you have a reasonable chance of success.</p>\n<p>Your @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Retributive Strike} gains a +4 circumstance bonus to damage against an evil dragon, or +6 if you have master proficiency with the weapon you used.</p>\n<p>You don't consider evil dragons to be legitimate authorities, even in nations they rule.</p>",
+      "translations": {
+         "fr": {
+            "status": "aucune"
          }
       }
    },
@@ -12186,10 +12234,10 @@
    {
       "_id": "OINfbwNZGnlyMqPR",
       "name": "Return Fire",
-      "description": "<p><strong>Requirements</strong> You are in Monastic Archer Stance, are wielding <br />a bow, and have a free hand.</p>\n<hr />\n<p>Snatching an arrow out of the air, you instantly put it to your bow and return fire. When you successfully Deflect an Arrow, as part of that reaction you can immediately make a ranged bow @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strike} by firing the arrow you deflected from your own bow.</p>",
+      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.YG2RxXE9SMfwo6wP]{Monastic Archer Stance}, are wielding <br />a bow, and have a free hand.</p>\n<hr />\n<p>Snatching an arrow out of the air, you instantly put it to your bow and return fire. When you successfully @Compendium[pf2e.feats-srd.sgaqlDFTVC7Ryurt]{Deflect an Arrow} as part of that reaction you can immediately make a ranged bow Strike by firing the arrow you deflected from your own bow.</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Tir retourn\u00e9",
             "description": "<p><strong>Conditions</strong> Vous \u00eates dans la Posture de l'archer monastique, en train de manier un arc et poss\u00e9dez une main libre.</p>\n<hr />\n<p>Interceptant une fl\u00e8che en l'air, vous la placez instantan\u00e9ment sur votre arc et retournez le tir. Lorsque vous r\u00e9ussissez votre Parade de projectile avec une fl\u00e8che, comme partie de cette r\u00e9action, vous pouvez faire imm\u00e9diatement une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} \u00e0 distance avec l'arc en tirant la fl\u00e8che que vous avez attrap\u00e9e \u00e0 partir de votre propre arc.</p>"
          }
@@ -12306,10 +12354,10 @@
    {
       "_id": "OWhTAowdMvBZnCrT",
       "name": "Dancing Leaf",
-      "description": "<p>You are as light as a leaf whirling in the breeze. When you Leap or succeed at a High Jump or Long Jump, increase the distance you jump by 5 feet. When calculating the damage you take from falling, don't count any distance fallen while you are adjacent to a wall.</p>",
+      "description": "<p>You are as light as a leaf whirling in the breeze. When you @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Leap} or succeed at a @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{High Jump} or @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Long Jump}, increase the distance you jump by 5 feet. When calculating the damage you take from falling, don't count any distance fallen while you are adjacent to a wall.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Feuille dansante",
             "description": "<p>Vous \u00eates aussi l\u00e9ger qu\u2019une feuille qui virevolte dans la brise. Quand vous Bondissez ou r\u00e9ussissez un Saut en hauteur ou en longueur, augmentez la distance de votre saut de 1,50 m. Quand vous calculez les d\u00e9g\u00e2ts que vous subissez lors d\u2019une chute, ne comptez pas la distance de chute parcourue en restant adjacent \u00e0 un mur ou une paroi.</p>"
          }
@@ -12606,7 +12654,7 @@
    {
       "_id": "P13ZhZcR67Ev0vrS",
       "name": "Disrupt Ki",
-      "description": "<p>Make an unarmed Strike. If it deals damage to a living creature, you block that creature's inner life force. The creature takes 2d6 persistent negative damage and is enfeebled 1 until the persistent damage ends. If you're 18th level or higher, this deals 3d6 persistent negative damage instead.</p>",
+      "description": "<p>Make an unarmed Strike. If it deals damage to a living creature, you block that creature's inner life force.</p>\n<p>The creature takes [[/r 2d6]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Negative Damage} and is @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 1} until the persistent damage ends.</p>\n<p>If you're 18th level or higher, this deals [[/r 3d6]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Negative Damage} instead.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13252,6 +13300,16 @@
       }
    },
    {
+      "_id": "QFFbmQ5yrBSjbAj3",
+      "name": "Esoteric Oath (Redeemer)",
+      "description": "<p>You've sworn an oath to slay the alien abominations that lurk in the remote corners of Golarion. Add the following tenet to your champion's code, after the other tenets. \"You must slay evil aberrations you encounter as long as you have a reasonable chance of success.\"</p>\n<p>The resistance you gain from @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{Glimpse of Redemption} against damage from an evil aberration is 7 + your level.</p>\n<p>You don't consider evil aberrations to be legitimate authorities, even in nations they rule.</p>",
+      "translations": {
+         "fr": {
+            "status": "aucune"
+         }
+      }
+   },
+   {
       "_id": "QGpcyvIezLMgmTia",
       "name": "Studious Capacity",
       "description": "<p>Your continued study of occult magic has increased your magical capacity, allowing you to cast spells even when it seems impossible. You can cast one spell each day even after you've run out of spell slots of the appropriate spell level, but you can't use this ability to cast a spell of your highest spell level.</p>",
@@ -13746,7 +13804,7 @@
    {
       "_id": "ROnjdPMvH0vkkWjQ",
       "name": "Enlightened Presence",
-      "description": "<p>You exude an aura of resolve. You and allies within 15 feet of you gain a +2 status bonus to Will saving throws against mental effects.</p>",
+      "description": "<p>You exude an aura of resolve. You and allies within 15 feet of you gain a +2 status bonus to Will saving throws against mental effects.</p>\n<p>@Compendium[pf2e.feat-effects.XM1AA8z5cHm8sJXM]{Feat Effect: Enlightened Presence}</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -13830,7 +13888,7 @@
    {
       "_id": "RYUb5oxd46Yvdypz",
       "name": "Endurance of the Rooted Tree",
-      "description": "<p>Just as the Vale of Aroden retains light and life despite inhospitable surroundings, you can sustain yourself regardless of your environment. You don't need to eat, drink, or breathe. In addition, you can cast the wholeness of body ki spell almost effortlessly. You can cast it as a free action that triggers at the start of your turn.</p>",
+      "description": "<p>Just as the Vale of Aroden retains light and life despite inhospitable surroundings, you can sustain yourself regardless of your environment. You don't need to eat, drink, or breathe.</p>\n<p>In addition, you can cast the @Compendium[pf2e.spells-srd.qJZZdYBdNaWRJFER]{Wholeness of Body} ki spell almost effortlessly. You can cast it as a free action that triggers at the start of your turn.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -14082,7 +14140,7 @@
    {
       "_id": "S14S52HjszTgIy4l",
       "name": "Crane Flutter",
-      "description": "<p><strong>Trigger</strong> You are targeted with a melee attack by an attacker you can see.</p>\n<p><strong>Requirements</strong> You are in Crane Stance.</p>\n<hr />\n<p>You interpose your arm between yourself and your opponent. Your circumstance bonus to AC from Crane Stance increases to +3 against the triggering attack. If the attack misses you, you can immediately make a crane wing Strike against the attacker at a -2 penalty, even if the attacker isn't within your reach.</p>",
+      "description": "<p><strong>Trigger</strong> You are targeted with a melee attack by an attacker you can see.</p>\n<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.bf7NCeKqDClaqhTR]{Crane Stance}.</p>\n<hr />\n<p>You interpose your arm between yourself and your opponent. Your circumstance bonus to AC from Crane Stance increases to +3 against the triggering attack. If the attack misses you, you can immediately make a crane wing Strike against the attacker at a -2 penalty, even if the attacker isn't within your reach.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -14202,10 +14260,10 @@
    {
       "_id": "SCDSgeJU7vULvHmo",
       "name": "Fast Movement",
-      "description": "<p>Your rage is a frenzy of rapid movements. While you are raging, you gain a +10-foot status bonus to your Speed.</p>",
+      "description": "<p>While you are raging, you gain a +10-foot status bonus to your Speed.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "D\u00e9placement rapide",
             "description": "<p>Votre rage s\u2019exprime par des d\u00e9placements plus rapides.</p>\n<p>Quand vous \u00eates enrag\u00e9, vous gagnez un bonus de statut de +3 m \u00e0 votre Vitesse.</p>"
          }
@@ -14226,10 +14284,10 @@
    {
       "_id": "SELSj1vvVLx5cP72",
       "name": "Dragon Roar",
-      "description": "<p><strong>Requirements</strong> You are in Dragon Stance</p>\n<hr />\n<p>You bellow, instilling fear in your enemies. Enemies within a 15-foot emanation must succeed at a Will save against your Intimidation DC or be frightened 1 (frightened 2 on a critical failure). When a creature frightened by the roar begins its turn adjacent to you, it can't reduce its frightened value below 1 on that turn. Your first attack that hits a frightened creature after you roar and before the end of your next turn gains a +4 circumstance bonus to damage. After you use Dragon Roar, you can't use it again for 1d4 rounds. Its effects end immediately if you leave Dragon Stance. Creatures in the area of your roar are then temporarily immune for 1 minute.</p>",
+      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.8sy3sHwOHS4ImwvJ]{Dragon Stance}</p>\n<hr />\n<p>You bellow, instilling fear in your enemies. Enemies within a 15-foot emanation must succeed at a Will save against your Intimidation DC or be @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1} (@Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 2} on a critical failure). When a creature frightened by the roar begins its turn adjacent to you, it can't reduce its frightened value below 1 on that turn.</p>\n<p>Your first attack that hits a frightened creature after you roar and before the end of your next turn gains a +4 circumstance bonus to damage.</p>\n<p>After you use Dragon Roar, you can't use it again for [[/r 1d4 #rounds]] rounds. Its effects end immediately if you leave Dragon Stance. Creatures in the area of your roar are then temporarily immune for 1 minute.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Rugissement du dragon",
             "description": "<p><strong>Conditions</strong> Vous \u00eates dans la Posture du dragon</p>\n<hr />\n<p>Vous poussez un rugissement qui terrorise vos ennemis. Les ennemis dans une \u00e9manation de 4,50 m doivent chacun r\u00e9ussir un jet de Volont\u00e9 contre votre DD d\u2019Intimidation ou \u00eatre effray\u00e9s 1 (ou effray\u00e9s 2 en cas d\u2019\u00e9chec critique). Quand une cr\u00e9ature effray\u00e9e par le rugissement commence son tour adjacent \u00e0 vous, elle ne peut r\u00e9duire l\u2019intensit\u00e9 de son \u00e9tat effray\u00e9 en dessous de 1 lors de ce tour. Votre premi\u00e8re attaque qui touche une cr\u00e9ature effray\u00e9e apr\u00e8s votre rugissement et avant la fin de votre prochain tour b\u00e9n\u00e9ficie d\u2019un bonus de circonstances de +4 aux d\u00e9g\u00e2ts. Apr\u00e8s avoir utilis\u00e9 Rugissement du dragon, vous ne pouvez plus le faire pendant 1d4 rounds. Ses effets prennent imm\u00e9diatement fin si vous quittez la Posture du dragon. Les cr\u00e9atures dans la zone de votre rugissement sont ensuite temporairement immunis\u00e9es aux effets de ce don pendant 1 minute.</p>"
          }
@@ -15402,10 +15460,10 @@
    {
       "_id": "UWG1USE0L2ZxEPiO",
       "name": "Wholeness of Body",
-      "description": "<p>You can restore your health by tapping into your ki. You gain the wholeness of body ki spell. Increase the number of Focus Points in your focus pool by 1.</p>",
+      "description": "<p>You can restore your health by tapping into your ki. You gain the @Compendium[pf2e.spells-srd.qJZZdYBdNaWRJFER]{Wholeness of Body} ki spell. Increase the number of Focus Points in your focus pool by 1.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Pl\u00e9nitude physique",
             "description": "<p>Vous pouvez r\u00e9cup\u00e9rer des forces en puisant dans votre ki. Vous obtenez le sort ki @Compendium[pf2e.feats-srd.UWG1USE0L2ZxEPiO]{Pl\u00e9nitude physique}. Augmentez de 1 le nombre de points de focalisation de votre r\u00e9serve.</p>"
          }
@@ -15474,10 +15532,10 @@
    {
       "_id": "UiQbjeqBUFjUtgUR",
       "name": "Assisting Shot",
-      "description": "<p><strong>Requirements</strong> You are wielding a ranged weapon.</p>\n<hr />\n<p>With a quick shot, you interfere with a foe in combat.</p>\n<p>Make a Strike with a ranged weapon. If the strike hits, the next creature other than you to attack the same target before the start of your next turn gains a +1 circumstance bonus on their roll, or a +2 circumstance bonus if your Strike was a critical hit.</p>\n<p>@Compendium[pf2e.feat-effects.zcJii1XyOne9EvMr]{Effect: Assisting Shot}</p>\n<p>@Compendium[pf2e.feat-effects.AAgoUuwMvHzqNhIN]{Effect: Assisting Shot (Critical Hit)}</p>",
+      "description": "<p><strong>Requirements</strong> You are wielding a ranged weapon.</p>\n<hr />\n<p>With a quick shot, you interfere with a foe in combat. Make a Strike with a ranged weapon. If the Strike hits, the next creature other than you to attack the same target before the start of your next turn gains a +1 circumstance bonus to their roll, or a +2 circumstance bonus if your Strike was a critical hit.</p>\n<p>@Compendium[pf2e.feat-effects.zcJii1XyOne9EvMr]{Effect: Assisting Shot}</p>\n<p>@Compendium[pf2e.feat-effects.AAgoUuwMvHzqNhIN]{Effect: Assisting Shot (Critical Hit)}</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Tir de soutien",
             "description": "<p><strong>Conditions</strong> Vous maniez une arme \u00e0 distance.\n<hr />\n<p>Portez une Frappe avec une arme \u00e0 distance. Si la frappe touche, la prochaine cr\u00e9ature autre que vous qui attaque la m\u00eame cible avant le d\u00e9but de votre prochain tour obtient un bonus de circonstances de +1 \u00e0 son jet ou un bonus de circonstances de +2 si votre Frappe \u00e9tait un succ\u00e8s critique.</p>\n<p>@Compendium[pf2e.feat-effects.zcJii1XyOne9EvMr]{Effet : Tir de soutien}</p>\n<p>@Compendium[pf2e.feat-effects.AAgoUuwMvHzqNhIN]{Effet : Tir de soutien (coup  critique)}</p>"
          }
@@ -15654,10 +15712,10 @@
    {
       "_id": "Ux0DSklFlIlcvnhO",
       "name": "Sacred Ki",
-      "description": "<p>The power of your faith suffuses your ki. When you select this feat, choose chaos, evil, good, or law. Your choice must match one of your deity's alignment components.<br /><br />When you cast the @Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Ki Strike} focus spell and damage a creature whose alignment is opposite your chosen alignment, you can choose for the <em>ki strike</em> damage to be of the chosen type. Additionally, you can substitute the damage from @Compendium[pf2e.spells-srd.oo7YcRC2gcez81PV]{Ki Blast} (or other ki spells that deal force damage, at the GM's discretion) with damage of your chosen alignment.</p>",
+      "description": "<p>The power of your faith suffuses your ki. When you select this feat, choose chaos, evil, good, or law. Your choice must match one of your deity's alignment components.<br /><br />When you cast the @Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Ki Strike} focus spell and damage a creature whose alignment is opposite your chosen alignment, you can choose for the <em>ki strike</em> damage to be of the chosen type.</p>\n<p>Additionally, you can substitute the damage from @Compendium[pf2e.spells-srd.oo7YcRC2gcez81PV]{Ki Blast} (or other ki spells that deal force damage, at the GM's discretion) with damage of your chosen alignment.</p>\n<p>@Compendium[pf2e.spell-effects.joCQGq27FylDuY9P]{Spell Effect: Ki Strike (Chaotic)}</p>\n<p>@Compendium[pf2e.spell-effects.4U9BWv0rSpGbU0wr]{Spell Effect: Ki Strike (Evil)}</p>\n<p>@Compendium[pf2e.spell-effects.OplbQWW6i1NtMq9f]{Spell Effect: Ki Strike (Good)}</p>\n<p>@Compendium[pf2e.spell-effects.X2BGmuKdGVj4YYyp]{Spell Effect: Ki Strike (Lawful)}</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Ki sacr\u00e9",
             "description": "<p>Le pouvoir de votre foi infuse votre ki. Lorsque vous s\u00e9lectionnez ce don, choisissez chaos, mal, bien ou loi. Votre choix doit correspondre \u00e0 une des compostantes d'alignement de votre divinit\u00e9.</p>\n<p>Lorsque vous lancez le sort de focalisation @Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Frappe ki} et que vous infligez des d\u00e9g\u00e2ts \u00e0 une cr\u00e9ature dont l'alignement est oppos\u00e9 \u00e0 l'alignement choisi, vous pouvez choisir que les d\u00e9g\u00e2ts de la <em>Frappe ki</em> soient du type choisi. De plus, vous pouvez substituer les d\u00e9g\u00e2ts d'@Compendium[pf2e.feats-srd.10DbphslCihq8mxQ]{explosion ki} (ou d'autres sorts ki qui infligent des d\u00e9g\u00e2ts de force, \u00e0 la discr\u00e9tion du MJ) par des d\u00e9g\u00e2ts de l'alignement choisi.</p>"
          }
@@ -15798,10 +15856,10 @@
    {
       "_id": "VCjAlOvjNvFJOsG5",
       "name": "Tiger Stance",
-      "description": "<p><strong>Requirements</strong> You are unarmored</p>\n<hr />\n<p>You enter the stance of a tiger and can make tiger claw attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits. On a critical success with your tiger claws, if you deal damage, the target takes 1d4 persistent bleed damage. As long as your Speed is at least 20 feet while in Tiger Stance, you can Step 10 feet.</p>\n<p>@Compendium[pf2e.feat-effects.pf9yvKNg6jZLrE30]{Stance: Tiger Stance}</p>",
+      "description": "<p><strong>Requirements</strong> You are unarmored</p>\n<hr />\n<p>You enter the stance of a tiger and can make tiger claw attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits.</p>\n<p>On a critical success with your tiger claws, if you deal damage, the target takes 1d4 persistent bleed damage.</p>\n<p>As long as your Speed is at least 20 feet while in Tiger Stance, you can Step 10 feet.</p>\n<p>@Compendium[pf2e.feat-effects.pf9yvKNg6jZLrE30]{Stance: Tiger Stance}</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Posture du tigre",
             "description": "<p><strong>Conditions</strong> Vous ne portez aucune armure</p>\n<hr />\n<p>Vous prenez la posture d\u2019un tigre et pouvez faire des attaques de griffe de tigre. Ces attaques infligent 1d8 d\u00e9g\u00e2ts tranchants, elles font partie du groupe pugilat et poss\u00e8dent les traits agile, finesse, mains nues et non l\u00e9tal. En cas de succ\u00e8s critique avec vos griffes de tigre, si vous infligez des d\u00e9g\u00e2ts, la cible subit 1d4 d\u00e9g\u00e2ts de saignement persistants. Tant que votre Vitesse s\u2019\u00e9l\u00e8ve \u00e0 6 m au moins en gardant cette posture, vous pouvez Faire un pas de 3 m.</p>\n<p>@Compendium[pf2e.feat-effects.pf9yvKNg6jZLrE30]{Posture : Posture du tigre}</p>"
          }
@@ -15996,6 +16054,16 @@
             "status": "officielle",
             "name": "Connaissance des halfelins",
             "description": "<p>Vous avez consciencieusement appris \u00e0 conserver votre \u00e9quilibre et \u00e0 rester en s\u00fbret\u00e9 dans les ombres, des comp\u00e9tences vitales transmises de g\u00e9n\u00e9ration en g\u00e9n\u00e9ration de halfelins. Vous gagnez le rang de ma\u00eetrise qualifi\u00e9 en Acrobaties et en Discr\u00e9tion. Si vous \u00eates d\u00e9j\u00e0 automatiquement qualifi\u00e9 dans l\u2019une de ces comp\u00e9tences (gr\u00e2ce \u00e0 votre historique ou \u00e0 votre classe, par exemple), vous devenez alors qualifi\u00e9 dans une comp\u00e9tence de votre choix. Vous devenez \u00e9galement qualifi\u00e9 en Connaissance des halfelins.</p>"
+         }
+      }
+   },
+   {
+      "_id": "VU7aZC7L08Mk1GVA",
+      "name": "Esoteric Oath (Liberator)",
+      "description": "<p>You've sworn an oath to slay the alien abominations that lurk in the remote corners of Golarion. Add the following tenet to your champion's code, after the other tenets. \"You must slay evil aberrations you encounter as long as you have a reasonable chance of success.\"</p>\n<p>If you use @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Liberating Step} triggered by an evil aberration, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Step} twice afterward.</p>\n<p>@Compendium[pf2e.feat-effects.tAsFXMzNkpj964X4]{Effect: Liberating Step (vs. Aberration)}</p>\n<p>You don't consider evil aberrations to be legitimate authorities, even in nations they rule.</p>",
+      "translations": {
+         "fr": {
+            "status": "aucune"
          }
       }
    },
@@ -16986,10 +17054,10 @@
    {
       "_id": "XYaaj872JOO9CAws",
       "name": "Blazing Talon Surge",
-      "description": "<p><strong>Requirements</strong> You are in Rain of Embers Stance.</p>\n<hr />\n<p>You rush forward and latch onto your enemy with talons of hungering fire. Stride once. If you end your movement within reach of at least one enemy, you can make a fire talon Strike against that enemy that deals an additional <a class=\"inline-roll roll\" title=\"persistent fire\" data-mode=\"roll\" data-flavor=\"persistent fire\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i> 1d4</a> persistent fire damage. If it hits and deals damage, you can attempt an Athletics check to @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple} the creature you hit.</p>",
+      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.rbiMK71SvGZGRLJ1]{Rain of Embers Stance}.</p>\n<hr />\n<p>You rush forward and latch onto your enemy with talons of hungering fire.</p>\n<p>Stride once. If you end your movement within reach of at least one enemy, you can make a fire talon Strike against that enemy that deals an additional [[/r 1d4]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Fire Damage}. If it hits and deals damage, you can attempt an Athletics check to @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple} the creature you hit.</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "D\u00e9ferlement d'ergots enflamm\u00e9s",
             "description": "<p><strong>Conditions</strong> Vous avez adopt\u00e9 la Posture de la pluie de charbons ardents.</p>\n<hr />\n<p>Vous foncez vers votre ennemi avec des ergots de feu d\u00e9vorant. @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement} une fois. Si vous terminez votre d\u00e9placement \u00e0 port\u00e9e d'allonge d'au moins un ennemi, vous pouvez porter une Frappe d'ergot de feu'contre cet ennemi qui inflige <a class=\"inline-roll roll\" title=\"persistent fire\" data-mode=\"roll\" data-flavor=\"persistent fire\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i>1d4</a> d\u00e9g\u00e2ts de feu persistantss suppl\u00e9mentaires. Si elle touche et inflige des d\u00e9g\u00e2ts, vous pouvez tenter un test d'Athl\u00e9tisme pour @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} la cr\u00e9ature que vous avez touch\u00e9e.</p>"
          }
@@ -17202,7 +17270,7 @@
    {
       "_id": "Xw7qG0SHepXx24vl",
       "name": "Prevailing Position",
-      "description": "<p><strong>Trigger</strong> You are targeted by an attack or attempt a Reflex saving throw against a damaging effect, and you are in a stance.</p>\n<hr />\n<p>Your willingness to flow from one stance to another lets you sacrifice their benefits to better protect yourself. You leave the stance you were in, gaining a +4 circumstance bonus to the triggering saving throw or to your AC against the triggering attack.</p>",
+      "description": "<p><strong>Trigger</strong> You are targeted by an attack or attempt a Reflex saving throw against a damaging effect, and you are in a stance.</p>\n<hr />\n<p>Your willingness to flow from one stance to another lets you sacrifice their benefits to better protect yourself.</p>\n<p>You leave the stance you were in, gaining a +4 circumstance bonus to the triggering saving throw or to your AC against the triggering attack.</p>\n<p>@Compendium[pf2e.feat-effects.COsdMolZraFRTdP8]{Feat Effect: Prevailing Position}</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -17406,10 +17474,10 @@
    {
       "_id": "YG2RxXE9SMfwo6wP",
       "name": "Monastic Archer Stance",
-      "description": "<p><strong>Requirements</strong> You are unarmored and wielding a @Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{Longbow}, <br />@Compendium[pf2e.equipment-srd.hIgqLgH3YcLZBeoT]{Shortbow}, or a bow with the monk trait.</p>\n<hr />\n<p>You enter a specialized stance for a unique martial art centered around the use of a bow. While in this stance, the only @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strikes} you can make are those using longbows, shortbows, or bows with the monk trait.</p>\n<p>You can use @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Flurry of Blows} with these bows. You can use your other monk feats or monk abilities that normally require unarmed attacks with these bows when attacking within half the first range increment (normally 50 feet for a longbow and 30 feet for a shortbow), so long as the feat or ability doesn't require a single, specific Strike.</p>\n<p><strong>Special</strong> When you select this feat, you become trained in the longbow, shortbow, and any simple and martial bows with the monk trait. If you gain the expert strikes class feature, your proficiency rank for these weapons increases to expert, and if you gain the master strikes class feature, your proficiency rank for these weapons increases to master.</p>",
+      "description": "<p><strong>Requirements</strong> You are unarmored and wielding a longbow, shortbow, or a bow with the monk trait.</p>\n<hr />\n<p>You enter a specialized stance for a unique martial art centered around the use of a bow. While in this stance, the only Strikes you can make are those using longbows, shortbows, or bows with the monk trait.</p>\n<p>You can use @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Flurry of Blows} with these bows. You can use your other monk feats or monk abilities that normally require unarmed attacks with these bows when attacking within half the first range increment (normally 50 feet for a longbow and 30 feet for a shortbow), so long as the feat or ability doesn't require a single, specific Strike.</p>\n<p>@Compendium[pf2e.feat-effects.1dxD3xsTzak6GNj5]{Stance: Monastic Archer Stance}</p>\n<hr />\n<p><strong>Special</strong> When you select this feat, you become trained in the longbow, shortbow, and any simple and martial bows with the monk trait. If you gain the expert strikes class feature, your proficiency rank for these weapons increases to expert, and if you gain the master strikes class feature, your proficiency rank for these weapons increases to master.</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Posture de l'archer monastique",
             "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure et maniez un @Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{Arc long}, un <br>@Compendium[pf2e.equipment-srd.hIgqLgH3YcLZBeoT]{Arc court} ou un arc avec le trait moine.</p>\n<hr />\n<p>Vous entrez dans une posture particuli\u00e8re \u00e0 un art martial unique centr\u00e9 sur l'utilisation d'un arc.</p>\n<p>Lorsque vous adoptez cette posture, les seules @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} que vous pouvez faire sont celles qui utilisent les arcs longs, les arcs courts ou les arcs avec le trait moine.</p>\n<p>Vous pouvez utiliser @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{D\u00e9luge de coups} avec ces arcs. Vous pouvez utiliser vos autres dons de moine ou capacit\u00e9s de moine qui n\u00e9cessitent en principe des attaques \u00e0 mains nues avec ces arcs lorsque vous attaquez \u00e0 une port\u00e9e correspondant \u00e0 la moiti\u00e9 du premier facteur de port\u00e9e (en principe 15 m pour un arc long et 9 m pour un arc court), tant que le don ou la capacit\u00e9 ne n\u00e9cessite par une Frappe unique sp\u00e9cifique.</p>\n<p><strong>Sp\u00e9cial</strong> Lorsque vous choisissez ce don, vous devenez qualifi\u00e9 avec l'arc long, l'arc court et tout arc simple ou de guerre avec le trait moine. Si vous obtenez la capacit\u00e9 de classe Frappes expertes, votre rang de ma\u00eetrise avec ces armes passe \u00e0 expert et si vous obtenez la capacit\u00e9 de classe Frappes de ma\u00eetre, votre ma\u00eetrise avec ces armes passe \u00e0 ma\u00eetre.</p>"
          }
@@ -17910,10 +17978,10 @@
    {
       "_id": "ZL5UU9quCTvcWzfY",
       "name": "Mountain Stance",
-      "description": "<p><strong>Requirements</strong> You are unarmored and touching the ground</p>\n<hr />\n<p>You enter the stance of an implacable mountain-a technique first discovered by dwarven monks-allowing you to strike with the weight of an avalanche. The only Strikes you can make are falling stone unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the forceful, nonlethal, and unarmed traits. While in Mountain Stance, you gain a +4 status bonus to AC and a +2 circumstance bonus to any defenses against being Shoved or Tripped. However, you have a Dexterity modifier cap to your AC of +0, meaning you don't add your Dexterity to your AC, and your Speeds are all reduced by 5 feet.</p>\n<p>@Compendium[pf2e.feat-effects.gYpy9XBPScIlY93p]{Stance: Mountain Stance}</p>",
+      "description": "<p><strong>Requirements</strong> You are unarmored and touching the ground</p>\n<hr />\n<p>You enter the stance of an implacable mountain-a technique first created by dwarven monks-allowing you to strike with the weight of an avalanche and block blows with your garments.</p>\n<p>The only Strikes you can make are falling stone unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the forceful, nonlethal, and unarmed traits.</p>\n<p>While in Mountain Stance, you gain a +4 item bonus to AC and a +2 circumstance bonus to any defenses against being Shoved or Tripped. You have a Dexterity modifier cap to your AC of +0, meaning you don't add your Dexterity to your AC, and your Speeds are all reduced by 5 feet. The item bonus to AC from Mountain Stance is cumulative with armor potency runes on your @Compendium[pf2e.equipment-srd.dDIPA1WE9ESF67EB]{Clothing (Explorer's)}, @Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{Mage Armor}, and bracers of armor.</p>\n<p>@Compendium[pf2e.pf2e-macros.4nEbRlo2cB9KkK7T]{Toggle Mountain Stance}</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Posture de la montagne",
             "description": "<p><strong>Conditions</strong> Vous ne portez aucune armure et vous \u00eates en contact avec le sol</p>\n<hr />\n<p>Vous prenez la posture implacable d\u2019une montagne, une technique d\u00e9couverte par des moines nains, ce qui vous permet de frapper aussi violemment qu\u2019une avalanche. Les seules Frappes que vous pouvez faire sont des attaques \u00e0 mains nues de chute de pierre. Ces attaques infligent 1d8 d\u00e9g\u00e2ts contondants, elles font partie du groupe pugilat et poss\u00e8dent les traits mains nues, non l\u00e9tal et percutant. Tant que vous gardez cette posture, vous b\u00e9n\u00e9ficiez d\u2019un bonus de statut de +4 \u00e0 la CA et d\u2019un bonus de circonstances de +2 \u00e0 vos d\u00e9fenses si l\u2019on tente de vous Pousser ou de vous faire un Croc-en-jambe. Vous avez toutefois un bonus de Dext\u00e9rit\u00e9 maximal \u00e0 votre CA de +0, ce qui signifie que vous n\u2019ajoutez pas votre modificateur de Dext\u00e9rit\u00e9 \u00e0 votre CA et vos Vitesses sont toutes r\u00e9duites de 1,50 m.</p>\n<p>@Compendium[pf2e.feat-effects.gYpy9XBPScIlY93p]{Posture : Posture de la Montagne}</p>"
          }
@@ -17970,7 +18038,7 @@
    {
       "_id": "ZPclfDmiHzEqblry",
       "name": "Animal Skin",
-      "description": "<p>Your proficiency in unarmored defense increases to expert.</p>\n<p>While you are raging and unarmored, your skin transforms into a thick hide resembling your animal's skin.</p>\n<p>You gain a +1 item bonus to AC instead of taking a -1 penalty to AC; if you have the greater juggernaut class feature, this item bonus increases to +2. The thickness of your hide gives you a Dexterity modifier cap to your AC of +3.</p>",
+      "description": "<p>Your proficiency in unarmored defense increases to expert.</p>\n<p>While you are raging and unarmored, your skin transforms into a thick hide. You gain a +2 item bonus to AC (+3 if you have the greater juggernaut class feature). The thickness of your hide gives you a Dexterity modifier cap to your AC of +3. This item bonus to AC is cumulative with armor potency runes on your explorer's clothing, mage armor, and bracers of armor.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18114,7 +18182,7 @@
    {
       "_id": "ZghzLmYgeE19GqjP",
       "name": "Lunging Stance",
-      "description": "<p><strong>Requirement</strong> You are wielding a melee weapon</p>\n<hr />\n<p>Your body coiled to strike, you can lash out at distant enemies. While you are in this stance, you can use Attack of Opportunity against a creature that is outside your reach but within the reach you would have with a Lunge. If you do, you increase your range with the Strike by 5 feet.</p>",
+      "description": "<p><strong>Requirements</strong> You are wielding a melee weapon</p>\n<hr />\n<p>Your body coiled to strike, you can lash out at distant enemies. While you are in this stance, you can use Attack of Opportunity against a creature that is outside your reach but within the reach you would have with a Lunge. If you do, you increase your range with the Strike by 5 feet.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -18420,18 +18488,6 @@
             "status": "libre",
             "name": "\u00c9tude rapide",
             "description": "<p>Au cours de vos pr\u00e9paratifs quotidiens, vous pouvez \u00e9tudier un sujet particulier pour gagner le rang de ma\u00eetrise qualifi\u00e9 avec une comp\u00e9tence de Connaissance de votre choix. Vous devez avoir \u00e9t\u00e9 confront\u00e9 \u00e0 ce sujet d'une quelconque mani\u00e8re au cours de la journ\u00e9e pr\u00e9c\u00e9dente, que ce soit en lisant \u00e0 ce propos, avoir discut\u00e9 avec quelqu'un d'instruit sur ce th\u00e8me ou en en faisant l'exp\u00e9rience par vous-m\u00eame.</p>\n<p>De mani\u00e8re alternative, vous pouvez vous r\u00e9f\u00e9rer aux notes que vous avez prises pour choisir \u00e0 la place une comp\u00e9tence de Connaissance que vous aviez pr\u00e9par\u00e9e auparavant avec \u00c9tude rapide. cette ma\u00eetrise dure jusqu'\u00e0 vos pr\u00e9paratifs quotidiens suivants. Comme cel\u00e0 vous donne une connaissance seulement temporaire, vous ne pouvez pas vous en servir de pr\u00e9requis pour une am\u00e9lioration de comp\u00e9tence ou une option de personnage permanente tel qu'un don.</p>"
-         }
-      }
-   },
-   {
-      "_id": "aM6eAeyk5twmxCKe",
-      "name": "Fiendsbane Oath",
-      "description": "<p>You've sworn an oath to banish the corruption of fiends to the dark planes they call home. Add the following tenet to your champion's code after the other tenets: \"You must banish or slay fiends you come across as long as you have a reasonable chance of success; in the incredibly unlikely event you find a good fiend, you don't have to banish or kill it.\"</p>\n<p>Your Retributive Strike gains a +4 circumstance bonus to damage against a fiend, or a +6 circumstance bonus if you have master proficiency with the weapon you used.</p>\n<p>@Compendium[pf2e.feat-effects.qJHpitixORsKJsBj]{Fiendsbane Oath (Paladin)}</p>\n<p>Your Glimpse of Redemption's resistance against damage from a fiend is 7 + your level.</p>\n<p>If you use Liberating Step triggered by a fiend, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.</p>\n<p>@Compendium[pf2e.feat-effects.9dCt0asv0kt7DR4q]{Effect: Liberating Step (vs. Fiend)}</p>\n<p>You don't consider fiends to be legitimate authorities, even in nations ruled by fiends.</p>",
-      "translations": {
-         "fr": {
-            "status": "officielle",
-            "name": "Serment du fl\u00e9au des fi\u00e9lons",
-            "description": "<p>Vous avez fait le serment de bannir les fi\u00e9lons corrupteurs vers les plans obscurs d\u2019o\u00f9 ils proviennent. Ajoutez le principe suivant \u00e0 votre code, \u00e0 la suite des autres : \u00ab Vous devez bannir ou tuer les fi\u00e9lons que vous rencontrez si vous avez des chances raisonnables d\u2019y parvenir. Dans le cas tr\u00e8s peu probable o\u00f9 vous rencontrez un fi\u00e9lon d\u2019alignement bon, vous n\u2019avez pas \u00e0 le bannir ou \u00e0 le tuer. \u00bb</p>\n<p>Votre Frappe punitive b\u00e9n\u00e9ficie d\u2019un bonus de circonstances de +4 aux d\u00e9g\u00e2ts contre un fi\u00e9lon ou de +6 si vous \u00eates un ma\u00eetre avec l\u2019arme que vous utilisez. La r\u00e9sistance contre les d\u00e9g\u00e2ts d\u2019un fi\u00e9lon que vous conf\u00e8re votre Lueur de r\u00e9demption s\u2019\u00e9l\u00e8ve \u00e0 7 + votre niveau.</p>\n<p>@Compendium[pf2e.feat-effects.qJHpitixORsKJsBj]{Serment du fl\u00e9au des fi\u00e9lons (Paladin)}</p>\n<p>Si vous utilisez Pas lib\u00e9rateur lorsqu\u2019il est d\u00e9clench\u00e9 par un fi\u00e9lon, votre alli\u00e9 b\u00e9n\u00e9ficie d\u2019un bonus de circonstances de +4 aux tests conf\u00e9r\u00e9 par votre Pas lib\u00e9rateur et il peut ensuite Faire un pas deux fois.</p>\n<p>@Compendium[pf2e.feat-effects.9dCt0asv0kt7DR4q]{Effet: Pas Lib\u00e9rateur (contre les fi\u00e9lons)}</p>\n<p>Vous ne consid\u00e9rez pas les fi\u00e9lons comme des autorit\u00e9s l\u00e9gitimes, m\u00eame au sein des nations sur lesquelles ils r\u00e8gnent. </p>"
          }
       }
    },
@@ -19098,10 +19154,10 @@
    {
       "_id": "bf7NCeKqDClaqhTR",
       "name": "Crane Stance",
-      "description": "<p><strong>Requirements</strong> You are unarmored</p>\n<hr />\n<p>You enter the stance of a crane, holding your arms in an imitation of a crane's wings and using flowing, defensive motions. You gain a +1 circumstance bonus to AC, but the only Strikes you can make are crane wing attacks. These deal 1d6 bludgeoning damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits. While in Crane Stance, reduce the DC for High Jump and Long Jump by 5, and when you Leap, you can move an additional 5 feet horizontally or 2 feet vertically.</p>\n<p>@Compendium[pf2e.feat-effects.nwkYZs6YwXYAJ4ps]{Stance: Crane Stance}</p>",
+      "description": "<p><strong>Requirements</strong> You are unarmored</p>\n<hr />\n<p>You enter the stance of a crane, holding your arms in an imitation of a crane's wings and using flowing, defensive motions.</p>\n<p>You gain a +1 circumstance bonus to AC, but the only Strikes you can make are crane wing attacks. These deal 1d6 bludgeoning damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits.</p>\n<p>While in Crane Stance, reduce the DC for High Jump and Long Jump by 5, and when you Leap, you can move an additional 5 feet horizontally or 2 feet vertically.</p>\n<p>@Compendium[pf2e.feat-effects.nwkYZs6YwXYAJ4ps]{Stance: Crane Stance}</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Posture de la grue",
             "description": "<p><strong>Conditions</strong> Vous ne portez aucune armure</p>\n<hr />\n<p>Vous prenez la posture d\u2019une grue, ce qui signifie que vous \u00e9tendez vos bras comme les ailes de cet oiseau et que vous vous d\u00e9fendez en faisant des gestes fluides.</p>\n<p>Vous b\u00e9n\u00e9ficiez d\u2019un bonus de circonstances de +1 \u00e0 la CA mais les seules Frappes que vous pouvez faire sont des attaques d\u2019aile de grue. Ces attaques infligent 1d6 d\u00e9g\u00e2ts contondants, elles font partie du groupe pugilat et poss\u00e8dent les traits agile, finesse, mains nues et non l\u00e9tal. Tant que vous gardez cette posture, r\u00e9duisez de 5 le DD de vos Sauts en hauteur et en longueur et, quand vous Bondissez, vous ajoutez 1,50 m \u00e0 la longueur ou 60 cm \u00e0 la hauteur.</p>\n<p>@Compendium[pf2e.feat-effects.nwkYZs6YwXYAJ4ps]{Posture : Posture de la grue}</p>"
          }
@@ -19252,12 +19308,22 @@
       }
    },
    {
-      "_id": "c3b7DhnDBC7YEgRG",
-      "name": "Hunted Shot",
-      "description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Requirement</strong> You are wielding a ranged weapon with reload 0</p>\n<hr />\n<p>You take two quick shots against the one you hunt. Make two Strikes against your prey with the required weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your multiple attack penalty to each Strike normally.</p>",
+      "_id": "c2h9Z8exSFhraJ8j",
+      "name": "Esoteric Oath (Paladin)",
+      "description": "<p>You've sworn an oath to slay the alien abominations that lurk in the remote corners of Golarion. Add the following tenet to your champion's code, after the other tenets. \"You must slay evil aberrations you encounter as long as you have a reasonable chance of success.\"</p>\n<p>Your @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Retributive Strike} gains a +4 circumstance bonus to damage against an evil aberration, or +6 if you have master proficiency with the weapon you used.</p>\n<p>You don't consider evil aberrations to be legitimate authorities, even in nations they rule.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "aucune"
+         }
+      }
+   },
+   {
+      "_id": "c3b7DhnDBC7YEgRG",
+      "name": "Hunted Shot",
+      "description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Requirements</strong> You are wielding a ranged weapon with reload 0</p>\n<hr />\n<p>You take two quick shots against the one you hunt. Make two Strikes against your prey with the required weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your multiple attack penalty to each Strike normally.</p>",
+      "translations": {
+         "fr": {
+            "status": "chang\u00e9",
             "name": "Tir du chasseur",
             "description": "<p><strong>Fr\u00e9quence</strong> une fois par round</p>\n<p><strong>Conditions</strong> Vous maniez une arme \u00e0 distance avec un rechargement 0</p>\n<hr />\n<p>Vous faites deux tirs rapides contre la proie que vous chassez. Faites deux Frappes contre votre proie avec l\u2019arme requise. Si les deux touchent la  m\u00eame cr\u00e9ature, faites la somme de leurs d\u00e9g\u00e2ts avant d\u2019appliquer les r\u00e9sistances et les faiblesses. Vous appliquez normalement votre malus d\u2019attaques multiples \u00e0 ces Frappes.</p>"
          }
@@ -19794,7 +19860,7 @@
    {
       "_id": "d7DQhCJKYcLxpHen",
       "name": "Focused Shot",
-      "description": "<p><strong>Requirements</strong> You are in Monastic Archer Stance.</p>\n<hr />\n<p>You achieve a state of perfect calm before unleashing your attack, opening your mind to the minute movements of the world around you to increase your accuracy.</p>\n<p>Make a ranged weapon @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strike} against a target within your weapon's first range increment. This Strike ignores the target's @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition and all cover.</p>",
+      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.YG2RxXE9SMfwo6wP]{Monastic Archer Stance}.</p>\n<hr />\n<p>You achieve a state of perfect calm before unleashing your attack, opening your mind to the minute movements of the world around you to increase your accuracy.</p>\n<p>Make a ranged weapon Strike against a target within your weapon's first range increment. This Strike ignores the target's @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition and all cover.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -19986,7 +20052,7 @@
    {
       "_id": "dTPVRVzfVBlBUV2l",
       "name": "Arrow Snatching",
-      "description": "<p>You pluck missiles from the air and hurl them back at their source. When you successfully deflect an attack with Deflect Arrow, as part of that reaction, you can immediately make a ranged Strike against the attacker using the projectile you deflected. This is a thrown weapon with the same range increment and effect on a hit as the triggering attack.</p>",
+      "description": "<p>You pluck missiles from the air and hurl them back at their source. When you successfully deflect an attack with @Compendium[pf2e.feats-srd.sgaqlDFTVC7Ryurt]{Deflect Arrow}, as part of that reaction, you can immediately make a ranged Strike against the attacker using the projectile you deflected. This is a thrown weapon with the same range increment and effect on a hit as the triggering attack.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -20898,10 +20964,10 @@
    {
       "_id": "f2Pl5dWEL9ZvEyI1",
       "name": "Animal Companion",
-      "description": "<p>You gain the service of a young animal companion that travels with you on your adventures and obeys any simple commands you give it to the best of its abilities. See Animal Companions on page 214 for more information.</p>",
+      "description": "<p>You gain the service of a young animal companion that travels with you on your adventure and obeys any simple commands you give it to the best of your abilities.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Compagnon animal",
             "description": "<p>Vous obtenez les services d\u2019un jeune compagnon animal qui vous accompagne lors de vos aventures et ob\u00e9it de son mieux aux ordres simples que vous lui donnez.</p>"
          }
@@ -21306,7 +21372,7 @@
    {
       "_id": "g1wBP9Z5HRqDe9FE",
       "name": "Quivering Palm",
-      "description": "<p>Your strikes can kill foes. You gain the quivering ki spell (page 401). Increase the number of Focus Points in your focus pool by 1.</p>",
+      "description": "<p>Your strikes can kill foes. You gain the @Compendium[pf2e.spells-srd.Ovvflf5aFbmBxqq8]{Quivering Palm} ki spell. Increase the number of Focus Points in your focus pool by 1.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -21702,10 +21768,10 @@
    {
       "_id": "gjec0ts3wkFbjvHN",
       "name": "You're Next",
-      "description": "<p><strong>Trigger</strong> You reduce an enemy to 0 hit points</p>\n<hr />\n<p>After downing a foe, you menacingly remind another foe that you're coming after them next. Attempt an Intimidation check with a +2 circumstance bonus to Demoralize a single creature that you can see and that can see you. If you have legendary proficiency in Intimidation, you can use this as a free action with the same trigger.</p>",
+      "description": "<p><strong>Trigger</strong> You reduce an enemy to 0 Hit Points</p>\n<hr />\n<p>After downing a foe, you menacingly remind another foe that you're coming after them next. Attempt an Intimidation check with a +2 circumstance bonus to Demoralize a single creature that you can see and that can see you. If you have legendary proficiency in Intimidation, you can use this as a free action with the same trigger.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Tu es le suivant",
             "description": "<p><strong>D\u00e9clencheur</strong> Vous r\u00e9duisez un ennemi \u00e0 0 point de vie</p>\n<hr />\n<p>Apr\u00e8s avoir abattu un adversaire, vous rappelez d\u2019un ton mena\u00e7ant \u00e0 un autre qu\u2019il est le prochain sur votre liste. Vous faites un test d\u2019Intimidation avec un bonus de circonstances de +2 pour @Compendium[pf2e.actionitems.2u915NdUyQan6uKF]{D\u00e9moraliser} une unique cr\u00e9ature que vous pouvez voir et qui peut vous voir. Si vous poss\u00e9dez le rang de ma\u00eetrise l\u00e9gendaire en Intimidation, vous pouvez utiliser ce pouvoir comme une action gratuite avec le m\u00eame d\u00e9clencheur.</p>"
          }
@@ -21846,7 +21912,7 @@
    {
       "_id": "gyVcJfZTmBytLsXq",
       "name": "Expanded Splash",
-      "description": "<p>The particularly volatile compounds that you brew into your bombs result in them creating especially large and powerful explosions. When you throw an alchemical bomb that has the splash trait, you can add your Intelligence modifier to the bomb's usual splash damage, and it deals splash damage to every creature within 10 feet of the target.</p>",
+      "description": "<p>You can throw bombs at just the right trajectory to create especially large and powerful explosions. When you throw an alchemical bomb and that bomb has the splash trait, you can add your Intelligence modifier to the bomb's usual splash damage, and it deals splash damage to every creature within 10 feet of the target.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -21954,10 +22020,10 @@
    {
       "_id": "hGjmbTNBUiJqYvsE",
       "name": "Crushing Grab",
-      "description": "<p>Like a powerful constrictor, you crush targets in your unyielding grasp. When you successfully Grapple a creature, you can deal bludgeoning damage to that creature equal to your Strength modifier. You can make this attack nonlethal with no penalty.</p>",
+      "description": "<p>Like a powerful constrictor, you crush targets in your unyielding grasp. When you successfully @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple} a creature, you can deal bludgeoning damage to that creature equal to your Strength modifier. You can make this attack nonlethal with no penalty.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Poigne \u00e9crasante",
             "description": "<p>Tel un boa constricteur, vous saisissez fermement vos cibles pour les broyer. Quand vous r\u00e9ussissez \u00e0 Saisir une cr\u00e9ature, vous pouvez lui infliger un montant de d\u00e9g\u00e2ts contondants \u00e9gal \u00e0 votre modificateur de Force. Vous pouvez faire en sorte que cette attaque soit non l\u00e9tale sans subir de malus.</p>"
          }
@@ -21990,7 +22056,7 @@
    {
       "_id": "hO4sKslTrSQMLbGx",
       "name": "Mountain Quake",
-      "description": "<p><strong>Trigger</strong> You are in Mountain Stance</p>\n<hr />\n<p>You stomp, shaking the earth beneath you. Creatures on the ground within a 20-foot emanation take damage equal to your Strength modifier (minimum 0), which they can resist with a basic Fortitude save. On a failure, they also fall prone. After you use this action, you can't use it again for 1d4 rounds.</p>\n<p><strong>Special</strong> If you have this feat, the Dexterity modifier cap to your AC while using Mountain Stance increases from +1 to +2.</p>",
+      "description": "<p><strong>Trigger</strong> You are in @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Mountain Stance}</p>\n<hr />\n<p>You stomp, shaking the earth beneath you. Creatures on the ground within a 20-foot emanation take damage equal to your Strength modifier (minimum 0), which they can resist with a basic Fortitude save. On a failure, they also fall @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>\n<p>After you use this action, you can't use it again for [[/r 1d4 #rounds]] rounds.</p>\n<hr />\n<p><strong>Special</strong> If you have this feat, the Dexterity modifier cap to your AC while using Mountain Stance increases from +1 to +2.</p>\n<p>@Compendium[pf2e.pf2e-macros.4nEbRlo2cB9KkK7T]{Toggle Mountain Stance}</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -22986,10 +23052,10 @@
    {
       "_id": "jCIBYryi6Y3JwmqH",
       "name": "Mixed Maneuver",
-      "description": "<p>You combine two different maneuvers together into a single flowing whole. Choose any two of Grapple, Shove, and Trip. Attempt both of the attacks you chose against the same or different creatures, but don't apply the multiple attack penalty until after resolving both attacks.</p>",
+      "description": "<p>You combine two different maneuvers together into a single flowing whole. Choose any two of @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove}, and @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trip}. Attempt both of the attacks you chose against the same or different creatures, but don't apply the multiple attack penalty until after resolving both attacks.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Man\u0153uvre mixte",
             "description": "<p>Vous associez deux man\u0153uvres diff\u00e9rentes pour former une seule combinaison fluide. Choisissez deux actions parmi @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir], @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser] ou @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe}. Faites les deux attaques choisies contre la m\u00eame cr\u00e9ature ou des cr\u00e9atures diff\u00e9rentes, mais n\u2019appliquez le malus d\u2019attaques multiples qu\u2019apr\u00e8s les avoir r\u00e9solues.</p>"
          }
@@ -23214,10 +23280,10 @@
    {
       "_id": "jaAnxfXVmUQy0IKU",
       "name": "One-Inch Punch",
-      "description": "<p>You put all your force into a single mighty, carefully controlled blow. Make an unarmed @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strike}. If you spend two actions and this Strike hits, you deal an extra die of weapon damage. You can instead spend 3 actions to perform an even more powerful attack, dealing a second additional die of weapon damage on a hit.</p>\n<p>If you're at least 10th level, the number of additional dice you add from this feat doubles, for a total of 2 additional dice if you spend 2 actions or 4 additional dice if you spend 3 actions. If you're at least 18th level, the number of additional dice you add from this feat triples, for a total of 3 additional dice if you spend 2 actions or 6 additional dice if you spend 3 actions.</p>",
+      "description": "<p>You put all your force into a single mighty, carefully controlled blow. Make an unarmed Strike. If you spend two actions and this Strike hits, you deal an extra die of weapon damage. You can instead spend 3 actions to perform an even more powerful attack, dealing a second additional die of weapon damage on a hit.</p>\n<p>If you're at least 10th level, the number of additional dice you add from this feat doubles, for a total of 2 additional dice if you spend 2 actions or 4 additional dice if you spend 3 actions.</p>\n<p>If you're at least 18th level, the number of additional dice you add from this feat triples, for a total of 3 additional dice if you spend 2 actions or 6 additional dice if you spend 3 actions.</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Coup \u00e0 distance courte",
             "description": "<p>Vous placez toute votre force en un unique et puissant coup soigneusement contr\u00f4l\u00e9. Faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} \u00e0 mains nues. Si vous d\u00e9pensez deux actions et que cette Frappe touche, vous infligez un d\u00e9 suppl\u00e9mentaire de d\u00e9g\u00e2ts d'arme. Vous pouvez \u00e0 la place d\u00e9penser 3 actions pour accomplir un coup encore plus puissant, infligeant un second d\u00e9 de d\u00e9g\u00e2ts d'arme suppl\u00e9mentaire si vous touchez.</p>\n<p>Si vous \u00eates au moins au niveau 10, le nombre de d\u00e9s suppl\u00e9mentaires que vous ajoutez du fait de ce don double, pour un total de 2 d\u00e9s suppl\u00e9mentaires si vous d\u00e9pensez 2 actions ou 4 d\u00e9s suppl\u00e9mentaires si vous d\u00e9pensez 3 actions. Si vous \u00eates au moins au niveau 18, le npmbre de d\u00e9s suppl\u00e9mentaires que vous ajoutez du fait de ce don est tripl\u00e9, pour un total de 3 d\u00e9s suppl\u00e9mentaires si vous d\u00e9pensez 2 actions ou 6 d\u00e9s suppl\u00e9mentaires si vous d\u00e9pensez 3 actions.</p>"
          }
@@ -23622,7 +23688,7 @@
    {
       "_id": "kUv9eiP8Zhck70WZ",
       "name": "Eldritch Debilitations",
-      "description": "<p>You know how to apply debilitations that are particularly troublesome for spellcasters. Add the following debilitations to the list you can choose from when you use @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Debilitating Strike}.</p>\n<ul>\n<li><strong>Debilitation</strong> The target is @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied} 1.</li>\n<li><strong>Debilitation</strong> The target can't @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Step}.</li>\n</ul>",
+      "description": "<p>You know how to apply debilitations that are particularly troublesome for spellcasters. Add the following debilitations to the list you can choose from when you use @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Debilitating Strike}.</p>\n<ul>\n<li><strong>Debilitation</strong> The target is @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 1}.</li>\n<li><strong>Debilitation</strong> The target can't @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Step}.</li>\n</ul>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -23634,10 +23700,10 @@
    {
       "_id": "kYA6LkDw4AzKI156",
       "name": "Stumbling Feint",
-      "description": "<p><strong>Requirements</strong> You are in Stumbling Stance.</p>\n<hr />\n<p>You lash out confusingly with what seems to be a weak move but instead allows you to unleash a dangerous flurry of blows upon your unsuspecting foe.</p>\n<p>When you use @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Flurry of Blows}, you can attempt a check to @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feint} as a free action just before the first @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strike}. On a success, instead of making the target @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} against your next attack, they become flat-footed against both attacks from the Flurry of Blows.</p>",
+      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.7FRYyKXDKjGoANYj]{Stumbling Stance}.</p>\n<hr />\n<p>You lash out confusingly with what seems to be a weak move but instead allows you to unleash a dangerous flurry of blows upon your unsuspecting foe.</p>\n<p>When you use @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Flurry of Blows}, you can attempt a check to @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feint} as a free action just before the first Strike.</p>\n<p>On a success, instead of making the target @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} against your next attack, they become flat-footed against both attacks from the Flurry of Blows.</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Feinte chancelante",
             "description": "<p><strong>Conditions</strong> vous avez adopt\u00e9 la Posture chancelante.</p>\n<hr />\n<p>Vous d\u00e9chainez de mani\u00e8re d\u00e9routante ce qui ressemble \u00e0 un mouvement faible mais \u00e0 la place autorisez \u00e0 d\u00e9chainer un d\u00e9luge de coups dangereux sur votre ennemi qui ne se doute de rien.</p>\n<p>Lorsque vous utilisez @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{D\u00e9luge de coups}, vous pouvez tenter un test pour @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinter} en tant qu'action libre, juste avant la premi\u00e8re @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe}. En cas de succ\u00e8s, au lieu de rendre la cible @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au d\u00e9pourvue} contre votre prochaine attaque, elle le devient contre les deux attaques du D\u00e9luge de coups.</p>"
          }
@@ -23658,7 +23724,7 @@
    {
       "_id": "kceciNwoldkzAMbq",
       "name": "Fuse Stance",
-      "description": "<p>You have combined two stances into a single stance all your own. When you take this feat, choose two stances you know and combine them into a single fused stance. Give your new fused stance a unique name. When you enter your fused stance, you gain all the effects of both stances, including the requirements and restrictions. You can't fuse stances with fundamentally incompatible requirements or restrictions (such as Ironblood Stance and Crane Stance, which both require using only one type of Strike).</p>",
+      "description": "<p>You have combined two stances into a single stance all your own. When you take this feat, choose two stances you know and combine them into a single fused stance. Give your new fused stance a unique name. When you enter your fused stance, you gain all the effects of both stances, including the requirements and restrictions. You can't fuse stances with fundamentally incompatible requirements or restrictions (such as @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Mountain Stance} and @Compendium[pf2e.feats-srd.bf7NCeKqDClaqhTR]{Crane Stance}, which both require using only one type of Strike).</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -23920,6 +23986,16 @@
       }
    },
    {
+      "_id": "lDfOzhKJoTCkLPtn",
+      "name": "Shining Oath (Liberator)",
+      "description": "<p>You've sworn an oath to put the undead to rest. Add the following tenet to your champion's code after the other tenets: \"You must end the existence of undead you encounter as long as you have a reasonable chance of success; in the unlikely event you find a good undead, you can try to work out a more peaceful way to help it recover from its undead state rather than destroying it in combat, such as helping it complete its unfinished business and find peace.\"</p>\n<p>If you use @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Liberating Step} triggered by an undead, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.</p>\n<p>@Compendium[pf2e.feat-effects.ZnKnOPPq3cG54PlG]{Effect: Liberating Step (vs. Undead)}</p>\n<p>You don't consider undead to be legitimate authorities, even in nations ruled by undead.</p>",
+      "translations": {
+         "fr": {
+            "status": "aucune"
+         }
+      }
+   },
+   {
       "_id": "lEgYzFHransLkSvI",
       "name": "Schooled In Secrets",
       "description": "<p>You notice the signs and symbols that members of mystery cults and other secret societies use to declare their affiliation to fellow members.</p>\n<p>You can use Occultism in place of Diplomacy to @Compendium[pf2e.actionspf2e.plBGdZhqq5JBl1D8]{Gather Information} about such groups. If you belong to a secret cult, lodge, sect, or similar organization, you automatically recognize members of your group unless they are specifically attempting to conceal their presence from you.</p>",
@@ -24162,7 +24238,7 @@
    {
       "_id": "lgEihn7deZwHczGE",
       "name": "Dragon Transformation",
-      "description": "<p>You transform into a ferocious Large dragon, gaining the effects of 6th-level @Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]{Dragon Form} except that you use your own AC and attack modifier; you also apply your extra damage from Rage and your breath weapon DC is your class DC. The action to Dismiss the transformation gains the rage trait.</p>\n<p>At 18th level, you gain a +20-foot status bonus to your fly Speed, your damage bonus with dragon Strikes increases to +12, your breath weapon DC is your class DC, and you gain a +14 status bonus to your breath weapon damage.</p>",
+      "description": "<p>You transform into a ferocious Large dragon, gaining the effects of 6th-level @Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]{Dragon Form} except that you use your own AC and attack modifier, you apply your extra damage from Rage, and the Breath Weapon uses your class DC. The action to Dismiss the transformation gains the rage trait.</p>\n<p>At 18th level, you gain a +20-foot status bonus to your fly Speed, your damage bonus with dragon Strikes increases to +12, and you gain a +14 status bonus to your breath weapon damage.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24678,7 +24754,7 @@
    {
       "_id": "mj1pVVFtqGLKgCQM",
       "name": "Genius Mutagen",
-      "description": "<p>Specialized tweaks to your formula that supplements your genius considerably broaden the benefits you gain from cognitive mutagens. When you're affected by a cognitive mutagen, you also gain the mutagen's item bonus to Deception, Diplomacy, Intimidation, Medicine, Nature, Performance, Religion, and Survival checks. In addition, you can communicate telepathically with creatures within 60 feet with whom you share a language. The communication is two-way once you establish it, so a creature you contact can also communicate with you.</p>",
+      "description": "<p>Specialized tweaks to your body's chemical composition considerably broaden the benefits you gain from cognitive mutagens. When you're affected by a cognitive mutagen, you also gain the mutagen's item bonus to Deception, Diplomacy, Intimidation, Medicine, Nature, Performance, Religion, and Survival checks. In addition, you can communicate telepathically with creatures within 60 feet with whom you share a language. The communication is two-way once you establish it, so a creature you contact can also communicate with you.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -24870,10 +24946,10 @@
    {
       "_id": "n2hawNmzW7DBn1Lm",
       "name": "Mountain Stronghold",
-      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Mountain Stance}</p>\n<hr />\n<p>You focus on your connection to the earth and call upon the mountain to block attacks against you. You gain a +2 circumstance bonus to AC until the beginning of your next turn.</p>\n<p><strong>Special</strong>: If you have this feat, the Dexterity modifier cap to your AC while you're in @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Mountain Stance} increases from +0 to +1.</p>",
+      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Mountain Stance}</p>\n<hr />\n<p>You focus on your connection to the earth and call upon the mountain to block attacks against you. You gain a +2 circumstance bonus to AC until the beginning of your next turn.</p>\n<hr />\n<p><strong>Special</strong> If you have this feat, the Dexterity modifier cap to your AC while you're in @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Mountain Stance} increases from +0 to +1.</p>\n<p>@Compendium[pf2e.pf2e-macros.4nEbRlo2cB9KkK7T]{Toggle Mountain Stance}</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Bastion de la montagne",
             "description": "<p><strong>Conditions</strong> Vous \u00eates dans la Posture de la montagne</p>\n<hr />\n<p>Vous vous concentrez sur votre lien avec la terre et suppliez la montagne qu\u2019elle bloque les attaques qui vous sont destin\u00e9es. Vous b\u00e9n\u00e9ficiez d\u2019un bonus de circonstances de +2 \u00e0 la CA jusqu\u2019au d\u00e9but de votre prochain tour.</p>"
          }
@@ -25146,7 +25222,7 @@
    {
       "_id": "nLidn7L2z61Ktjzk",
       "name": "Blaze Of Revelation",
-      "description": "<p>Your mind and body can, for a short time, withstand the devastation of overdrawing your curse.</p>\n<p>When you would become overwhelmed by your curse, you can forestall the effects for up to 1 minute. On each of your turns during that time, you can cast one revelation spell granted by your mystery (but not domain spells, spells from Diverse Mystery, or other revelation spells you gained from other abilities) without spending Focus Points or taking any further negative effects.</p>\n<p>At the end of the minute, the durations of any revelation spells you cast during that time end, you take the normal effects from being overwhelmed by your curse, and you must attempt a DC 40 Fortitude save.</p>\n<hr />\n<p><strong>Critical Success</strong> You aren't otherwise affected.</p>\n<p><strong>Success</strong> You are @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained} 2 and can't reduce or remove this <br />condition until your next preparations.</p>\n<p><strong>Failure</strong> You are drained 4 and can't reduce or remove this <br />condition until your next preparations.</p>\n<p><strong>Critical Failure</strong> You die.</p>",
+      "description": "<p>Your mind and body can, for a short time, withstand the devastation of overdrawing your curse.</p>\n<p>When you would become overwhelmed by your curse, you can forestall the effects for up to 1 minute. On each of your turns during that time, you can cast one revelation spell granted by your mystery (but not domain spells, spells from Diverse Mystery, or other revelation spells you gained from other abilities) without spending Focus Points or taking any further negative effects.</p>\n<p>At the end of the minute, the durations of any revelation spells you cast during that time end, you take the normal effects from being overwhelmed by your curse, and you must attempt a <span data-pf2-saving-throw=\"fortitude\" data-pf2-traits=\"\" data-pf2-label=\"\" data-pf2-dc=\"40\" data-pf2-show-dc=\"all\">Fortitude</span></p>\n<hr />\n<p><strong>Critical Success</strong> You aren't otherwise affected.</p>\n<p><strong>Success</strong> You are @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 2} and can't reduce or remove this condition until your next preparations.</p>\n<p><strong>Failure</strong> You are @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 4} and can't reduce or remove this condition until your next preparations.</p>\n<p><strong>Critical Failure</strong> You die.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25158,10 +25234,10 @@
    {
       "_id": "nRjyyDulHnP5OewA",
       "name": "Gorilla Pound",
-      "description": "<p><strong>Requirements</strong> You are in Gorilla Stance.</p>\n<hr />\n<p>You pound your chest before slamming into your foes.</p>\n<p>Attempt an Intimidation check to @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Demoralize}, then make one gorilla slam @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strike} against the same target. If your Strike hits, you gain a circumstance bonus to the damage roll equal to triple the value of the target's @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened} condition.</p>\n<p><strong>Special</strong> If you have this feat, while you are in Gorilla Stance, you gain a @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climb} Speed of 15 feet.</p>",
+      "description": "<p><strong>Requirements</strong> You are in Gorilla Stance.</p>\n<hr />\n<p>You pound your chest before slamming into your foes.</p>\n<p>Attempt an Intimidation check to @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Demoralize}, then make one gorilla slam Strike against the same target. If your Strike hits, you gain a circumstance bonus to the damage roll equal to triple the value of the target's @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened} condition.</p>\n<hr />\n<p><strong>Special</strong> If you have this feat, while you are in Gorilla Stance, you gain a @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climb} Speed of 15 feet.</p>\n<p>@Compendium[pf2e.feat-effects.UZKIKLuwpQu47feK]{Stance: Gorilla Stance (Gorilla Pound)}</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Battement du gorille",
             "description": "<p><strong>Conditions</strong> Vous avez adopt\u00e9 la Posture du gorille.</p>\n<hr>\n<p>Vous battez des bras sur votre poitrine avant de porter des coups \u00e0 vos ennemis.</p>\n<p>Effectuez un test d'Intimidation pour @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{D\u00e9moraliser}, puis portez une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} de coup du gorille contre la m\u00eame cible. Si votre Frappe touche, vous obtenez un bonus de circonstance aux jet de d\u00e9g\u00e2ts \u00e9gal au triple de la valeur de la condition @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effray\u00e9e} de la cibles.</p>\n<hr />\n<p><strong>Sp\u00e9cial</strong> Si vous poss\u00e9dez ce don, lorsque vous \u00eates dans la Posture du gorille, vous obtenez une vitesse @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{d'Escalade} de 4,5 m.</p>"
          }
@@ -25338,7 +25414,7 @@
    {
       "_id": "nnsoFOtuHnpz2QHc",
       "name": "Improbable Elixirs",
-      "description": "<p>Your mastery of alchemical secrets enables you to replicate effects most believe can be achieved only via magic. Select a number of potions equal to your Intelligence modifier (minimum 1) of 9th level or lower. You gain formulas to create these potions as alchemical items with the elixir trait. When making these alchemical elixirs, you can substitute alchemical reagents for an equal value of magical components, and you can use alchemist's tools (for Quick Alchemy) or an alchemist's lab (for the Craft activity) instead of any other required tool kits. Other than that, the formula does not change. Once you've chosen the potion formulas, they can't be changed.</p>",
+      "description": "<p>Your mastery of alchemical secrets enables you to replicate effects most believe can be achieved only via magic. Select a number of potions equal to your Intelligence modifier (minimum 1); these potions must be of 9th level or lower. You gain formulas to create these potions as alchemical items with the elixir trait. When making these alchemical elixirs, you can substitute alchemical reagents for an equal value of magical components, and you can use alchemist's tools (for Quick Alchemy) or an alchemist's lab (for the Craft activity) instead of any other required tool kits. Other than that, the formula does not change. Once you've chosen the potion formulas, they can't be changed.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -25566,7 +25642,7 @@
    {
       "_id": "oD4JyvTJj4kwe5vb",
       "name": "Warden's Step",
-      "description": "<p>You can guide your allies to move quietly through the wilderness. When you Sneak during exploration in natural terrain, you can designate any number of your allies to gain the benefits as if they were using that activity during that exploration. This requires no action on their part.</p>",
+      "description": "<p>You can guide your allies to move quietly through the wilderness. When you @Compendium[pf2e.actionspf2e.IE2nThCmoyhQA0Jn]{Avoid Notice} during exploration in natural terrain, you can designate any number of your allies to gain the benefits as if they were using that activity during that exploration. This requires no action on their part.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27126,7 +27202,7 @@
    {
       "_id": "rRbMOxX1QTHIIwAi",
       "name": "Portentous Spell",
-      "description": "<p>Your spellcasting is rife with strange lights, esoteric gestures, and other captivating effects that befuddle your foes.</p>\n<p>If the next action you use is to @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Cast a Spell}, any creature that attempts to use a reaction triggered by your Cast a Spell activity takes a -2 circumstance penalty to attack rolls and skill checks rolled as part of the reaction.</p>\n<p>In addition, if the spell includes a spell attack roll or requires a saving throw, creatures you hit or that fail their saves are @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{Fascinated} with you until the start of your next turn.</p>",
+      "description": "<p>Your spellcasting is rife with strange lights, esoteric gestures, and other captivating effects that befuddle your foes.</p>\n<p>If the next action you use is to Cast a Spell, any creature that attempts to use a reaction triggered by your Cast a Spell activity takes a -2 circumstance penalty to attack rolls and skill checks rolled as part of the reaction.</p>\n<p>In addition, if the spell includes a spell attack roll or requires a saving throw, creatures you hit or that fail their saves are @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{Fascinated} with you until the start of your next turn.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27162,10 +27238,10 @@
    {
       "_id": "rTkr1EqpAN6YtnAh",
       "name": "Lunge",
-      "description": "<p><strong>Requirement</strong> You are wielding a melee weapon</p>\n<hr />\n<p>Extending your body to its limits, you attack an enemy that would normally be beyond your reach. Make a Strike with a melee weapon, increasing your reach by 5 feet for that Strike. If the weapon has the disarm, shove, or trip trait, you can use the corresponding action instead of a Strike.</p>",
+      "description": "<p><strong>Requirements</strong> You are wielding a melee weapon</p>\n<hr />\n<p>Extending your body to its limits, you attack an enemy that would normally be beyond your reach. Make a Strike with a melee weapon, increasing your reach by 5 feet for that Strike. If the weapon has the disarm, shove, or trip trait, you can use the corresponding action instead of a Strike.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Fente",
             "description": "<p><strong>Conditions</strong> Vous maniez une arme de corps \u00e0 corps.</p>\n<hr />\n<p>En \u00e9tendant au maximum votre corps, vous pouvez attaquer un ennemi qui se trouve hors de votre allonge. Effectuez une Frappe avec une arme de corps \u00e0 corps, en augmentant votre allonge de 1,50 m pour cette Frappe. Si l\u2019arme a le trait d\u00e9sarmer, pousser ou croc\u2011en\u2011jambe, vous pouvez utiliser l\u2019action correspondante au lieu de Frapper.</p>"
          }
@@ -27210,10 +27286,10 @@
    {
       "_id": "rbiMK71SvGZGRLJ1",
       "name": "Rain of Embers Stance",
-      "description": "<p><strong>Requirements</strong> You are unarmored.</p>\n<hr />\n<p>You enter the stance of an enraged phoenix, holding your fingers as rigid as deadly talons while moving with quick, flickering gestures that flicker with dancing flames. The only Strikes you can make are fire talon Strikes. These deal <a class=\"inline-roll roll\" title=\"1d4\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"1d4\"> 1d4</a> fire damage; are in the brawling group; and have the agile, finesse, fire, nonlethal, and unarmed traits.</p>\n<p>While in Rain of Embers Stance, you gain a +1 status bonus to AC and fire resistance equal to half your level (minimum 1).</p>\n<p>@Compendium[pf2e.feat-effects.Im5JBInybWFbHEYS]{Stance: Rain of Embers Stance}</p>",
+      "description": "<p><strong>Requirements</strong> You are unarmored.</p>\n<hr />\n<p>You enter the stance of an enraged phoenix, holding your fingers as rigid as deadly talons while moving with quick, flickering gestures that flicker with dancing flames. The only Strikes you can make are fire talon Strikes. These deal 1d4 fire damage; are in the brawling group; and have the agile, finesse, fire, nonlethal, and unarmed traits.</p>\n<p>While in Rain of Embers Stance, you gain a +1 status bonus to AC and fire resistance equal to half your level (minimum 1).</p>\n<p>@Compendium[pf2e.feat-effects.Im5JBInybWFbHEYS]{Stance: Rain of Embers Stance}</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Posture de la pluie de charbons ardents",
             "description": "<p><strong>Requirements</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous entrez dans la posture du ph\u00e9nix enrag\u00e9, faisant de vos doigts des ergots aussi rigides que mortels en les d\u00e9pla\u00e7ant avec de rapides, et virevoltants gestes qui virevoltent avec des flammes dansantes. Les seules Frappes que vous pouvez faire sont des frappes d'ergots de feu. Elles infligent <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"1d4\" title=\"1d4\"><i class=\"fas fa-dice-d20\"></i>1d4</a> d\u00e9g\u00e2ts de feu ; sont dans le groupe pugilat ; et ont les traits agile, finesse, feu, non-l\u00e9tal et mains nues.</p>\n<p>Tant que vous gardez la Posture des charbons ardents, vous obtenez un bonus de statut de +1 \u00e0 la CA et une r\u00e9sistance au feu de 1 + la moiti\u00e9 de votre niveau (minimum 1).</p>\n<p>@Compendium[pf2e.feat-effects.Im5JBInybWFbHEYS]{Posture: Pluie de charbons ardents}</p>"
          }
@@ -27246,7 +27322,7 @@
    {
       "_id": "rgs6OZJYCgi5At8J",
       "name": "Effortless Concentration",
-      "description": "<p><strong>Requirement</strong> Your turn begins</p>\n<hr />\n<p>You maintain a spell with hardly a thought. You immediately gain the effects of the Sustain a Spell action, allowing you to extend the duration of one of your active class spells.</p>",
+      "description": "<p><strong>Trigger:</strong> Your turn begins</p>\n<hr />\n<p>You maintain a spell with hardly a thought. You immediately gain the effects of the Sustain a Spell action, allowing you to extend the duration of one of your active class spells.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -27438,10 +27514,10 @@
    {
       "_id": "sEWYOllJ6rYoXK4K",
       "name": "Raging Athlete",
-      "description": "<p>Physical obstacles can't hold back your fury. While you are raging, you gain a climb Speed and swim Speed equal to your land Speed, the DC of High Jumps and Long Jumps decreases by 10. Your distance for a vertical Leap increases to 5 feet vertically, and your distance for a horizontal Leap increases to 15 feet if your Speed is at least 15 feet and to 20 feet if your Speed is at least 30 feet.</p>",
+      "description": "<p>Physical obstacles can't hold back your fury. While you are raging, you gain a climb Speed and swim Speed equal to your land Speed and the DC of High Jumps and Long Jumps decreases by 10. Your distance for a vertical Leap increases by 5 feet vertically, and your distance for a horizontal Leap increases to 15 feet if your Speed is at least 15 feet and to 20 feet if your Speed is at least 30 feet.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Athl\u00e8te enrag\u00e9",
             "description": "<p>Les obstacles physiques ne suffisent pas \u00e0 arr\u00eater votre furie. Quand vous \u00eates enrag\u00e9, vous gagnez une Vitesse d\u2019escalade et une Vitesse de nage \u00e9gales \u00e0 votre Vitesse au sol, le DD de vos Sauts en hauteur et de vos Sauts en longueur est abaiss\u00e9 de 10, et la distance jusqu\u2019\u00e0 laquelle vous pouvez Bondir augmente de 1,50 m quand vous sautez horizontalement et de 60 cm quand vous sautez verticalement.</p>"
          }
@@ -27714,7 +27790,7 @@
    {
       "_id": "sfxLo9kz2WkCQiy4",
       "name": "Symphony of the Muse",
-      "description": "<p>You are able to weave countless performances together into a solo symphony. You are no longer limited to a single composition each turn or a single composition at a time; when you use a new composition, all previous compositions' effects continue for their remaining duration.</p>",
+      "description": "<p>You have learned how to weave countless performances together into a solo symphony with multitudinous effects. You are no longer limited to a single composition each turn or a single composition at a time; when you use a new composition, all previous compositions' effects continue for their remaining duration.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28266,10 +28342,10 @@
    {
       "_id": "tWBK7Zbt80JlPryC",
       "name": "Bespell Weapon",
-      "description": "<p><strong>Frequency</strong> once per turn</p>\n<p><strong>Requirements</strong> Your most recent action was to cast a non-cantrip spell.</p>\n<hr />\n<p>You siphon the residual energy from the last spell you cast into one weapon you're wielding. Until the end of your turn, the weapon deals an extra 1d6 damage of a type depending on the school of the spell you just cast.</p>\n<ul>\n<li><strong>Abjuration:</strong> force damage,</li>\n<li><strong>Conjuration or Transmutation:</strong> the same type as the weapon,</li>\n<li><strong>Divination, Enchantment, or Illusion:</strong> mental damage,</li>\n<li><strong>Evocation:</strong> a type the spell dealt, or force damage if the spell didn't deal damage,</li>\n<li><strong>Necromancy:</strong> negative damage</li>\n</ul>",
+      "description": "<p><strong>Frequency</strong> once per turn</p>\n<p><strong>Requirements</strong> Your most recent action was to cast a non-cantrip spell.</p>\n<hr />\n<p>You siphon the residual energy from the last spell you cast into one weapon you're wielding. Until the end of your turn, the weapon deals an extra 1d6 damage of a type depending on the school of the spell you just cast.</p>\n<ul>\n<li><strong>Abjuration:</strong> @Compendium[pf2e.feat-effects.GbbwJhwSNLw06XpO]{force damage},</li>\n<li><strong>Conjuration or Transmutation:</strong> @Compendium[pf2e.feat-effects.E8MiV00QEhH5n18L]{the same type as the weapon},</li>\n<li><strong>Divination, Enchantment, or Illusion:</strong> @Compendium[pf2e.feat-effects.ZSgB3imGveukWUxs]{mental damage},</li>\n<li><strong>Evocation:</strong> a type the spell dealt, or @Compendium[pf2e.feat-effects.GbbwJhwSNLw06XpO]{force damage} if the spell didn't deal damage,</li>\n<li><strong>Necromancy:</strong> @Compendium[pf2e.feat-effects.G1IRkppxJCYdfqXo]{negative damage}</li>\n</ul>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Arme enchant\u00e9e",
             "description": "<p><strong>Fr\u00e9quence</strong> une fois par tour</p>\n<p><strong>Conditions</strong> Votre action la plus r\u00e9cente a consist\u00e9 \u00e0 @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} autre qu\u2019un tour de magie.</p>\n<hr />\n<p>Vous siphonnez l\u2019\u00e9nergie r\u00e9siduelle du dernier sort que vous avez lanc\u00e9 pour l\u2019injecter dans une arme que vous maniez. Jusqu\u2019\u00e0 la fin de votre tour, cette arme inflige 1d6 d\u00e9g\u00e2ts suppl\u00e9mentaires d\u2019un type d\u00e9pendant de l\u2019\u00e9cole du sort juste lanc\u00e9.</p>\n<ul>\n<li><strong>Abjuration :</strong> d\u00e9g\u00e2ts de force,</li>\n<li><strong>Invocation ou transmutation :</strong> du m\u00eame type que l'arme,</li>\n<li><strong>Divination, Enchantement ou Illusion :</strong> d\u00e9g\u00e2ts mentaux,</li>\n<li><strong>\u00c9vocation :</strong> un type de d\u00e9g\u00e2ts du sort ou des d\u00e9g\u00e2ts de force si le sort ne fait pas de d\u00e9g\u00e2ts,</li>\n<li><strong>N\u00e9cromancie :</strong> d\u00e9g\u00e2ts d'\u00e9nergie n\u00e9gative.</li>\n</ul>"
          }
@@ -28308,6 +28384,16 @@
             "status": "officielle",
             "name": "Artisanat sp\u00e9cialis\u00e9 (Construction navale)",
             "description": "<p>Votre formation s\u2019est concentr\u00e9e sur l\u2019Artisanat d\u2019un type d\u2019objet en particulier. Vous gagnez un bonus de circonstances de +1 aux tests d\u2019Artisanat pour Fabriquer des objets de ce type. Si vous \u00eates un ma\u00eetre en Artisanat, ce bonus augmente \u00e0 +2.</p>\n<hr />\n<p>S\u2019il n\u2019est pas \u00e9vident de d\u00e9terminer si la sp\u00e9cialit\u00e9 s\u2019applique, c\u2019est le MJ qui d\u00e9cide. Certaines sp\u00e9cialit\u00e9s peuvent ne s\u2019appliquer que partiellement. Par exemple, si vous r\u00e9alisiez un morgenstern en poss\u00e9dant la sp\u00e9cialit\u00e9 \u00e9b\u00e9nisterie, le MJ pourrait ne vous accorder que la moiti\u00e9 de votre bonus parce que l\u2019objet n\u00e9cessite \u00e0 la fois forge et \u00e9b\u00e9nisterie.</p>\n<hr />\n<p><strong>Exemples d'objet</strong> Navires et bateaux</p>"
+         }
+      }
+   },
+   {
+      "_id": "tdtCwmYoBMKzfhEp",
+      "name": "Shining Oath (Redeemer)",
+      "description": "<p>You've sworn an oath to put the undead to rest. Add the following tenet to your champion's code after the other tenets: \"You must end the existence of undead you encounter as long as you have a reasonable chance of success; in the unlikely event you find a good undead, you can try to work out a more peaceful way to help it recover from its undead state rather than destroying it in combat, such as helping it complete its unfinished business and find peace.\"</p>\n<p>Your @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{Glimpse of Redemption's} resistance against damage from an undead is 7 + your level.</p>\n<p>You don't consider undead to be legitimate authorities, even in nations ruled by undead.</p>",
+      "translations": {
+         "fr": {
+            "status": "aucune"
          }
       }
    },
@@ -28434,7 +28520,7 @@
    {
       "_id": "txLcSHu6kEfmrJj1",
       "name": "Enduring Quickness",
-      "description": "<p>You move as fast and as high as the wind itself. You're permanently quickened. You can use your extra action to Stride or Leap, or to provide one of the actions needed for a High Jump or Long Jump.</p>",
+      "description": "<p>You move as fast and as high as the wind itself. You're permanently @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened}.</p>\n<p>You can use your extra action to Stride or @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Leap}, to provide one of the actions needed for a @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{High Jump} or @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Long Jump}</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28482,7 +28568,7 @@
    {
       "_id": "u2fgdFIdQDplKOS3",
       "name": "Peafowl Strut",
-      "description": "<p><strong>Requirements</strong> You are in Peafowl Stance.</p>\n<hr />\n<p>You slowly move across the battlefield with dangerous grace. @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Step} twice and then @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strike}. The Strike must be made with the sword required by Peafowl Stance.</p>",
+      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.C3MgEkPNaIhTddbr]{Peafowl Stance}.</p>\n<hr />\n<p>You slowly move across the battlefield with dangerous grace. Step twice and then Strike. The Strike must be made with the sword required by Peafowl Stance.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28500,18 +28586,6 @@
             "status": "chang\u00e9",
             "name": "Cruaut\u00e9 sup\u00e9rieure",
             "description": "<p>L'extension de votre corruption fait plus que simplement saper la force de votre adversaire, elle d\u00e9vaste leurs esprits et \u00e9mousse leurs r\u00e9flexes.</p>\n<p>Lorsque vous utilisez Cruaut\u00e9, choisissez si vous voulez rendre la cr\u00e9ature affaiblie comme \u00e0 l'ordinaire ou la rendre @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroite} 1 en cas d'\u00e9chec au jet de sauvegarde (Maladroite 2 en cas d'\u00e9chec critique) ou si vous voulez la rendre @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stup\u00e9fi\u00e9e} 1 en cas d'\u00e9chec du jet de sauvegarde (Stup\u00e9fi\u00e9e 2 sur un \u00e9chec critique).</p>"
-         }
-      }
-   },
-   {
-      "_id": "u3qBWp8ecalSwEk4",
-      "name": "Esoteric Oath",
-      "description": "<p>You've sworn an oath to slay the alien abominations that lurk in the remote corners of Golarion. Add the following tenet to your champion's code, after the other tenets. \"You must slay evil aberrations you encounter as long as you have a reasonable chance of success.\"</p>\n<p>Your @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Retributive Strike} gains a +4 circumstance bonus to damage against an evil aberration, or +6 if you have master proficiency with the weapon you used.</p>\n<p>@Compendium[pf2e.feat-effects.ZiBKX0qz7dtkU1y3]{Esoteric Oath (Paladin)}</p>\n<p>The resistance you gain from Glimpse of Redemption against damage from an evil aberration is 7 + your level.</p>\n<p>If you use @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Liberating Step} triggered by an evil aberration, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Step} twice afterward.</p>\n<p>@Compendium[pf2e.feat-effects.tAsFXMzNkpj964X4]{Effect: Liberating Step (vs. Aberration)}</p>\n<p>You don't consider evil aberrations to be legitimate authorities, even in nations they rule.</p>",
-      "translations": {
-         "fr": {
-            "status": "libre",
-            "name": "Serment \u00e9sot\u00e9rique",
-            "description": "<p>Vous avez fait le v\u0153u de tuer toutes les abominations \u00e9trang\u00e8res qui r\u00f4dent dans les coins les plus recul\u00e9s du Monde. Ajoutez le pr\u00e9cepte suivant \u00e0 votre code de champion, apr\u00e8s les autres pr\u00e9ceptes. \u201cVous devez tuer les aberrations mal\u00e9fiques que vous rencontrez tant que vous avez une chance raisonnable de succ\u00e8s.\u201d</p>\n<p>Votre @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Frappe punitive} obtient un bonus de circonstances de +4 aux d\u00e9g\u00e2ts contre une aberration mal\u00e9fique ou de +6 si vous \u00eates ma\u00eetre avec l'arme que vous avez utilis\u00e9.</p>\n<p>@Compendium[pf2e.feat-effects.ZiBKX0qz7dtkU1y3]{Effet : Serment \u00e9soterique (Paladin)}</p>\n<p>La r\u00e9sistance que vous obtenez de @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{Lueur de r\u00e9demption} contre les d\u00e9g\u00e2ts d'une aberration mal\u00e9fique est de 7 + votre niveau. Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas lib\u00e9rateur} d\u00e9clench\u00e9 par une aberration mal\u00e9fique, votre alli\u00e9 obtient un bonus de circonstances de +4 aux tests accord\u00e9s par votre Pas lib\u00e9rateur et l'alli\u00e9 peut @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{S'empresser} deux fois apr\u00e8s cela.</p>\n<p>@Compendium[pf2e.feat-effects.tAsFXMzNkpj964X4]{Effet : Pas lib\u00e9rateur (contre les aberrations)}</p>\n<p>Vous consid\u00e9rez que les aberrations mal\u00e9fiques ne sont pas des autorit\u00e9s l\u00e9gitimes, m\u00eame dans les nations qu'elles r\u00e9gissent.</p>"
          }
       }
    },
@@ -28590,7 +28664,7 @@
    {
       "_id": "uAh31Hnp1EZSjd40",
       "name": "Invincible Mutagen",
-      "description": "<p>The fortifying additives you brew into your mutagens make your juggernaut form impervious. Whenever you're affected by a juggernaut mutagen, you gain resistance to all physical damage equal to your Intelligence modifier (minimum 0).</p>",
+      "description": "<p>Repeated exposure to fortifying additives in mutagens makes your juggernaut form impervious. Whenever you're affected by a juggernaut mutagen, you gain resistance to all physical damage equal to your Intelligence modifier (minimum 0).</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28662,7 +28736,7 @@
    {
       "_id": "uJpghjJtNbqKUxRd",
       "name": "Wolf Drag",
-      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.AN9jY1JVcU20Qdw6]{Wolf Stance}</p>\n<hr />\n<p>You rip your enemy off their feet. Make a wolf jaw Strike. Your wolf jaw gains the fatal d12 trait for this Strike, and if the attack succeeds, you knock the target prone.</p>",
+      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.AN9jY1JVcU20Qdw6]{Wolf Stance}</p>\n<hr />\n<p>You rip your enemy off their feet.</p>\n<p>Make a wolf jaw Strike. Your wolf jaw gains the fatal d12 trait for this Strike, and if the attack succeeds, you knock the target @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28686,7 +28760,7 @@
    {
       "_id": "uL6q4wtwvuP8I4po",
       "name": "Flinging Blow",
-      "description": "<p>You take a moment to center yourself, then unleash a powerful blow that sends your target tumbling away.</p>\n<p>Make an unarmed @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strike}. If you hit, the target must succeed at a Fortitude save against your class DC or be pushed up to 10 feet directly away from you (or 20 feet, on a critical failure) and fall @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>\n<p>If another creature or physical object would prevent this movement, both your target and the blocking creature or object take <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"bludgeoning\" data-formula=\"1d6\" title=\"bludgeoning\"><i class=\"fas fa-dice-d20\"></i> 1d6</a> bludgeoning damage per 5 feet of movement that was prevented.</p>",
+      "description": "<p>You take a moment to center yourself, then unleash a powerful blow that sends your target tumbling away.</p>\n<p>Make an unarmed Strike. If you hit, the target must succeed at a Fortitude save against your class DC or be pushed up to 10 feet directly away from you (or 20 feet, on a critical failure) and fall @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>\n<p>If another creature or physical object would prevent this movement, both your target and the blocking creature or object take [[/r 1d6 #bludgeoning]] bludgeoning damage per 5 feet of movement that was prevented.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -28972,6 +29046,16 @@
       }
    },
    {
+      "_id": "uv235v6hXCITAFej",
+      "name": "Fiendsbane Oath (Liberator)",
+      "description": "<p>You've sworn an oath to banish the corruption of fiends to the dark planes they call home. Add the following tenet to your champion's code after the other tenets: \"You must banish or slay fiends you come across as long as you have a reasonable chance of success; in the incredibly unlikely event you find a good fiend, you don't have to banish or kill it.\"</p>\n<p>If you use @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Liberating Step} triggered by a fiend, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.</p>\n<p>@Compendium[pf2e.feat-effects.9dCt0asv0kt7DR4q]{Effect: Liberating Step (vs. Fiend)}</p>\n<p>You don't consider fiends to be legitimate authorities, even in nations ruled by fiends.</p>",
+      "translations": {
+         "fr": {
+            "status": "aucune"
+         }
+      }
+   },
+   {
       "_id": "uwJQUFLymAWtJu1a",
       "name": "Forced Entry",
       "description": "<p>You are trained to preserve the archaeological value of your location when entering. You don't take a penalty to Force Open doors, windows, or containers without a crowbar. If you roll a success on a check to Force Open, you get a critical success instead.</p>",
@@ -29136,18 +29220,6 @@
             "status": "libre",
             "name": "Initi\u00e9 du domaine \u00e9tendu",
             "description": "<p>Vous v\u00e9n\u00e9rez des aspects moins connus de votre divinit\u00e9 depuis longtemps. S\u00e9lectionnez un domaine alternatif de votre divinit\u00e9. Vous obtenez l'acc\u00e8s \u00e0 ce domaine et le sort initial de domaine pour ce domaine.</p>"
-         }
-      }
-   },
-   {
-      "_id": "vQiUYpdgYnXg0oDX",
-      "name": "Shining Oath",
-      "description": "<p>You've sworn an oath to put the undead to rest. Add the following tenet to your champion's code after the other tenets: \"You must end the existence of undead you encounter as long as you have a reasonable chance of success; in the unlikely event you find a good undead, you can try to work out a more peaceful way to help it recover from its undead state rather than destroying it in combat, such as helping it complete its unfinished business and find peace.\"</p>\n<p>Your Retributive Strike gains a +4 circumstance bonus to damage against an undead, or +6 if you have master proficiency with the weapon you used.</p>\n<p>@Compendium[pf2e.feat-effects.cRqCjs21Y1gCzcUC]{Shining Oath (Paladin)}</p>\n<p>Your Glimpse of Redemption's resistance against damage from an undead is 7 + your level.</p>\n<p>If you use Liberating Step triggered by an undead, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.</p>\n<p>@Compendium[pf2e.feat-effects.ZnKnOPPq3cG54PlG]{Effect: Liberating Step (vs. Undead)}</p>\n<p>You don't consider undead to be legitimate authorities, even in nations ruled by undead.</p>",
-      "translations": {
-         "fr": {
-            "status": "chang\u00e9",
-            "name": "Serment de lumi\u00e8re",
-            "description": "<p>Vous avez fait le serment de mettre un terme \u00e0 l\u2019existence des morts\u2011vivants. Ajoutez le principe suivant \u00e0 votre code, \u00e0 la suite des autres : \u00ab Vous devez mettre un terme \u00e0 l\u2019existence des morts\u2011vivants que vous rencontrez si vous avez des chances raisonnables d\u2019y parvenir. Dans le cas tr\u00e8s peu probable o\u00f9 vous rencontrez un mort\u2011vivant d\u2019alignement bon, vous pouvez tenter de trouver une solution plus pacifique pour l\u2019aider \u00e0 le soigner de son \u00e9tat de mort\u2011vivant au lieu de le d\u00e9truire en combat. Vous pouvez l\u2019aider \u00e0 r\u00e9soudre le probl\u00e8me qui l\u2019emp\u00eache de trouver le repos \u00e9ternel, par exemple. \u00bb</p>\n<p>Votre Frappe punitive b\u00e9n\u00e9ficie d\u2019un bonus de circonstances de +4 aux d\u00e9g\u00e2ts contre un mort\u2011vivant, ou de +6 si vous \u00eates un ma\u00eetre avec l\u2019arme que vous utilisez.</p>\n<p>@Compendium[pf2e.feat-effects.cRqCjs21Y1gCzcUC]{Serment de lumi\u00e8re (Paladin)}</p>\n<p>La r\u00e9sistance contre les d\u00e9g\u00e2ts d\u2019un mort\u2011vivant que vous conf\u00e8re votre Lueur de r\u00e9demption s\u2019\u00e9l\u00e8ve \u00e0 7 + votre niveau.</p> \n<p>Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas lib\u00e9rateur} lorsqu\u2019il est d\u00e9clench\u00e9 par un mort\u2011vivant, votre alli\u00e9 b\u00e9n\u00e9ficie d\u2019un bonus de circonstances de +4 aux tests conf\u00e9r\u00e9 par votre Pas lib\u00e9rateur et il peut ensuite Faire un pas deux fois.</p>\n<p>@Compendium[pf2e.feat-effects.ZnKnOPPq3cG54PlG]{Effet: Pas lib\u00e9rateur (contre les morts-vivants)}</p>\n<p>Vous ne consid\u00e9rez pas les morts\u2011vivants comme des autorit\u00e9s l\u00e9gitimes, m\u00eame au sein des nations sur lesquelles ils r\u00e8gnent.</p>"
          }
       }
    },
@@ -29610,10 +29682,10 @@
    {
       "_id": "wB1ONG2uO7RnD1iC",
       "name": "Flying Kick",
-      "description": "<p>You launch yourself at a foe. Make a Leap or attempt a High Jump or Long Jump. At the end of the jump, if you're adjacent to a foe, you can immediately Strike that foe with an unarmed attack, even if the foe is in mid-air. You fall to the ground after the Strike. If the distance you fall is no more than the height of your jump, you land upright and take no damage.</p>",
+      "description": "<p>You launch yourself at a foe. Make a @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Leap} or attempt a @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{High Jump} or @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Long Jump}.</p>\n<p>At the end of the jump, if you're adjacent to a foe, you can immediately Strike that foe with an unarmed attack, even if the foe is in midair. You fall to the ground after the Strike. If the distance you fall is no more than the height of your jump, you land upright and take no damage.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Coup de pied saut\u00e9",
             "description": "<p>Vous bondissez sur un ennemi. Faites un Bond ou tentez un Saut en hauteur ou en longueur. \u00c0 la fin du saut, si vous \u00eates adjacent \u00e0 un adversaire, vous pouvez imm\u00e9diatement le Frapper \u00e0 mains nues, m\u00eame s\u2019il est dans les airs. Vous tombez par terre apr\u00e8s la Frappe. Si vous chutez d\u2019une distance inf\u00e9rieure ou \u00e9gale \u00e0 la hauteur de votre saut, vous ne subissez aucun d\u00e9g\u00e2t et retombez sur vos pieds.</p>"
          }
@@ -29742,7 +29814,7 @@
    {
       "_id": "wKx7BWdQu5sEjL9j",
       "name": "Wild Winds Gust",
-      "description": "<p><strong>Requirements</strong> You are in wild winds stance</p>\n<hr />\n<p>You store up energy and release it in an enormous gust of rushing wind. Make a wind crash Strike against each creature in your choice of a 30-foot cone or a 60 foot line. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.</p>",
+      "description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.spells-srd.SkarN4VlNxSJSJNw]{Wild Winds Stance}</p>\n<hr />\n<p>You store up energy and release it in an enormous gust of rushing wind. Make a wind crash Strike against each creature in your choice of a 30-foot cone or a 60 foot line. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30114,10 +30186,10 @@
    {
       "_id": "wz2edbLFnDKDNWWZ",
       "name": "Flurry of Maneuvers",
-      "description": "<p>You flurry is a combination of maneuvers. You can replace one or both of your attacks during a Flurry of Blows with Grapples, Shoves, or Trips.</p>",
+      "description": "<p>You flurry is a combination of maneuvers. You can replace one or both of your attacks during a Flurry of Blows with @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapples}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shoves}, or @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trips}.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "D\u00e9luges de manoeuvres",
             "description": "<p>Votre d\u00e9luge est une combinaison de man\u0153uvres. Vous pouvez remplacer l\u2019une de vos attaques, ou les deux, lors d\u2019un d\u00e9luge de coups par des Saisies, des Pouss\u00e9es ou des Crocs\u2011en\u2011jambe.</p>"
          }
@@ -30174,7 +30246,7 @@
    {
       "_id": "x9cYkB8DrUBBwqJd",
       "name": "Ironblood Stance",
-      "description": "<p><strong>Requirements</strong> You are unarmored</p>\n<hr />\n<p>You enter the stance of impenetrable iron, refusing to yield to any blow. You can make iron sweep unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the nonlethal, parry, sweep, and unarmed traits. While in Ironblood Stance, you gain resistance 2 to all damage. The resistance increases to 3 at 12th level, to 4 at 16th level, and to 5 at 20th level.</p>\n<p>@Compendium[pf2e.feat-effects.tPKXLtDJ3bzJcXlv]{Stance: Ironblood Stance}</p>",
+      "description": "<p><strong>Requirements</strong> You are unarmored</p>\n<hr />\n<p>You enter the stance of impenetrable iron, refusing to yield to any blow. You can make iron sweep unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the nonlethal, parry, sweep, and unarmed traits.</p>\n<p>While in Ironblood Stance, you gain resistance 2 to all damage. The resistance increases to 3 at 12th level, to 4 at 16th level, and to 5 at 20th level.</p>\n<p>@Compendium[pf2e.feat-effects.tPKXLtDJ3bzJcXlv]{Stance: Ironblood Stance}</p>\n<p>@Compendium[pf2e.equipment-effects.fRlvmul3LbLo2xvR]{Effect: Parry}</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30342,7 +30414,7 @@
    {
       "_id": "xQuNswWB3eg1UM28",
       "name": "Cobra Envenom",
-      "description": "<p><strong>Frequency</strong> once per minute</p>\n<p><strong>Requirements</strong> You are in Cobra Stance.</p>\n<hr />\n<p>You lash out with devious intent and the power to envenom your foe. Make a cobra fang @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strike}. Your reach with this Strike is 5 feet greater than normal. If this Strike hits, the target takes [[/r 1d4 # persistent poison]] persistent poison damage per weapon damage die.</p>\n<hr />\n<p><strong>Special</strong> If you have this feat, the circumstance bonus to Fortitude saves and Fortitude DC granted by Cobra Stance increases from +1 to +2.</p>",
+      "description": "<p><strong>Frequency</strong> once per minute</p>\n<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.AkV4Jyllo6nlK2Sl]{Cobra Stance}.</p>\n<hr />\n<p>You lash out with devious intent and the power to envenom your foe. Make a cobra fang Strike. Your reach with this Strike is 5 feet greater than normal.</p>\n<p>If this Strike hits, the target takes [[/r 1d4 #persistent poison]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Poison Damage} per weapon damage die.</p>\n<hr />\n<p><strong>Special</strong> If you have this feat, the circumstance bonus to Fortitude saves and Fortitude DC granted by Cobra Stance increases from +1 to +2.</p>\n<p>@Compendium[pf2e.feat-effects.2Qpt0CHuOMeL48rN]{Stance: Cobra Stance (Cobra Envenom)}</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -30582,10 +30654,10 @@
    {
       "_id": "xoIxiRtBVHV27Rvd",
       "name": "Divine Aegis",
-      "description": "<p><strong>Trigger</strong> You attempt a saving throw against a magical effect, but you haven't rolled yet.</p>\n<hr />\n<p>You summon divine energy to shield yourself, offering protection against other traditions but leaving you exposed to other divine effects.</p>\n<p>Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against non-divine magical effects, but you also take a -1 circumstance penalty to saves against divine effects.</p>",
+      "description": "<p><strong>Trigger</strong> You attempt a saving throw against a magical effect, but you haven't rolled yet.</p>\n<hr />\n<p>You summon divine energy to shield yourself, offering protection against other traditions but leaving you exposed to other divine effects.</p>\n<p>Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against non-divine magical effects, but you also take a -1 circumstance penalty to saves against divine effects.</p>\n<p>@Compendium[pf2e.feat-effects.K1IgNCf3Hh2EJwQ9]{Effect: Divine Aegis}</p>",
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "\u00c9gide divine",
             "description": "<p><strong>D\u00e9clencheur</strong> Vous effectuez un jet de sauvegarde contre un effet magique, mais vous n'avez pas encore lanc\u00e9 le jet.</p>\n<hr />\n<p>Vous invoquez de l'\u00e9nergie divine pour faire rempart, vous offrant une protection contre les autres traditions mais vous laissant expos\u00e9 aux effets divins.</p>\n<p>Jusqu'au d\u00e9but de votre prochain tour, vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets magiques non divins, mais subissez aussi une p\u00e9nalit\u00e9 de circonstances de \u20131 aux jets de sauvegarde contre les effets divins.</p>"
          }
@@ -31134,7 +31206,7 @@
    {
       "_id": "z2ptq23nNBOeEI7H",
       "name": "Quickened Casting",
-      "description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>If your next action is to cast a class cantrip or a class spell that is at least 2 levels lower than the highest level class spell slot you have, reduce the number of actions to cast it by 1 (minimum 1 action).</p>",
+      "description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>If your next action is to cast a class cantrip or a class spell that is at least 2 levels lower than the highest-level class spell slot you have, reduce the number of actions to cast it by 1 (minimum 1 action).</p>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",
@@ -31626,7 +31698,7 @@
    {
       "_id": "zt5CWn3UrPViwaB3",
       "name": "Vicious Debilitations",
-      "description": "<p>The debilitations you dish out seriously impair your foes. Add the following debilitations to the list you can choose from when you use Debilitating Strike.</p>\n<ul>\n<li><strong>Debilitation:</strong> The target gains weakness 5 to your choice of bludgeoning, piercing, or slashing damage.</li>\n<li><strong>Debilitation:</strong> The target becomes clumsy 1.</li>\n</ul>",
+      "description": "<p>The debilitations you dish out seriously impair your foes. Add the following debilitations to the list you can choose from when you use Debilitating Strike.</p>\n<ul>\n<li><strong>Debilitation:</strong> The target gains weakness 5 to your choice of bludgeoning, piercing, or slashing damage.</li>\n<li><strong>Debilitation:</strong> The target becomes @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1}.</li>\n</ul>",
       "translations": {
          "fr": {
             "status": "chang\u00e9",

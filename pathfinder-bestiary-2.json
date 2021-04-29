@@ -2865,7 +2865,9 @@
       "description": "Hell's armies contain legions upon legions of different devils all suited precisely to their roles. But such an army needs able commanders, and it is this role that cornugons fill. Their mere presence inspires those under their command to improved performance- often through fear of the horrible torments that a cornugon can unleash as punishment for failure. Forged in the fires of Malebolge from the most renowned warriors among lesser devilkind, even the least cornugon is among the fiercest warriors of the multiverse. The greatest among them on occasion ascend further still, becoming those rare and feared legends of Hell called malebranche.<br /><br />",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "libre",
+            "name": "Cornugon",
+            "description": "Les arm\u00e9es de l'enfer contiennent des l\u00e9gions et des l\u00e9gions de diables diff\u00e9rents, tous parfaitement adapt\u00e9s \u00e0 leur r\u00f4le. Mais une telle arm\u00e9e a besoin de commandants comp\u00e9tents et c'est ce r\u00f4le que remplissent les cornugons. Leur simple pr\u00e9sence incite ceux qui sont sous leurs ordres \u00e0 am\u00e9liorer leurs performances, souvent par peur des horribles tourments qu'un cornugon peut d\u00e9clencher en cas d'\u00e9chec. Forg\u00e9 dans les feux de Malebolge \u00e0 partir des combattants les plus renomm\u00e9s parmi les diables inf\u00e9rieurs, m\u00eame le moindre des cornugons fait partie des guerriers les plus f\u00e9roces du multivers. Les plus grands d'entre eux s'\u00e9l\u00e8vent parfois encore plus haut, devenant ces rares et redoutables l\u00e9gendes de l'enfer appel\u00e9es malebranche.<br /><br />"
          }
       }
    },
@@ -2875,7 +2877,9 @@
       "description": "These aggressive serpents infest bogs and lowlands. Despite a length of over 16 feet and weighing over 200 pounds, they can climb trees in seconds. An emperor cobra wards off predators by flaring its hood and hissing at its attacker.<br /><br />",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "libre",
+            "name": "Cobra empereur",
+            "description": "Ces serpents agressifs infestent les tourbi\u00e8res et les plaines. Malgr\u00e9 une longueur de pr\u00e8s de 5 m et un poids de plus de 100 kilos, ils peuvent grimper aux arbres en quelques secondes. Le cobra empereur repousse ses pr\u00e9dateurs en d\u00e9ployant sa collerette et en sifflant son agresseur.<br /><br />"
          }
       }
    },
@@ -2894,7 +2898,9 @@
       "description": "Vrykolakas masters are sinister shapechangers. They walk undetected among the living and prey upon them like a wolf among sheep, often leaving the corpses to rise as vrykolakas spawn.<br /><br />",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "libre",
+            "name": "Ma\u00eetre Vrykolakas",
+            "description": "Les ma\u00eetres Vrykolakas sont de sinistres matamorphe. Ils passent inaper\u00e7us parmi les vivants et s'en prennent \u00e0 eux comme un loup parmi les moutons, laissant souvent les cadavres ressusciter sous la forme de rejetons de vrykolakas.<br /><br />"
          }
       }
    },
@@ -2913,7 +2919,9 @@
       "description": "When a living, sentient humanoid is exposed to an extreme expression of supernatural evil, the experience can irrevocably damn the victim, crushing their mind and ripping out their soul in an appalling, unholy transformation that results in a creature that's anathema to life-the bodak.<br /><br />The shreds of physicality that survive this absolute corruption serve only to enhance the humanoid's profoundly disturbing appearance. The bodak's body is horrifically twisted, as though it's locked in a convulsion of agony and terror. Its desiccated and hairless flesh bears an otherworldly, pearlescent sheen, strung taut across a malformed skeleton that reduces its gait to a slow shamble. But most disturbing of all are its eyes, set in a drooping, melted visage with scant remains of its former facial structure. These eyes, sunken deep into their sockets, nevertheless glow with an unholy light, stare with unremitting malevolence, and constantly weep noxious vapor.<br /><br />Fragmented memories of a prior existence filtered through a vengeful hatred of the living lead the bodak to try to return to those places it once knew. If successful, it assaults former friends, acquaintances, and loved ones with its murderous gaze and an incomprehensible torrent of gibberish laced with vile curses, accusations, and threats-an assault that often leads to the victims rising as newly formed bodaks themselves.<br /><br />",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "libre",
+            "name": "Bodak",
+            "description": "Lorsqu'un humano\u00efde vivant et sensible est expos\u00e9 \u00e0 une expression extr\u00eame du mal surnaturel, l'exp\u00e9rience peut condamner irr\u00e9vocablement la victime, \u00e9crasant son esprit et arrachant son \u00e2me dans une transformation effroyable et impie qui donne naissance \u00e0 une cr\u00e9ature qui est un anath\u00e8me pour la vie - le bodak.<br /><br />Les restes de son physique qui survit \u00e0 cette corruption absolue ne sert qu'\u00e0 augmenter l'aspect profond\u00e9ment d\u00e9rangeant de l'humano\u00efde. Le corps du bodak est horriblement tordu, comme s\u2019il \u00e9tait pris dans une convulsion d\u2019agonie et de terreur. Sa chair dess\u00e9ch\u00e9e et glabre porte une teinte nacr\u00e9e d'un autre monde, tendue sur un squelette malform\u00e9 qui r\u00e9duit sa d\u00e9marche \u00e0 un lent boitillement. Mais ce qui est le plus troublant, ce sont ses yeux, plac\u00e9s dans un visage affaiss\u00e9, fondu, avec peu de restes de son ancienne structure faciale. Ces yeux, profond\u00e9ment enfonc\u00e9s dans leurs orbites, brillent n\u00e9anmoins d'une lumi\u00e8re impie, vous fixent avec une malveillance ininterrompue et laissent \u00e9chapper en permanence une vapeur nocive.<br /><br />Des souvenirs fragment\u00e9s d'une existence ant\u00e9rieure, filtr\u00e9s par une haine vengeresse des vivants, poussent le bodak \u00e0 essayer de retourner dans les lieux qu'il a connus. S'il y parvient, il assaille ses anciens amis, connaissances et proches avec son regard meurtrier et avec un torrent incompr\u00e9hensible de charabia truff\u00e9 d'ignobles mal\u00e9dictions, accusations et menaces - un assaut qui conduit souvent les victimes \u00e0 devenir \u00e0 leur tour des bodaks nouvellement form\u00e9s.<br /><br />"
          }
       }
    },
