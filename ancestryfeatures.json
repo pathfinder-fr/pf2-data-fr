@@ -176,9 +176,9 @@
       ],
       "translations": {
          "fr": {
-            "status": "chang\u00e9",
+            "status": "libre",
             "name": "Homme-f\u00e9lin liminaire",
-            "description": "<p>Vous avez h\u00e9rit\u00e9 d'une proximit\u00e9 avec les lointains confins du monde, l\u00e0 o\u00f9 les fronti\u00e8res entre les dimensions deviennent fines. Vous pouvez lancer D\u00e9tection de la magie comme un tour de magie occulte inn\u00e9 intensifi\u00e9 \u00e0 la moiti\u00e9 de votre niveau, arrondi au sup\u00e9rieur. Vous obtenez aussi un bonus de circonstances de +1 aux tests d'Occultisme pour Vous souvenir \u00e0 propos des cr\u00e9atures qui sont \u00e9trang\u00e8res au Plan mat\u00e9riel.</p>"
+            "description": "<p>Vous avez h\u00e9rit\u00e9 d'une proximit\u00e9 avec les lointains confins du monde, l\u00e0 o\u00f9 les fronti\u00e8res entre les dimensions deviennent fines. Vous pouvez lancer D\u00e9tection de la magie comme un tour de magie occulte inn\u00e9 intensifi\u00e9 \u00e0 la moiti\u00e9 de votre niveau, arrondi au sup\u00e9rieur.</p>\n<p>Vous obtenez aussi un bonus de circonstances de +1 aux tests d'Occultisme pour Vous souvenir \u00e0 propos des cr\u00e9atures qui sont \u00e9trang\u00e8res au Plan Mat\u00e9riel.</p>"
          }
       }
    },
