@@ -1,5 +1,21 @@
 [
    {
+      "_id": "0TFf82gcfxXG9A54",
+      "name": "Spellkeeper Shisk",
+      "description": "<p>Your magical knowledge allows you to cast simple spells. Choose occult or primal. You gain one cantrip from that magical tradition\u2019s spell list. You can cast this spell as an innate spell at will, as a spell of your chosen tradition. A cantrip is heightened to a spell level equal to half your level rounded up.</p>",
+      "traits": [
+         "heritage",
+         "shisk"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Shisk garde sort",
+            "description": "<p>Vos connaissances magiques vous permettent de lancer des sorts simples. Choisissez occulte ou primitif. Vous gagnez un tour de magie de la liste des sorts de cette tradition magique. Vous pouvez lancer ce sort comme un sort inn\u00e9 \u00e0 volont\u00e9, comme un sort de la tradition choisie. Un tour de magie est renforc\u00e9 \u00e0 un niveau de sort \u00e9gal \u00e0 la moiti\u00e9 de votre niveau arrondi \u00e0 l'unit\u00e9 sup\u00e9rieure.</p>"
+         }
+      }
+   },
+   {
       "_id": "0vaeOoECfVD5EGbq",
       "name": "Warrenbred Hobgoblin",
       "description": "<p>Your ancestors lived underground. Your ears are larger than those of other hobgoblins and sensitive to echoes. When you are underground, you can use the @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} action to sense @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected} creatures within a 30-foot burst instead of a 15-foot burst. In addition, if you roll a success on an Acrobatics check to @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Squeeze}, you get a critical success instead.</p>",
@@ -106,6 +122,22 @@
       }
    },
    {
+      "_id": "2kSzKDtwbcILZTIe",
+      "name": "Snaptongue Grippli",
+      "description": "<p>Your tongue is especially long, and you can launch it with extraordinary range and precision. You can use your tongue to deliver touch-range spells and perform extremely simple Interact actions, such as opening some types of unlocked doors. Your tongue can\u2019t perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can\u2019t use it to hold items.</p>",
+      "traits": [
+         "grippli",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Grippli \u00e0 longue langue",
+            "description": "<p>Votre langue est particuli\u00e8rement longue et vous pouvez la projeter avec une port\u00e9e et une pr\u00e9cision extraordinaires. Vous pouvez utiliser votre langue pour lancer des sorts \u00e0 de contact et effectuer des actions Interagir extr\u00eamement simples, comme ouvrir certains types de portes d\u00e9verrouill\u00e9es. Votre langue ne peut pas effectuer des actions qui n\u00e9cessitent des doigts ou une importante dext\u00e9rit\u00e9 manuelle, incluant toute action qui n\u00e9cessiterait un test pour \u00eatre accomplie et vous ne pouvez pas l'utiliser pour tenir des objets.</p>"
+         }
+      }
+   },
+   {
       "_id": "32oX6hHUY6K8N70Q",
       "name": "Charhide Goblin",
       "description": "<p>Your ancestors have always had a connection to fire and a thicker skin, which allows you to resist burning. You gain fire resistance equal to half your level (minimum 1). You can also recover from being on fire more easily. Your flat check to remove persistent fire damage is DC 10 instead of DC 15, which is reduced to DC 5 if another creature uses a particularly appropriate action to help.</p>",
@@ -138,13 +170,13 @@
    {
       "_id": "3F5ffk7cmnrBhPcT",
       "name": "Liminal Catfolk",
-      "description": "<p>You\u2019ve inherited a closeness to the far corners of the world, where the boundaries between dimensions grow thin. You can cast detect magic as an occult innate cantrip heightened to half your level, rounded up. You also gain a +1 circumstance bonus to Occultism checks to Recall Knowledge about creatures that originated outside of the Material Plane.</p>",
+      "description": "<p>You\u2019ve inherited a closeness to the far corners of the world, where the boundaries between dimensions grow thin. You can cast detect magic as an occult innate cantrip heightened to half your level, rounded up.</p>\n<p>You also gain a +1 circumstance bonus to Occultism checks to Recall Knowledge about creatures that originated outside of the Material Plane.</p>",
       "traits": [
          "catfolk"
       ],
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Homme-f\u00e9lin liminaire",
             "description": "<p>Vous avez h\u00e9rit\u00e9 d'une proximit\u00e9 avec les lointains confins du monde, l\u00e0 o\u00f9 les fronti\u00e8res entre les dimensions deviennent fines. Vous pouvez lancer D\u00e9tection de la magie comme un tour de magie occulte inn\u00e9 intensifi\u00e9 \u00e0 la moiti\u00e9 de votre niveau, arrondi au sup\u00e9rieur. Vous obtenez aussi un bonus de circonstances de +1 aux tests d'Occultisme pour Vous souvenir \u00e0 propos des cr\u00e9atures qui sont \u00e9trang\u00e8res au Plan mat\u00e9riel.</p>"
          }
@@ -193,6 +225,22 @@
             "status": "officielle",
             "name": "Nain des forges",
             "description": "<p>Vos anc\u00eatres vivaient dans des d\u00e9serts torrides ou dans des chambres volcaniques souterraines et ils vous ont transmis leur remarquable capacit\u00e9 d\u2019adaptation aux environnements chauds. Vous b\u00e9n\u00e9ficiez ainsi d\u2019une r\u00e9sistance au feu \u00e9gale \u00e0 la moiti\u00e9 de votre niveau (avec un minimum de 1) et vous subissez tous les effets environnementaux li\u00e9s \u00e0 la chaleur comme si leur intensit\u00e9 \u00e9tait r\u00e9duite d\u2019un rang (la chaleur extraordinaire devient extr\u00eame, la chaleur extr\u00eame devient grande, etc.).</p>"
+         }
+      }
+   },
+   {
+      "_id": "6JKdAZGa8odFzleS",
+      "name": "Farsight Goloma",
+      "description": "<p>Your eyes have adapted to see more in less than favorable conditions. You gain @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}.</p>",
+      "traits": [
+         "goloma",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Goloma \u00e0 vision de loin",
+            "description": "<p>Vos yeux se sont adapt\u00e9s pour mieux voir dans des conditions moins favorables. Vous gagnez @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne}.</p>"
          }
       }
    },
@@ -257,6 +305,22 @@
       }
    },
    {
+      "_id": "7gGcpQMqnZhBDZLI",
+      "name": "Adaptive Anadi",
+      "description": "<p>You descend from a line of anadi who worked to perfect their transformation magic, allowing them to integrate into a wider variety of cultures. Choose a common, Medium humanoid ancestry. Your human form is replaced with a form that matches this choice. You also gain the @Compendium[pf2e.feats-srd.ihN8gkHSdPG9Trte]{Adopted Ancestry} feat for your chosen humanoid ancestry.</p>",
+      "traits": [
+         "anadi",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Anadi adapt\u00e9e",
+            "description": "<p>Vous descendez d'une lign\u00e9e d'anadis qui ont travaill\u00e9 \u00e0 perfectionner leur magie de transformation, leur permettant de s'int\u00e9grer \u00e0 une plus grande vari\u00e9t\u00e9 de cultures. Choisissez une ascendance humano\u00efde courante de taille moyenne. Votre forme humaine est remplac\u00e9e par une forme qui correspond \u00e0 ce choix. Vous gagnez \u00e9galement le don @Compendium[pf2e.feats-srd.ihN8gkHSdPG9Trte]{Ascendance adoptive} pour l'ascendance humano\u00efde choisie.</p>"
+         }
+      }
+   },
+   {
       "_id": "7lFPhRMAFXQsXUP2",
       "name": "Snow Rat",
       "description": "<p>You have a thicker coat and bulkier frame to defend against the cold, granting you cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).</p>",
@@ -289,7 +353,7 @@
    {
       "_id": "7vHLPleFpSqKAjWG",
       "name": "Stormtossed Tengu",
-      "description": "<p><span id=\"docs-internal-guid-86da5438-7fff-95ca-40da-9c43890897f2\"></span></p>\n<p dir=\"ltr\">Whether due to a blessing from Hei Feng or hatching from your egg during a squall, you are resistant to storms. You gain electricity resistance equal to half your level (minimum 1).</p>\n<p dir=\"ltr\">You automatically succeed at the flat check to target a @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} creature if that creature is concealed only by rain or fog.</p>",
+      "description": "<p>Whether due to a blessing from Hei Feng or hatching from your egg during a squall, you are resistant to storms. You gain electricity resistance equal to half your level (minimum 1).</p>\n<p>You automatically succeed at the flat check to target a @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} creature if that creature is concealed only by rain or fog.</p>",
       "traits": [
          "tengu"
       ],
@@ -334,7 +398,7 @@
    {
       "_id": "87h0jepQuzIbN7jN",
       "name": "Fungus Leshy",
-      "description": "<p>Your body was made from fungi that grows in the shade of caves and trees, and you are at home in dark caverns and warrens. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>",
+      "description": "<p>Your body was made from fungi that grows in the shade of caves and trees, and you are at home in dark caverns and warrens. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}. You lose the plant trait and gain the fungus trait.</p>",
       "traits": [
          "leshy"
       ],
@@ -342,7 +406,7 @@
          "fr": {
             "status": "libre",
             "name": "L\u00e9chi fongique",
-            "description": "<p>Votre corps a \u00e9t\u00e9 fait de champignon qui grandit dans l'ombre des grottes et des arbres et vous \u00eates chez vous dans les cavernes sombres et les terriers. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
+            "description": "<p>Votre corps a \u00e9t\u00e9 fait de champignon qui grandit dans l'ombre des grottes et des arbres et vous \u00eates chez vous dans les cavernes sombres et les terriers. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}. Vous perdez le trait plante et obtenez le trait champignon.</p>"
          }
       }
    },
@@ -407,6 +471,21 @@
       }
    },
    {
+      "_id": "AUlPRySCqE6o6LHH",
+      "name": "Eyes in Back",
+      "description": "<p>You have eyes that point in several different directions and instinctively notice movement in the peripheries of your vision. When you use the Seek basic action, you can look for creatures in two areas instead of one. If precision is necessary, you can select two 30-foot cones or 15-foot bursts within line of sight instead of one.</p>",
+      "traits": [
+         "goloma"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Yeux dans le dos",
+            "description": "<p>Vous avez des yeux qui pointent dans plusieurs directions \u00e0 la fois et vous remarquez instinctivement les mouvements \u00e0 la p\u00e9riph\u00e9rie de votre vision. Lorsque vous utilisez l'action de base Chercher, vous pouvez chercher des cr\u00e9atures dans deux zones au lieu d'une. Si la pr\u00e9cision est n\u00e9cessaire, vous pouvez s\u00e9lectionner deux c\u00f4nes de 9 m ou deux explosions de 4,5 m dans votre ligne de mire au lieu d'un seul.</p>"
+         }
+      }
+   },
+   {
       "_id": "AzGJN1wwLFaLJIeo",
       "name": "Aquatic Adaptation",
       "description": "<p>Your reptilian biology allows you to hold your breath for a long time. You gain the @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Breath Control} general feat as a bonus feat.</p>",
@@ -422,6 +501,22 @@
       }
    },
    {
+      "_id": "B89BCo6LtI3SJq54",
+      "name": "Sweetbreath Gnoll",
+      "description": "<p>You\u2019re a striped, pale-furred gnoll with oddly pleasant breath, which you can use to entrance your prey. You are trained in Diplomacy (or another skill if you were already trained in Diplomacy). You also gain a +1 circumstance bonus to checks to Make an Impression if the target can smell your breath.</p>\n<hr />\n<p><em>Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill.</em></p>",
+      "traits": [
+         "gnoll",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Gnoll \u00e0 haleine douce",
+            "description": "<p>Vous \u00eates un gnoll ray\u00e9, \u00e0 la fourrure p\u00e2le, avec une haleine \u00e9trangement agr\u00e9able, que vous pouvez utiliser pour attirer vos proies. Vous \u00eates qualifi\u00e9 en Diplomatie (ou une autre comp\u00e9tence si vous \u00e9tiez d\u00e9j\u00e0 qualifi\u00e9 en Diplomatie). Vous obtenez \u00e9galement un bonus de circonstances de +1 aux tests pour Faire bonne impression si la cible peut sentir votre haleine.</p>\n<hr />\n<p><em>Note : Si vous \u00eates d\u00e9j\u00e0 qualifi\u00e9 avec la comp\u00e9tence fournie par ce don, vous devez s\u00e9lectionner manuellement une comp\u00e9tence alternative.</em></p>."
+         }
+      }
+   },
+   {
       "_id": "BFOsMnWfXL1oaWkY",
       "name": "Steelskin Hobgoblin",
       "description": "<p>When you are cut or burned, your body responds by forming tough but flexible callouses over the site of the injury. Over time, this makes the most vulnerable sections of your body harder and more resistant to damage. Many steelskin hobgoblins intentionally use blades and flame to scar themselves in intricate patterns, though this isn\u2019t universal. Your flat check to recover from persistent physical (including bleed), energy, or poison damage is DC 13 (rather than DC 15), or DC 8 when provided particularly effective assistance.</p>",
@@ -433,6 +528,21 @@
             "status": "libre",
             "name": "Hobgobelin Peaud'acier",
             "description": "<p>Lorsque vous \u00eates coup\u00e9 ou br\u00fbl\u00e9, votre corps r\u00e9pond en formant des cals robustes et souples \u00e0 l'endroit de la blessure. Au fil du temps, cela rend les sections les plus vuln\u00e9rables de votre corps plus dures et plus r\u00e9sistantes aux d\u00e9g\u00e2ts. Nombre d'hobgobelins Peaud'acier utilisent volontairement des lames et des flammes pour se scarifier eux-m\u00eames selon des sch\u00e9mas alambiqu\u00e9s, bien que ce ne soit pas le cas de tous. Votre test nu pour r\u00e9cup\u00e9rer des d\u00e9g\u00e2ts physiques persistants (incluant le saignement), d'\u00e9nergie ou des d\u00e9g\u00e2ts de poison est un DD 13 (au lieu d'un DD 15) ou un DD 8 lorsque l'assistance fournie est particuli\u00e8rement efficace.</p>"
+         }
+      }
+   },
+   {
+      "_id": "BgHrucbZ9TH92RDv",
+      "name": "Sunlight Healing",
+      "description": "<p>A conrasu can enter a meditative, healing state as a 10-minute activity when exposed to direct sunlight, in which case they recover 1d8 Hit Points. At 3rd level, and every 2 levels thereafter, this healing increases by 1d8. Once a conrasu has recovered Hit Points in this way, they are temporarily immune to further uses of Sunlight Healing for 1 day.</p>",
+      "traits": [
+         "conrasu"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Gu\u00e9rison par le soleil",
+            "description": "<p>Un conrasu peut entrer dans un \u00e9tat m\u00e9ditatif et de gu\u00e9rison en y consacrant une activit\u00e9 de 10 minutes lorsqu'il est expos\u00e9 \u00e0 la lumi\u00e8re directe du soleil, auquel cas il r\u00e9cup\u00e8re 1d8 points de vie. Au niveau 3, et tous les 2 niveaux par la suite, cette gu\u00e9rison augmente de 1d8. Une fois qu'un conrasu a r\u00e9cup\u00e9r\u00e9 des points de vie de cette fa\u00e7on, il est temporairement immunis\u00e9 contre d'autres utilisations de Gu\u00e9rison par le soleil pendant 1 jour.</p>"
          }
       }
    },
@@ -563,6 +673,22 @@
       }
    },
    {
+      "_id": "EoWwvDdoMqN5x0c9",
+      "name": "Rite of Light",
+      "description": "<p>Your exoskeleton bears small shoots that can share life. When using your Sunlight Healing, you can restore the Hit Points of an adjacent ally instead of yourself. That ally becomes temporarily immune to all uses of Sunlight Healing for 1 day.</p>",
+      "traits": [
+         "conrasu",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Rite de lumi\u00e8re",
+            "description": "<p>Votre exosquelette porte de petites pousses qui peuvent partager la vie. Lorsque vous utilisez Gu\u00e9rison par le soleil, vous pouvez restaurer les points de vie d'un alli\u00e9 adjacent au lieu de vous-m\u00eame. Cet alli\u00e9 devient temporairement immunis\u00e9 contre toutes les utilisations de Gu\u00e9rison du soleil pendant 1 jour.</p>>"
+         }
+      }
+   },
+   {
       "_id": "Eq42wZ5OTweJLnLU",
       "name": "Gutsy Halfling",
       "description": "<p>Your family line is known for keeping a level head and staving off fear when the chips were down, making them wise leaders and sometimes even heroes. When you roll a success on a saving throw against an emotion effect, you get a critical success instead.</p>",
@@ -574,6 +700,22 @@
             "status": "officielle",
             "name": "Halfelin flegmatique",
             "description": "<p>Votre lign\u00e9e, r\u00e9put\u00e9e pour garder la t\u00eate froide et r\u00e9sister \u00e0 la panique dans les pires situations, a donn\u00e9 naissance \u00e0 de sages dirigeants et m\u00eame \u00e0 quelques h\u00e9ros. Si vous obtenez un succ\u00e8s \u00e0 un jet de sauvegarde contre un effet d\u2019\u00e9motion, vous obtenez \u00e0 la place un succ\u00e8s critique.</p>"
+         }
+      }
+   },
+   {
+      "_id": "Fgysc0A1pFQE8PMA",
+      "name": "Lorekeeper Shisk",
+      "description": "<p>You grew up surrounded by knowledge and secrets. You become trained in one Lore skill and one other Intelligence- or Wisdom-based skill of your choice. At 5th level, you become expert in the chosen skills.</p>",
+      "traits": [
+         "heritage",
+         "shisk"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Shisk conservateur de savoir",
+            "description": "<p>Vous avez grandi entour\u00e9 de connaissances et de secrets. Vous devenez qualifi\u00e9 dans une comp\u00e9tence de Connaissances et dans une autre comp\u00e9tence de votre choix bas\u00e9e sur l'Intelligence ou la Sagesse. Au niveau 5, vous devenez expert dans les comp\u00e9tences choisies.</p>"
          }
       }
    },
@@ -626,9 +768,25 @@
       }
    },
    {
+      "_id": "GNSTUFBk2bU28GIl",
+      "name": "Stonestep Shisk",
+      "description": "<p>Navigating mountains and other rocky terrain is second nature to you. You can ignore non-magical difficult terrain caused by rubble and uneven ground made of stone and earth.</p>",
+      "traits": [
+         "heritage",
+         "shisk"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Shisk pied de pierre",
+            "description": "<p>Arpenter les montagnes et autres terrains rocheux est une seconde nature pour vous. Vous pouvez ignorer les terrains difficiles non magiques caus\u00e9s par les gravats et les sols irr\u00e9guliers en pierre et en terre.</p>"
+         }
+      }
+   },
+   {
       "_id": "GlejQr3rBh3sn8sL",
       "name": "River Azarketi",
-      "description": "<p>You come from azarketis who abandoned the oceans for the fresh water of inland life. The varied geography of rivers required you to develop advanced physical skills to swim against rapids, leap through cascading waters, and deftly navigate shallow and narrow channels. When you succeed at an Athletics check to Swim, you get a critical success instead.</p>",
+      "description": "<p>You come from azarketis who abandoned the oceans for the fresh water of inland life. The varied geography of rivers required you to develop advanced physical skills to swim against rapids, leap through cascading waters, and deftly navigate shallow and narrow channels.</p>\n<p>When you succeed at an Athletics check to Swim, you get a critical success instead.</p>",
       "traits": [
          "azarketi"
       ],
@@ -636,7 +794,7 @@
          "fr": {
             "status": "libre",
             "name": "Azarketi fluvial",
-            "description": "<p>vous descendez des azarketis qui ont abandonn\u00e9 les oc\u00e9ans pour l'eau douce et la vie \u00e0 l'int\u00e9rieur des terres. La g\u00e9ographie vari\u00e9e des rivi\u00e8res rend n\u00e9cessaire que vous d\u00e9veloppiez des comp\u00e9tences physiques avanc\u00e9es pour nager contre les rapides, bondir dans les eaux des cascades et naviguer avec expertise dans les canaux peu profonds et \u00e9troits. Lorsque vous r\u00e9ussissez un test d'Athl\u00e9tisme pour Nager, vous obtenez un succ\u00e8s critique \u00e0 la place.</p>"
+            "description": "<p>vous descendez des azarketis qui ont abandonn\u00e9 les oc\u00e9ans pour l'eau douce et la vie \u00e0 l'int\u00e9rieur des terres. La g\u00e9ographie vari\u00e9e des rivi\u00e8res rend n\u00e9cessaire que vous d\u00e9veloppiez des comp\u00e9tences physiques avanc\u00e9es pour nager contre les rapides, bondir dans les eaux des cascades et naviguer avec expertise dans les canaux peu profonds et \u00e9troits.</p>\n<p>Lorsque vous r\u00e9ussissez un test d'Athl\u00e9tisme pour Nager, vous obtenez un succ\u00e8s critique \u00e0 la place.</p>"
          }
       }
    },
@@ -654,6 +812,22 @@
             "status": "libre",
             "name": "Ondin",
             "description": "<p>Un anc\u00eatre \u00e9l\u00e9mentaire d'eau influence votre lignage. Vous obtenez le trait ondin, en plus des traits de votre ascendance. Vous obtenez une vitesse de Nage de 3 m et le trait amphibie. Comme toutes les cr\u00e9atures avec le trait amphibie, vous pouvez respirer l'air et l'eau. Vous pouvez choisir les dons d'ondin et les dons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons de descendants de g\u00e9nies</h3>\n<p>Au niveau 1, vous obtenez un don d'ascendance et vous obtenez un don d'ascendance suppl\u00e9mentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de g\u00e9nie, vous pouvez choisir parmi les dons d'ascendance de descendants de g\u00e9nie en plus de ceux qui sont accessibles du fait de votre h\u00e9ritage sp\u00e9cifique de descendant de g\u00e9nie et de votre ascendance.</p>"
+         }
+      }
+   },
+   {
+      "_id": "GpnHIonrLN8TFZci",
+      "name": "Rite of Invocation",
+      "description": "<p>You augmented your exoskeleton with magic. You gain one cantrip from the arcane or occult spell list. You can cast this spell as an innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.</p>",
+      "traits": [
+         "conrasu",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Rite d'invocation",
+            "description": "<p>Vous avez augment\u00e9 votre exosquelette avec de la magie. Vous gagnez un tour de magie de la liste des sorts arcaniques ou occultes. Vous pouvez lancer ce sort comme un sort inn\u00e9 \u00e0 volont\u00e9. Un tour de magie est augment\u00e9 d'un niveau de sort \u00e9gal \u00e0 la moiti\u00e9 de votre niveau arrondi \u00e0 l'unit\u00e9 sup\u00e9rieure.</p>>"
          }
       }
    },
@@ -748,6 +922,22 @@
       }
    },
    {
+      "_id": "KJ2dSDXP9d5hJHzd",
+      "name": "Frightful Goloma",
+      "description": "<p>Your face has a particularly off-putting appearance. You are trained in Intimidation (or another skill of your choice if you were already trained in Intimidation) and gain the @Compendium[pf2e.feats-srd.xQMz6eDgX75WX2ce]{Intimidating Glare} skill feat as a bonus feat.</p>\n<hr />\n<p><em>Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill.</em></p>",
+      "traits": [
+         "goloma",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Goloma effrayant",
+            "description": "<p>Votre visage a une apparence particuli\u00e8rement rebutante. Vous \u00eates qualifi\u00e9 en Intimidation (ou dans une comp\u00e9tence de votre choix si vous \u00eates d\u00e9j\u00e0 qualifi\u00e9 en Intimidation) et vous gagnez le don de comp\u00e9tence @Compendium[pf2e.feats-srd.xQMz6eDgX75WX2ce]{Regard intimidant} comme don suppl\u00e9mentaire.</p>.\n<hr />\n<p><em>Note : Si vous \u00eates d\u00e9j\u00e0 qualifi\u00e9 dans la comp\u00e9tence fournie par ce don, vous devez s\u00e9lectionner manuellement une comp\u00e9tence alternative.</em></p>"
+         }
+      }
+   },
+   {
       "_id": "KO33MNyY9VqNQmbZ",
       "name": "Wintertouched Human",
       "description": "<p>The power of winter flows through you. This heritage is most common among the Jadwiga of Irrisen, due to their descent from Baba Yaga, and certain Erutaki touched by the spirits. You gain cold resistance equal to half your level (minimum 1), and you treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).</p>",
@@ -774,6 +964,22 @@
             "status": "libre",
             "name": "Pixie",
             "description": "<p>Vous \u00eates plus grand que les autres sprites. Au lieu de Tr\u00e8s petite, votre taille est Petite.</p>"
+         }
+      }
+   },
+   {
+      "_id": "KcozzlkFAqShDEzo",
+      "name": "Stronggut Shisk",
+      "description": "<p>Your metabolism is slow, allowing you to go for days without food and process maladies at a slower rate. You can go for 1 week without food before you begin to starve Additionally, the onset times and lengths of stages for all diseases and poisons that affect you are increased by 50%. If the onset time or stage is instant or lasts only 1 round, this ability has no effect.</p>",
+      "traits": [
+         "heritage",
+         "shisk"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Shisk aux instestins solides",
+            "description": "<p>Votre m\u00e9tabolisme est lent, ce qui vous permet de passer des jours sans nourriture et de freiner le rythme des afflictions. Vous pouvez rester 1 semaine sans nourriture avant de commencer \u00e0 mourir de faim. De plus, les d\u00e9lais d'incubation et la dur\u00e9e des stades de toutes les maladies et de tous les poisons qui vous affectent sont augment\u00e9s de 50%. Si le d\u00e9lai d'incubation ou le stade sont instantan\u00e9s ou ne durent qu'un round, cette capacit\u00e9 n'a aucun effet.</p>"
          }
       }
    },
@@ -915,7 +1121,7 @@
    {
       "_id": "Mmezbef0c1fbJaVV",
       "name": "Impersonator Android",
-      "description": "<p>Your body was augmented with processes and an appearance intended to blend in with humans more easily. You become trained in Deception (or another skill if you\u2019re already trained in Deception). You don\u2019t require a disguise kit when attempting Deception checks to Impersonate a human. In addition, you gain a +4 circumstance bonus to Impersonate checks to pretend that you\u2019re a human version of yourself, rather than an android. This bonus doesn\u2019t apply to other checks to Impersonate humans.</p>",
+      "description": "<p>Your body was augmented with processes and an appearance intended to blend in with humans more easily.</p>\n<p>You become trained in Deception (or another skill if you\u2019re already trained in Deception). You don\u2019t require a disguise kit when attempting Deception checks to @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{Impersonate} a human.</p>\n<p>In addition, you gain a +4 circumstance bonus to Impersonate checks to pretend that you\u2019re a human version of yourself, rather than an android. This bonus doesn\u2019t apply to other checks to Impersonate humans.</p>",
       "traits": [
          "android"
       ],
@@ -923,7 +1129,7 @@
          "fr": {
             "status": "libre",
             "name": "Imposteur andro\u00efde",
-            "description": "<p>Votre corps a \u00e9t\u00e9 am\u00e9lior\u00e9 avec des processus et une apparence dans le but de se fondre avec les humains plus facilement. Vous devenez qualifi\u00e9 en Duperie (ou une autre comp\u00e9tence si vous \u00e9tiez d\u00e9j\u00e0 qualifi\u00e9 en Duperie). Vous n'avez pas besoin d'un kit de d\u00e9guisement lorsque vous faites un test de Duperie pour vous d\u00e9guiser en un humain. De plus, vous obtenez un bonus de circonstances de +4 pour les tests de D\u00e9guisement pour pr\u00e9tendre que vous \u00eates une version humaine de vous-me\u00eam et non un andro\u00efde. Ce bonus ne s'applique pas aux autres tests pour vous d\u00e9guiser en d'autres humains.</p>"
+            "description": "<p>Votre corps a \u00e9t\u00e9 am\u00e9lior\u00e9 avec des processus et une apparence dans le but de se fondre avec les humains plus facilement.</p>\n<p>Vous devenez qualifi\u00e9 en Duperie (ou une autre comp\u00e9tence si vous \u00e9tiez d\u00e9j\u00e0 qualifi\u00e9 en Duperie). Vous n'avez pas besoin d'un kit de d\u00e9guisement lorsque vous faites un test de Duperie pour vous d\u00e9guiser en un humain.</p>\n<p>De plus, vous obtenez un bonus de circonstances de +4 pour les tests de D\u00e9guisement pour pr\u00e9tendre que vous \u00eates une version humaine de vous-m\u00eame et non un andro\u00efde. Ce bonus ne s'applique pas aux autres tests pour vous d\u00e9guiser en d'autres humains.</p>"
          }
       }
    },
@@ -978,13 +1184,13 @@
    {
       "_id": "NWsZ0cIeghyzk9bU",
       "name": "Sharp-Eared Catfolk",
-      "description": "<p>You were born with big, expressive ears that move with your moods and perk up at any unexpected sound. You gain a +2 circumstance bonus to locate undetected creatures that you could hear within 30 feet with a Seek action. As long as you\u2019re aware of a creature via sound, once per round, your ears can help you Point Out the creature to all allies as a free action.</p>",
+      "description": "<p>You were born with big, expressive ears that move with your moods and perk up at any unexpected sound. You gain a +2 circumstance bonus to locate undetected creatures that you could hear within 30 feet with a Seek action.</p>\n<p>As long as you\u2019re aware of a creature via sound, once per round, your ears can help you @Compendium[pf2e.actionspf2e.sn2hIy1iIJX9Vpgj]{Point Out} the creature to all allies as a free action.</p>",
       "traits": [
          "catfolk"
       ],
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Homme-f\u00e9lin aux oreilles pointues",
             "description": "<p>Vous \u00eates n\u00e9 avec des grandes oreilles expressives qui se meuvent en fonction de voter humeur et se redressent au moindre son inattendu. Vous obtenez un bonus de circonstances de +2 pour localiser les cr\u00e9atures Non d\u00e9tect\u00e9es que vous pourriez entendre dans les 9 m avec une action Chercher. Tant que vous \u00eates conscient d'une cr\u00e9ature via le son, une fois par round, vos oreilles peuvent vous aider \u00e0 @Compendium[pf2e.actionspf2e.sn2hIy1iIJX9Vpgj]{Signaler} la cr\u00e9ature \u00e0 tous les alli\u00e9s par une action libre.</p>"
          }
@@ -993,7 +1199,7 @@
    {
       "_id": "Nd9hdX8rdYyRozw8",
       "name": "Ancient Elf",
-      "description": "<p>In your long life, you've dabbled in many paths and many styles. Choose a class other than your own. You gain the multiclass dedication feat for that class, even though you don't meet its level prerequisite. You must still meet its other prerequisites to gain the feat.</p>",
+      "description": "<p>In your long life, you've dabbled in many paths and many styles. typical ancient elf is at least 100 years old, though you might be younger at the GM\u2019s discretion. Choose a class other than your own. You gain the multiclass dedication feat for that class, even though you don't meet its level prerequisite. You must still meet its other prerequisites to gain the feat.</p>",
       "traits": [
          "elf"
       ],
@@ -1001,7 +1207,7 @@
          "fr": {
             "status": "libre",
             "name": "Elfe ancien",
-            "description": "<p>Dans votre longue vie, vous avez emprunt\u00e9 de nombreux chemins et de nombreux styles. Choisissez une classe autre que la v\u00f4tre. Vous obtenez le don de d\u00e9vouement de multiclassage pour cette classe, m\u00eame si vous n'en remplissez pas les conditions de niveau. Vous devez toujours remplir les autres pr\u00e9requis pour obtenir le don.</p>"
+            "description": "<p>Dans votre longue vie, vous avez emprunt\u00e9 de nombreux chemins et de nombreux styles. Un elfe ancien typique est \u00e2g\u00e9 d'au moins 100 ans mais peut \u00eatre plus jeune \u00e0 la discr\u00e9tion du MJ. Choisissez une classe autre que la v\u00f4tre. Vous obtenez le don de d\u00e9vouement de multiclassage pour cette classe, m\u00eame si vous n'en remplissez pas les conditions de niveau. Vous devez toujours remplir les autres pr\u00e9requis pour obtenir le don.</p>"
          }
       }
    },
@@ -1062,6 +1268,19 @@
             "status": "libre",
             "name": "Fetchelin liminaire",
             "description": "<p>Vous provenez d'une lign\u00e9e de fetchelins disposant d'un lien plus proche avec les plans \u00e9th\u00e9r\u00e9s et de l'ombre et vous partagez l'affinit\u00e9 de ces royaumes avec l'entre-deux et l'invisible. Vous obtenez un bonus de circonstances de +1 pour localiser les cr\u00e9atures @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non d\u00e9tect\u00e9es}dans les 18 m lorsque vous utilisez l'action Chercher. Votre test nu pour cibler les cr\u00e9atures @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqu\u00e9es} se fait contre un DD 3 au lieu d'un DD 5 et votre test nu pour cibles de cr\u00e9atures non d\u00e9tect\u00e9es est un DD 9 au lieu d'un DD 11.</p>"
+         }
+      }
+   },
+   {
+      "_id": "R6rcqRsBR0KIho5n",
+      "name": "Change Shape (Anadi)",
+      "description": "<p>As a anadi, you gain the @Compendium[pf2e.actionspf2e.34E7k2YRcsOU5uyl]{Change Shape (Anadi)} ability.</p>",
+      "traits": [
+         "anadi"
+      ],
+      "translations": {
+         "fr": {
+            "status": "aucune"
          }
       }
    },
@@ -1143,6 +1362,22 @@
       }
    },
    {
+      "_id": "SqEcb1c3yeoJMxm0",
+      "name": "Great Gnoll",
+      "description": "<p>You\u2019re a large, powerful gnoll, with tawny fur and brown spots on your hide. You gain 10 Hit Points from your ancestry instead of 8 and gain a +1 circumstance bonus to Athletics checks to Shove or Trip foes.</p>",
+      "traits": [
+         "gnoll",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Grand gnoll",
+            "description": "<p>Vous \u00eates un gnoll grand et puissant, avec une fourrure fauve et des taches brunes sur votre peau. Vous gagnez 10 points de vie gr\u00e2ce \u00e0 votre ascendance au lieu de 8 et b\u00e9n\u00e9ficiez d'un bonus de circonstances de +1 aux tests d'athl\u00e9tisme pour Pousser ou faire un Croc-en-jambe \u00e0 vos ennemis.</p>"
+         }
+      }
+   },
+   {
       "_id": "Svk2CHwvurK1QQhD",
       "name": "Ifrit",
       "description": "<p>You descend from fire elementals or bear the mark of the Inner Spheres, and your features illustrate the influence that elemental fire has over you. You gain the ifrit trait, in addition to the traits from your ancestry. You gain resistance to fire equal to half your level (minimum 1), and you treat environmental heat effects as if they were one step less severe (incredible heat becomes extreme, extreme heat becomes severe, and so on). You can choose from ifrit feats and feats from your ancestry whenever you gain an ancestry feat.</p>\n<hr />\n<p>GENIEKIN FEATS</p>\n<p>At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a geniekin you can choose from among the following ancestry feats, in addition to those available to your specific geniekin heritage and your ancestry.</p>",
@@ -1155,7 +1390,7 @@
          "fr": {
             "status": "libre",
             "name": "\u00c9frit",
-            "description": "<p>Vous descendez des \u00e9l\u00e9mentaires de feu ou portez la marque des Sph\u00e8res int\u00e9rieures et vos traits illustrent l'influence que les \u00e9l\u00e9mentaires du feu ont sur vous. Vous obtenez le trai \u00e9frit, en plus des traits de votre ascendance. Vous obtenez la r\u00e9sistance au feu \u00e9gal \u00e0 la moiti\u00e9 de votre niveau (minimum 1) et vous traites les effets environnementaux de chaleur comme s'ils \u00e9taient d'un cran moins s\u00e9v\u00e8re (la chaleur incroyable devient extr\u00eame, la chaleur extr\u00eame devient s\u00e9v\u00e8re, etc). Vous pouvez choisir parmi les dons d'\u00e9frit et lesdons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons de descendants de g\u00e9nies</h3>\n<p>Au niveau 1, vous obtenez un don d'ascendance et vous obtenez un don d'ascendance suppl\u00e9mentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de g\u00e9nie, vous pouvez choisir parmi les dons d'ascendance de descendants de g\u00e9nie en plus de ceux qui sont accessibles du fait de votre h\u00e9ritage sp\u00e9cifique et de votre ascendance.</p>"
+            "description": "<p>Vous descendez des \u00e9l\u00e9mentaires de feu ou portez la marque des Sph\u00e8res int\u00e9rieures et vos traits illustrent l'influence que les \u00e9l\u00e9mentaires du feu ont sur vous. Vous obtenez le trai \u00e9frit, en plus des traits de votre ascendance. Vous obtenez la r\u00e9sistance au feu \u00e9gal \u00e0 la moiti\u00e9 de votre niveau (minimum 1) et vous traitez les effets environnementaux de chaleur comme s'ils \u00e9taient d'un cran moins s\u00e9v\u00e8re (la chaleur incroyable devient extr\u00eame, la chaleur extr\u00eame devient s\u00e9v\u00e8re, etc). Vous pouvez choisir parmi les dons d'\u00e9frit et lesdons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons de descendants de g\u00e9nies</h3>\n<p>Au niveau 1, vous obtenez un don d'ascendance et vous obtenez un don d'ascendance suppl\u00e9mentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de g\u00e9nie, vous pouvez choisir parmi les dons d'ascendance de descendants de g\u00e9nie en plus de ceux qui sont accessibles du fait de votre h\u00e9ritage sp\u00e9cifique et de votre ascendance.</p>"
          }
       }
    },
@@ -1313,7 +1548,7 @@
    {
       "_id": "VRyX00OuPGsJSurM",
       "name": "Spellscale Kobold",
-      "description": "<p>A trace of draconic magic flows through your veins. Choose one cantrip from the arcane spell list (Core Rulebook 307). You can Cast this Spell as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. You gain the trained proficiency rank in arcane spell attack rolls and spell DCs, and your key spellcasting ability is Charisma.</p>",
+      "description": "<p>A trace of draconic magic flows through your veins. Choose one cantrip from the arcane spell list. You can Cast this Spell as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. You gain the trained proficiency rank in arcane spell attack rolls and spell DCs, and your key spellcasting ability is Charisma.</p>",
       "traits": [
          "kobold"
       ],
@@ -1321,7 +1556,7 @@
          "fr": {
             "status": "libre",
             "name": "Kobold \u00e9caille de sort",
-            "description": "<p>Une trace de magie draconique coule \u00e0 travers vos veines. Choisissez un tour de magie de la liste de sort arcanique. Vous pouvez @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer ce sort} comme un sort inn\u00e9 arcanique \u00e0 volont\u00e9. Un tour de magie est intensifi\u00e9 \u00e0 un niveau de sort \u00e9gal \u00e0 la moiti\u00e9 de votre niveau arrondi au sup\u00e9rieur. Vous devenez qualifi\u00e9 en jets d'attaque de sorts arcaniques et en DD de sort et votre caract\u00e9ristique essentielle est le Charisme.</p>"
+            "description": "<p>Une trace de magie draconique coule \u00e0 travers vos veines. Choisissez un tour de magie de la liste de sort arcanique. Vous pouvez Lancer ce sort comme un sort inn\u00e9 arcanique \u00e0 volont\u00e9. Un tour de magie est intensifi\u00e9 \u00e0 un niveau de sort \u00e9gal \u00e0 la moiti\u00e9 de votre niveau arrondi au sup\u00e9rieur. Vous devenez qualifi\u00e9 en jets d'attaque de sorts arcaniques et en DD de sort et votre caract\u00e9ristique essentielle d'incantation est le Charisme.</p>"
          }
       }
    },
@@ -1461,6 +1696,22 @@
       }
    },
    {
+      "_id": "WxcbLvufI6JBpLt0",
+      "name": "Spindly Anadi",
+      "description": "<p>Your limbs are exceptionally long in both forms, allowing you to skitter about with surprising agility. Your Speed increases from 25 to 30 feet.</p>",
+      "traits": [
+         "anadi",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Anadi sautillant",
+            "description": "<p>Vos membres sont exceptionnellement longs sous vos deux formes, ce qui vous permet de sautiller avec une agilit\u00e9 surprenante. Votre vitesse passe de 7,5 m \u00e0 9 m.</p>"
+         }
+      }
+   },
+   {
       "_id": "XeXWsvcWU3Zaj5WC",
       "name": "Chameleon Gnome",
       "description": "<p>The color of your hair and skin is mutable, possibly due to latent magic. You can slowly change the vibrancy and the exact color, and the coloration can be different across your body, allowing you to create patterns or other colorful designs.</p>\n<p>It takes a single action for minor localized shifts and up to an hour for dramatic shifts throughout your body. While you're asleep, the colors shift on their own in tune with your dreams, giving you an unusual coloration each morning.</p>\n<p>When you're in an area where your coloration is roughly similar to the environment (for instance, forest green in a forest), you can use the single action to make minor localized shifts designed to help you blend into your surroundings. This grants you a +2 circumstance bonus to Stealth checks until your surroundings shift in coloration or pattern.</p>",
@@ -1552,6 +1803,22 @@
       }
    },
    {
+      "_id": "bmA9JK06rnOKpNLr",
+      "name": "Poisonhide Grippli",
+      "description": "<p>You may be small, but the poison glands concealed across your body hide a deadly defense. You gain the @Compendium[pf2e.actionspf2e.kKKHwVUnroKuAnOt]{Toxic Skin} reaction.</p>",
+      "traits": [
+         "grippli",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Grippli \u00e0 peau empoisonn\u00e9e",
+            "description": "<p>Vous pouvez \u00eatre petit mais les glandes empoisonn\u00e9es situ\u00e9es sous votre peau cachent une d\u00e9fensse mortelle. Vous obtenez la r\u00e9action @Compendium[pf2e.actionspf2e.kKKHwVUnroKuAnOt]{Peau toxique}.</p>"
+         }
+      }
+   },
+   {
       "_id": "cCy8vsZENlwiAyZ6",
       "name": "Twilight Halfling",
       "description": "<p>Your ancestors performed many secret acts under the concealing cover of dusk, whether for good or ill, and over time they developed the ability to see in twilight beyond even the usual keen sight of halflings. You gain @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}.</p>",
@@ -1567,6 +1834,38 @@
       }
    },
    {
+      "_id": "cnbwtbDmlD0KoLqY",
+      "name": "Insightful Goloma",
+      "description": "<p>You\u2019ve learned to watch for telltale signs of dangerous sentiments to help you avoid trouble. You gain a +1 circumstance bonus to your Perception DC against attempts to Lie to you and your Perception checks to Sense Motive.</p>",
+      "traits": [
+         "goloma",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Goloma perspicace",
+            "description": "</p>>Vous avez appris \u00e0 rep\u00e9rer les signes r\u00e9v\u00e9lateurs de sentiments dangereux pour vous aider \u00e0 \u00e9viter les ennuis. Vous gagnez un bonus de circonstances de +1 \u00e0 votre DD de Perception contre les tentatives de vous Mentir et \u00e0 vos tests de Perception pour Deviner les intentions.</p>."
+         }
+      }
+   },
+   {
+      "_id": "cwOUw7kofcAiY01I",
+      "name": "Snaring Anadi",
+      "description": "<p>You were hatched with hooked fangs that give you an edge when hunting in your true form. Your fangs attack gains the grapple and trip traits.</p>",
+      "traits": [
+         "anadi",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Anadi pi\u00e9geur",
+            "description": "<p>Vous avez \u00e9clos avec des crocs crochus qui vous donnent un avantage lorsque vous chassez sous votre vraie forme. Votre attaque de crocs gagne les traits Saisir et croc-en-jambe.</p>"
+         }
+      }
+   },
+   {
       "_id": "d0bNxgGqvaCkFlhN",
       "name": "Umbral Gnome",
       "description": "<p>Whether from a connection to dark or shadowy fey, from the underground deep gnomes also known as svirfneblin, or another source, you can see in complete darkness. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>",
@@ -1578,6 +1877,21 @@
             "status": "officielle",
             "name": "Gnome ombral",
             "description": "<p>Vous \u00eates capable de voir dans les t\u00e9n\u00e8bres les plus totales. Vous tenez peut-\u00eatre ce pouvoir d\u2019un lien avec les f\u00e9es sombres ou les f\u00e9es des ombres, avec les gnomes des profondeurs (aussi appel\u00e9s les svirfneblins) qui vivent sous terre ou il vous vient d\u2019une autre origine. Vous gagnez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
+         }
+      }
+   },
+   {
+      "_id": "dCp517IUFJk8JvQc",
+      "name": "Fangs",
+      "description": "<p>You were born with a natural means for hunting and self-defense. You gain a fangs unarmed attack that deals [[/r 1d6 #piercing]] piercing damage. Your fangs are in the brawling group and have the finesse and unarmed traits.</p>",
+      "traits": [
+         "anadi"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Crocs",
+            "description": "<p>Vous \u00eates n\u00e9 avec un moyen naturel de chasser et pour vous d\u00e9fendre. Vous obtenez une attaque de crocs \u00e0 mains nues qui infligen [[/r 1d6 #perforantts]] d\u00e9g\u00e2ts perforants. Vos crocs sont dans le groupe pugilat et poss\u00e8dent le trait finesse et \u00e0 mains nues.</p>"
          }
       }
    },
@@ -1608,6 +1922,22 @@
             "status": "libre",
             "name": "L\u00e9chi feuillu",
             "description": "<p>Votre corps est principalement fait de feuillage naturel et, comme une feuille tombant d'un arbre, vous aterrissez avec une grace particuli\u00e8re lorsque vous chutez. Vous ne subissez pas de d\u00e9g\u00e2ts en cas de chute, quelle que soit la distance de cette derni\u00e8re.</p>"
+         }
+      }
+   },
+   {
+      "_id": "daaXga11ov9YQVNq",
+      "name": "Polychromatic Anadi",
+      "description": "<p>Your body is covered with exceptionally colorful hairs that create vibrant, eye-catching patterns, some of which might even show in your human form. You become trained in Performance (or another skill if you were already trained in Performance), and you gain the @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{Impressive Performance} feat.</p>\n<hr />\n<p><em>Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill.</em></p>",
+      "traits": [
+         "anadi",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Anadi polychromatique",
+            "description": "<p>Votre corps est couvert de poils exceptionnellement color\u00e9s qui cr\u00e9ent des motifs vibrants et accrocheurs, dont certains pourraient m\u00eame appara\u00eetre sous votre forme humaine. Vous devenez qualifi\u00e9 en Repr\u00e9sentation (ou dans une autre comp\u00e9tence si vous \u00e9tiez d\u00e9j\u00e0 qualifi\u00e9 en Repr\u00e9sentation), et vous gagnez le don @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{Repr\u00e9sentation impressionnante}.</p>\n<hr />\n<p><em>Note : Si vous \u00eates d\u00e9j\u00e0 qualifi\u00e9 avec la comp\u00e9tence li\u00e9 \u00e0 ce don, vous devez s\u00e9lectionner manuellement une comp\u00e9tence alternative.</em></p>."
          }
       }
    },
@@ -1652,7 +1982,7 @@
          "fr": {
             "status": "libre",
             "name": "Rat d'\u00e9go\u00fbts",
-            "description": "<p>Vous descendez d'une longue lign\u00e9e d'ysokis \u00e9tablie dans les \u00e9go\u00fbts d'une vaste m\u00e9tropole. Vous \u00eates immunis\u00e9 \u00e0 la maladie et \u00e0 la pestilence. Chacun de vos jets de sauvegarde r\u00e9ussi contre une maladie ou un poison r\u00e9duit son stade de 2 ou de 1 s'il s'agit d'une maladie ou d'un poison virulents. Chaque succ\u00e8s critique \u00e0 votre jet de sauvegarde contre une maladie ou un poison r\u00e9duit son stade de 3 ou de 2 pour une maladie ou un poison virulents.</p>"
+            "description": "<p>Vous descendez d'une longue lign\u00e9e d'ysokis \u00e9tablie dans les \u00e9go\u00fbts d'une vaste m\u00e9tropole. Vous \u00eates immunis\u00e9 \u00e0 la maladie de la fi\u00e8vre de la fange. Chacun de vos jets de sauvegarde r\u00e9ussi contre une maladie ou un poison r\u00e9duit son stade de 2 ou de 1 s'il s'agit d'une maladie ou d'un poison virulents. Chaque succ\u00e8s critique \u00e0 votre jet de sauvegarde contre une maladie ou un poison r\u00e9duit son stade de 3 ou de 2 pour une maladie ou un poison virulents.</p>"
          }
       }
    },
@@ -1696,7 +2026,7 @@
       "translations": {
          "fr": {
             "status": "libre",
-            "name": "L\u00e9chi \u00e0 liane",
+            "name": "L\u00e9chi liane",
             "description": "<p>Les lianes pr\u00e9hensiles qui sont li\u00e9es \u00e0 votre corps vous accordent une comp\u00e9tence in\u00e9gal\u00e9e pour Escalader. Vous n'avez pas besoin d'avoir chacune de vos mains libres pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimper}. De plus, si vous obtenez un Succ\u00e8s \u00e0 un test d'Athl\u00e9tisme pour Grimper, vous consid\u00e9rez qu'il s'agit d'un succ\u00e8s critique.</p>"
          }
       }
@@ -1728,6 +2058,22 @@
             "status": "libre",
             "name": "Strix oiseauchanteur",
             "description": "<p>Vous descendez d'une lign\u00e9e talentueuse de conteurs strix. Des plus hautes montagnes et des \u00e9tendues sauvages les plus vierges o\u00f9 vos poumons ont pu se remplir de l'air pur et glorieux, vous faites des trilles, sifflez et fredonnez des chansons m\u00e9lodieuses. Alors que des sons naturels vous pr\u00e9disposent \u00e0 chanter, les voix vous ont pr\u00e9dispos\u00e9 \u00e0 l'imitation. Vous recevez un bonus de circonstances de +1 sur les tests de Duperie pour D\u00e9guiser une voix imit\u00e9e, lorsque le son de la voix est l'unique facteur pris en compte ; si vous \u00eates un ma\u00eetre en Duperie, vous obtenez un bonus de circonstances de +2 \u00e0 la place. Vous gagnez aussi un bonus de circonstances de +1 aux tests de Repr\u00e9sentation pour chanter ; si vous \u00eates un ma\u00eetre en Repr\u00e9sentation, vous obtenez un bonus de circonstances de +2 \u00e0 la place.</p>"
+         }
+      }
+   },
+   {
+      "_id": "faLb2rczsrxAuOTt",
+      "name": "Rite of Knowing",
+      "description": "<p>You enhanced your exoskeleton with a connection to Axis, allowing you to tap into the infinite knowledge of the plane. You gain the Call to Axis action.</p>",
+      "traits": [
+         "conrasu",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Rite du savoir",
+            "description": "</p>>Vous avez am\u00e9lior\u00e9 votre exosquelette avec une connexion \u00e0 Axis, ce qui vous permet de puiser dans les connaissances infinies de ce plan. Vous gagnez l'action @Compendium[pf2e.actionspf2e.k5TASjIxghvGCy7g]{Appel \u00e0 Axis}.</p>>"
          }
       }
    },
@@ -1852,6 +2198,21 @@
       }
    },
    {
+      "_id": "iW6UN722ERvurAl1",
+      "name": "Swim (Mistbreath Azarketi)",
+      "description": "<p>Mistbreath Azarketi get a base Swim speed of 15.</p>",
+      "traits": [
+         "azarketi"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Nage (Azarketi soufflebrume)",
+            "description": "<p>Un azarketi souffle brume obtient une vitesse de natation de 4,5 m.</p>"
+         }
+      }
+   },
+   {
       "_id": "iY2CCqoMc2bRdoas",
       "name": "Created Fleshwarp",
       "description": "<p>You were created through occult or alchemical processes, such as being grown in a vat or stitched together from the body parts of other creatures by a scientist in Ustalav. Your manufactured body is durable; you don\u2019t need to eat and can\u2019t starve. You gain a +2 circumstance bonus to saving throws against diseases.</p>",
@@ -1957,6 +2318,21 @@
       }
    },
    {
+      "_id": "jatezR4bENwhC6GL",
+      "name": "Bite",
+      "description": "<p>Your sharp teeth and powerful jaws are fearsome weapons. You have a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the brawling group.</p>",
+      "traits": [
+         "gnoll"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Morsure",
+            "description": "<p>Vos dents ac\u00e9r\u00e9es et vos puissantes m\u00e2choires sont des armes redoutables. Vous disposez d'une attaque \u00e0 mains nues de m\u00e2choires qui inflige 1d6 d\u00e9g\u00e2ts perforants. Vos m\u00e2choires font partie du groupe pugilat.</p>"
+         }
+      }
+   },
+   {
       "_id": "kHHcvJBJNiPJTuna",
       "name": "Wisp Fetchling",
       "description": "<p>Your ancestors\u2019 exposure to the Shadow Plane wrought great physical changes. Your hair or skin sometimes appears insubstantial, and you\u2019re slighter and more agile than other fetchlings. You\u2019re <strong>Small</strong> instead of <strong>Medium</strong>. You gain the trained proficiency rank in Acrobatics, the @Compendium[pf2e.feats-srd.3G8xUlgCjRmRJNfP]{Quick Squeeze} skill feat, and a +1 circumstance bonus to Acrobatics checks to Tumble Through. If you would automatically become trained in Acrobatics (from your background or class, for example), you instead become trained in a skill of your choice.</p>",
@@ -2013,6 +2389,38 @@
             "status": "libre",
             "name": "Nain de la forge",
             "description": "<p>Vous \u00eates le descendant d'un artisan r\u00e9put\u00e9 et poss\u00e9dez votre propre incroyable talent. Les autres nains pourraient consid\u00e9rer que c'est la b\u00e9n\u00e9diction de vos anc\u00eatres ou du P\u00e8re de la forge lui-m\u00eame, en fonction de l'endroit o\u00f9 vous avez \u00e9t\u00e9 \u00e9lev\u00e9. Vous \u00eates qualifi\u00e9 en Artisanat (ou une autre comp\u00e9tence si vous \u00e9tiez d\u00e9j\u00e0 qualifi\u00e9 en Artisanat) et vous obtenez le don de comp\u00e9tence Artisanat sp\u00e9cialis\u00e9, sauf que vous pouvez choisir deux sp\u00e9cialit\u00e9s \u00e0 la place d'une seule.</p>\n<hr />\n<ul>\n<li>@Compendium[pf2e.feats-srd.XVnpntqV6w94PoOb]{Artisanat sp\u00e9cialis\u00e9 (Alchimie)}</li>\n<li>@Compendium[pf2e.feats-srd.59FN13nU6agKT4oa]{Artisanat sp\u00e9cialis\u00e9 (Confection de livres)}</li>\n<li>@Compendium[pf2e.feats-srd.tbIMWrIRI9P9cubM]{Artisanat sp\u00e9cialis\u00e9 (Construction navale)}</li>\n<li>@Compendium[pf2e.feats-srd.B06QKNvKYqxYGwPU]{Artisanat sp\u00e9cialis\u00e9 (Couture)}</li>\n<li>@Compendium[pf2e.feats-srd.YvoiGWZhtbHH6NMF]{Artisanat sp\u00e9cialis\u00e9 (\u00c9b\u00e9nisterie)}</li>\n<li>@Compendium[pf2e.feats-srd.S8mPrjJjuObotmjZ]{Artisanat sp\u00e9cialis\u00e9 (Forge)}</li>\n<li>@Compendium[pf2e.feats-srd.WddEyALYHfpeUjZB]{Artisanat sp\u00e9cialis\u00e9 (Maroquinerie)}</li>\n<li>@Compendium[pf2e.feats-srd.8XC2xJ7Y1xlr6Xor]{Artisanat sp\u00e9cialis\u00e9 (Poterie)}</li>\n<li>@Compendium[pf2e.feats-srd.22HUfCajd6IkATOR]{Artisanat sp\u00e9cialis\u00e9 (Sens artistique)}</li>\n<li>@Compendium[pf2e.feats-srd.TWkwy0uQvTGlgEFG]{Artisanat sp\u00e9cialis\u00e9 (Taille de pierre)}</li>\n<li>@Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{Artisanat sp\u00e9cialis\u00e9 (Tissage)}</li>\n<li>@Compendium[pf2e.feats-srd.YmzLnj4ojlf9INNP]{Artisanat sp\u00e9cialis\u00e9 (Verrerie)}</li>\n</ul>"
+         }
+      }
+   },
+   {
+      "_id": "kTlJqhC7ZSE8P8lu",
+      "name": "Venomous Anadi",
+      "description": "<p>Your natural form\u2019s fangs are capable of injecting foes with venom. You gain the @Compendium[pf2e.actionspf2e.8aIe57gXJ94mPpW4]{Anadi Venom} ability.</p>",
+      "traits": [
+         "anadi",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Anadi venimeux",
+            "description": "<p>Les crocs de votre forme naturelle sont capables d'injecter du venin \u00e0 vos ennemis. Vous gagnez l'aptitude @Compendium[pf2e.actionspf2e.8aIe57gXJ94mPpW4]{Venin anadi}.</p>"
+         }
+      }
+   },
+   {
+      "_id": "kXp8qRh5AgtD4Izi",
+      "name": "Witch Gnoll",
+      "description": "<p>You\u2019re a shaggy, dark-furred gnoll capable of making some truly uncanny sounds. You can cast the @Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{Ghost Sound} cantrip as an occult innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. In addition, you gain a +1 circumstance bonus to checks to Impersonate and Create a Diversion when using only your voice.</p>",
+      "traits": [
+         "gnoll",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Gnoll sorcier",
+            "description": "<p>Vous \u00eates un gnoll hirsute \u00e0 la fourrure sombre capable de produire des sons vraiment \u00e9tranges. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{Son fant\u00f4matique} comme un sort inn\u00e9 occulte \u00e0 volont\u00e9. Un tour de magie est intensifi\u00e9 \u00e0 un niveau de sort \u00e9gal \u00e0 la moiti\u00e9 de votre niveau arrondi \u00e0 l'entier sup\u00e9rieur. De plus, vous gagnez un bonus de circonstances de +1 aux tests pour vous D\u00e9guiser et pour Faire diversion lorsque vous utilisez uniquement votre voix.</p>"
          }
       }
    },
@@ -2230,7 +2638,7 @@
    {
       "_id": "ptpK6H1rM4Bu3ry4",
       "name": "Mountainkeeper Tengu",
-      "description": "<p><span id=\"docs-internal-guid-11f12efa-7fff-e078-516e-02b4416b3602\">You come from a line of tengu ascetics, leaving you with a link to the spirits of the world and the Great Beyond. You can cast the @Compendium[pf2e.spells-srd.kcelf6IHl3L9VXXg]{Disrupt Undead} cantrip as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. </span></p>\n<p><span id=\"docs-internal-guid-11f12efa-7fff-e078-516e-02b4416b3602\">Each time you cast a spell from a tengu heritage or ancestry feat, you can decide whether it's a divine or primal spell.</span></p>",
+      "description": "<p>You come from a line of tengu ascetics, leaving you with a link to the spirits of the world and the Great Beyond. You can cast the @Compendium[pf2e.spells-srd.kcelf6IHl3L9VXXg]{Disrupt Undead} cantrip as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.</p>\n<p>Each time you cast a spell from a tengu heritage or ancestry feat, you can decide whether it's a divine or primal spell.</p>",
       "traits": [
          "tengu"
       ],
@@ -2239,6 +2647,33 @@
             "status": "libre",
             "name": "Tengu gardemontagne",
             "description": "<p>Vous descendez d'une lign\u00e9e d'asc\u00e8tes tengus, vous ayant transmis un lien avec les esprits du monde et du Grand au-del\u00e0. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.kcelf6IHl3L9VXXg]{Destruction de mort-vivant} comme un sort primordial inn\u00e9 \u00e0 volont\u00e9. Un tour de magie est intensifi\u00e9 \u00e0 un niveau de sort \u00e9gal \u00e0 la moiti\u00e9 de votre niveau arrondi au sup\u00e9rieur.</p>\n<p>Chaque fois que vous lancez un sort d'ascendance tengu ou li\u00e9 \u00e0 un don d'ascendance, vous pouvez d\u00e9cider s'il s'agit d'un sort divin ou primordial.</p>"
+         }
+      }
+   },
+   {
+      "_id": "q2omqJ9t0skGTYki",
+      "name": "Rite of Reinforcement",
+      "description": "<p>Your woven exoskeleton rivals the hardest armors that can be found. Your exoskeleton is medium armor in the plate armor group that grants a +4 item bonus to AC, a Dex cap of +1, a check penalty of \u20132, a speed penalty of \u20135 feet, and a Strength value of 16, and has the comfort trait. You can never wear other armor or remove your exoskeleton. You can etch armor runes onto your exoskeleton as normal.</p>\n<p>@Compendium[pf2e.equipment-srd.0KHgAaDi3tmu32Hq]{Rite of Reinforcement Exoskeleton}</p>",
+      "traits": [
+         "conrasu",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Rite de renforcement",
+            "description": "<p>Votre exosquelette tiss\u00e9 rivalise avec les armures les plus dures que l'on puisse trouver. Votre exosquelette est une armure moyenne du groupe des armures de plaques qui conf\u00e8re un bonus d'objet de +4 \u00e0 la CA, un Maximum de Dext\u00e9rit\u00e9 de +1, une p\u00e9nalit\u00e9 d'\u00e9chec aux tests de -2, une p\u00e9nalit\u00e9 de vitesse de -1,5 m, une valeur de Force de 16 et elle poss\u00e8de le trait confortable. Vous ne pouvez jamais porter une autre armure ou retirer votre exosquelette. Vous pouvez graver des runes d'armure sur votre exosquelette comme \u00e0 l'ordinaire.</p>\n<p>@Compendium[pf2e.equipment-srd.0KHgAaDi3tmu32Hq]{Rite de renforcement de l'exosquelette}</p>"
+         }
+      }
+   },
+   {
+      "_id": "qIOEe4kUN7FOBifb",
+      "name": "Effect: Hybrid Form",
+      "description": "<p>In hybrid shape, you appear as a mix between your ancestry and your inherent animal. While in hybrid shape, you gain a jaws unarmed Strike resembling the features of your inherent animal (fangs for bats, beaks for eagles, mandibles for wasps, and so on). Your jaws deal 1d4 piercing damage, have the agile, finesse, and unarmed traits, and are in the brawling weapon group.</p>",
+      "traits": [],
+      "translations": {
+         "fr": {
+            "status": "aucune"
          }
       }
    },
@@ -2260,7 +2695,7 @@
    {
       "_id": "qM566kCXljkOpocA",
       "name": "Taloned Tengu",
-      "description": "<p><span id=\"docs-internal-guid-86da5438-7fff-95ca-40da-9c43890897f2\"></span></p>\n<p dir=\"ltr\">Your talons are every bit as sharp and strong as your beak. You gain a talon unarmed attack that deals <a class=\"inline-roll roll\" title=\"slashing\" data-mode=\"roll\" data-flavor=\"slashing\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i> 1d4</a> slashing damage. Your talons are in the brawling group, and have the agile, finesse, unarmed and versatile piercing traits.</p>",
+      "description": "<p>Your talons are every bit as sharp and strong as your beak. You gain a talon unarmed attack that deals [[/r 1d4 #slashing]] slashing damage. Your talons are in the brawling group, and have the agile, finesse, unarmed and versatile piercing traits.</p>",
       "traits": [
          "tengu"
       ],
@@ -2268,7 +2703,7 @@
          "fr": {
             "status": "libre",
             "name": "Tengu \u00e0 ergots",
-            "description": "<p>Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque \u00e0 mains nues d'ergots qui infligent <a class=\"inline-roll roll\" title=\"tranchants\" data-mode=\"roll\" data-flavor=\"tranchants\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i>1d4</a> d\u00e9g\u00e2ts tranchants. Vos ergots font partie du groupe pugilat et poss\u00e8dent les traits agile, finesse, \u00e0 mains nues et polyvalent perforant.</p>"
+            "description": "<p>Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque \u00e0 mains nues d'ergot qui inflige [[/r 1d4 #trnachants]]> d\u00e9g\u00e2ts tranchants. Vos ergots font partie du groupe pugilat et poss\u00e8dent les traits agile, finesse, \u00e0 mains nues et polyvalent perforant.</p>"
          }
       }
    },
@@ -2284,6 +2719,22 @@
             "status": "libre",
             "name": "Azarketi thalassique",
             "description": "<p>Vous retracez votre lignage des azarketis qui ont v\u00e9cu leurs vies parmi les grands oc\u00e9ans et les mers du monde. Vous savez comment utiliser les courants et la magie primordiale de l'eau pour guider vos attaques. Vous obtenez le don de comp\u00e9tence @Compendium[pf2e.feats-srd.iOY6YfGBaOvMNAor]{Maraudeur aquatique} et les facteurs de port\u00e9e de vos attaques \u00e0 distance perforantes ne sont pas divis\u00e9s par deux lorsque vous combattez des cibles sous l'eau.</p>"
+         }
+      }
+   },
+   {
+      "_id": "rFdVYKtHsZzRCsSd",
+      "name": "Stickytoe Grippli",
+      "description": "<p>Your hands and feet exude a film that helps them adhere to surfaces. You gain a +2 circumstance bonus to your Fortitude and Reflex DC against attempts to Disarm, Shove, or Trip you. When ascending trees, vines, and other foliage, if you roll a success on the Athletics check to Climb, you get a critical success instead.</p>",
+      "traits": [
+         "grippli",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Grippli aux orteils collants",
+            "description": "<p>Vos mains et vos pieds exsudent un film qui les aide \u00e0 adh\u00e9rer aux surfaces. Vous gagnez un bonus de circonstances de +2 \u00e0 vos DD de Force et de R\u00e9flexes contre les tentatives pour vous d\u00e9sarmer, vous Pousser ou vous faire un croc-en-jambe. Lorsque vous grimpez aux arbres, aux lianes ou dans d'autres feuillages, si vous obtenez un succ\u00e8s au test d'Athl\u00e9tisme pour Escalader, vous obtenez un succ\u00e8s critique \u00e0 la place.</p>"
          }
       }
    },
@@ -2329,6 +2780,22 @@
             "status": "libre",
             "name": "Homme-l\u00e9zard sautenuage",
             "description": "<p>Votre corps est l\u00e9ger avec des rabats de peau le long de vos membres qui captent l'air qui passe en dessous de vous. tant que vous pouvez agir et que vous avez assez de place vous pouvez ouvrir ces rabats pour ralentir toute ch\u00fbte, juste assez pour \u00e9viter de subir des d\u00e9g\u00e2ts (d\u00e9terminer si vous avez assez d'espace est laiss\u00e9 \u00e0 la discr\u00e9tion du MJ).</p>"
+         }
+      }
+   },
+   {
+      "_id": "sGzhnQpgWErX1bmx",
+      "name": "Vigilant Goloma",
+      "description": "<p>You\u2019ve learned to be aware of not just obvious physical dangers, but also noticeable magical threats. You can cast the @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Detect Magic} cantrip as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. In addition, your awareness allows you to notice magical traps easier than others. Your proficiency rank in Perception is considered one step better when attempting to detect magical traps. (Trained is considered expert, expert is considered master, and master is considered legendary).</p>",
+      "traits": [
+         "goloma",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Goloma vigilant",
+            "description": "<p>Vous avez appris \u00e0 \u00eatre conscient non seulement des dangers physiques \u00e9vidents, mais aussi des menaces magiques perceptibles. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{D\u00e9tection de la magie} comme un sort inn\u00e9 arcanique \u00e0 volont\u00e9. Un tour de magie est intensifi\u00e9 \u00e0 un niveau \u00e9gal \u00e0 la moiti\u00e9 de votre niveau arrondi \u00e0 l'entier sup\u00e9rieur. De plus, votre conscience vous permet de remarquer les pi\u00e8ges magiques plus facilement que les autres. Votre rang de ma\u00eetrise en Perception est consid\u00e9r\u00e9 comme un cran au-dessus lorsque vous tentez de d\u00e9tecter des pi\u00e8ges magiques. (qualifi\u00e9 est consid\u00e9r\u00e9 comme expert, expert comme ma\u00eetre et ma\u00eetre comme l\u00e9gendaire).</p>"
          }
       }
    },
@@ -2413,7 +2880,7 @@
    {
       "_id": "uSAYmU7PO2QoOWhB",
       "name": "Emotionally Unaware",
-      "description": "<p>You find it difficult to understand and express complex emotions. You take a \u20131 circumstance penalty to Diplomacy and Performance checks, and on Perception checks to Sense Motive.</p>",
+      "description": "<p>You find it difficult to understand and express complex emotions. You take a -1 circumstance penalty to Diplomacy and Performance checks, and on Perception checks to Sense Motive.</p>",
       "traits": [
          "android"
       ],
@@ -2421,7 +2888,23 @@
          "fr": {
             "status": "libre",
             "name": "\u00c9motionnellement non pr\u00e9par\u00e9",
-            "description": "<p>Vous trouvez qu'il est difficile de comprendre et d'exprimer des \u00e9motions complexes. Vous subissez une p\u00e9nalit\u00e9 de circonstance de \u20131 aux tests de Diplomatie et de Repr\u00e9sentation et aux tests de Perception pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions}.</p>"
+            "description": "<p>Vous trouvez qu'il est difficile de comprendre et d'exprimer des \u00e9motions complexes. Vous subissez une p\u00e9nalit\u00e9 de circonstances de \u20131 aux tests de Diplomatie et de Repr\u00e9sentation et aux tests de Perception pour Deviner les intentions.</p>"
+         }
+      }
+   },
+   {
+      "_id": "udMXXjFirjARYr4p",
+      "name": "Ant Gnoll",
+      "description": "<p>You're a sharp-featured, big-eared gnoll about three feet tall. Many are skeptical that you are in fact a gnoll. Your size is Small instead of Medium. You are trained in Deception (or another skill if you were already trained in Deception). You gain a +1 circumstance bonus to Deception checks to Lie when specifically claiming innocence, to Deception DCs against Sense Motive checks to uncover such lies, and to initiative checks when you roll Deception for initiative.</p>\n<hr />\n<p><em>Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill.</em></p>",
+      "traits": [
+         "gnoll",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Gnoll fourmi",
+            "description": "<p>Vous \u00eates un gnoll d'un m\u00e8tre de haut, aux grandes oreilles et au visage anguleux. Beaucoup sont sceptiques sur le fait que vous \u00eates bien un gnoll. Votre taille est petite au lieu de moyenne. Vous \u00eates qualifi\u00e9 en Duperie (ou dans une autre comp\u00e9tence si vous \u00eates d\u00e9j\u00e0 qualifi\u00e9 en Duperie). Vous gagnez un bonus de circonstances de +1 aux tests de Duperie pour Mentir lorsque vous clamez sp\u00e9cifiquement votre innocence, aux DD de Duperie contre les tests pour Deviner les intentions pour d\u00e9couvrir de tels mensonges et aux tests d'initiative lorsque vous faites un jet de Duperie pour d\u00e9terminer l'initiative.</p>\n<hr />\n<p><em>Note : Si vous \u00eates d\u00e9j\u00e0 qualifi\u00e9 dans la comp\u00e9tence li\u00e9 \u00e0 ce don, vous devez s\u00e9lectionner manuellement une comp\u00e9tence alternative.</em></p>"
          }
       }
    },
@@ -2441,6 +2924,22 @@
       }
    },
    {
+      "_id": "vDEfNzjLpGJU54cz",
+      "name": "Quillcoat Shisk",
+      "description": "<p>Your body has adapted a defensive mechanism to break off your quills in an attacker, allowing you to defend yourself against aggressive predators, though it takes a while for the quills to grow back. You gain the @Compendium[pf2e.actionspf2e.oAWNluJaMlaGysXA]{Barbed Quills} reaction.</p>",
+      "traits": [
+         "heritage",
+         "shisk"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Shisk \u00e0 piquants",
+            "description": "<p>Votre corps a adapt\u00e9 un m\u00e9canisme d\u00e9fensif pour briser vos piquants en cas d'attaque, ce qui vous permet de vous d\u00e9fendre contre les pr\u00e9dateurs agressifs, bien qu'il faille un certain temps pour que les piquants repoussent. Vous gagnez la r\u00e9action @Compendium[pf2e.actionspf2e.oAWNluJaMlaGysXA]{Piquants barbel\u00e9s}.</p>"
+         }
+      }
+   },
+   {
       "_id": "vPhPgzpRjYDMT9Kq",
       "name": "Greater Darkvision",
       "description": "<p>You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white. Some forms of magical darkness, such as a 4th-level @Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Darkness} spell, block normal @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}. You, however, can see through even these forms of magical darkness.</p>",
@@ -2456,13 +2955,13 @@
    {
       "_id": "vt67b8uoNEbskcBv",
       "name": "Hydration",
-      "description": "<p>While you are an amphibious being equally as capable on land as in the water, your body requires you to return to aquatic environments at least once in a 24-hour period. You must submerge in water in order to rehydrate your water-acclimated skin. If you fail to do this, your skin begins to crack and your gills become painful. After the first 24 hours outside of water, you take a \u20131 status penalty to Fortitude saves. After 48 hours, you struggle to breathe air and begin to suffocate until returned to water.</p>",
+      "description": "<p>While you are an amphibious being equally as capable on land as in the water, your body requires you to return to aquatic environments at least once in a 24-hour period. You must submerge in water in order to rehydrate your water-acclimated skin.</p>\n<p>If you fail to do this, your skin begins to crack and your gills become painful. After the first 24 hours outside of water, you take a \u20131 status penalty to Fortitude saves. After 48 hours, you struggle to breathe air and begin to suffocate until returned to water.</p>\n<p>@Compendium[pf2e.feature-effects.Q5FUu7yhWPJlcXei]{Effect: Hydration}</p>",
       "traits": [
          "azarketi"
       ],
       "translations": {
          "fr": {
-            "status": "libre",
+            "status": "chang\u00e9",
             "name": "Hydratation",
             "description": "<p>Bien que vous soyez amphibie et \u00e9galement \u00e0 l'aise sur terre que dans l'eau, votre corps n\u00e9cessite que vous retourniez dans les environnements aquatiques au moins une fois par 24 heures. Vous devez vous immerger totalement dans l'eau en vue de r\u00e9hydrater votre peu acclimat\u00e9e \u00e0 l'eau. Si vous ne parvenez pas \u00e0 le faire, votre peau commence \u00e0 se craqueler et vos ou\u00efes deviennent douloureuses. Apr\u00e8s les premi\u00e8res 24 heures hors de l'eau, vous subissez une p\u00e9nalit\u00e9 de statut de \u20131 aux jets de Vigueur. Apr\u00e8s 48 heures, vous luttez pour respirer de l'air et commencez \u00e0 suffoquer jusqu'\u00e0 ce que vous retourniez dans l'eau.</p>"
          }
@@ -2530,6 +3029,38 @@
       }
    },
    {
+      "_id": "x5S4MNQ0aqUmgHcC",
+      "name": "Vicious Goloma",
+      "description": "<p>The chitin on your hands forms powerful claws that allow you to defend yourself. You gain a claw unarmed attack that deals [[/r 1d6 #slashing]] slashing damage. Your claws are in the brawling group and have the agile, finesse, and unarmed traits.</p>",
+      "traits": [
+         "goloma",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Goloma vicieux",
+            "description": "<p>La chitine sur vos mains forme des griffes puissantes qui vous permettent de vous d\u00e9fendre. Vous gagnez une attaque \u00e0 mains nues de griffe qui inflige [[/r 1d6 #tranchants]] d\u00e9g\u00e2ts tranchants. Vos griffes font partie du groupe pugilat et poss\u00e8dent les traits agile, finesse et \u00e0 mains nues.</p>"
+         }
+      }
+   },
+   {
+      "_id": "xaTTN5anLEBzWCzv",
+      "name": "Windweb Grippli",
+      "description": "<p>Tough webbing along your hands and toes can slow any fall. As long as you have one hand free, you take no falling damage, regardless of the distance you fall.</p>",
+      "traits": [
+         "grippli",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Grippli \u00e0 palmes",
+            "description": "<p>Des palmes r\u00e9sistantes le long de vos mains et de vos orteils peuvent ralentir toute chute. Tant que vous avez une main libre, vous ne subissez aucun d\u00e9g\u00e2t de chute, quelle que soit la distance de laquelle vous tombez.</p>"
+         }
+      }
+   },
+   {
       "_id": "xtRIYizCjLg9qe1Z",
       "name": "Wildwood Halfling",
       "description": "<p>You hail from deep in a jungle or forest, and you've learned how to use your small size to wriggle through undergrowth, vines, and other obstacles. You ignore difficult terrain from trees, foliage, and undergrowth.</p>",
@@ -2575,6 +3106,22 @@
       }
    },
    {
+      "_id": "yVtcyAbLmWCIHHZi",
+      "name": "Rite of Passage",
+      "description": "<p>Your exoskeleton remains connected with the plants that created it. You can ignore difficult terrain and uneven ground caused by undergrowth. In addition, when you use the Acrobatics skill to Balance on narrow surfaces or uneven ground within forests, you aren\u2019t flat-footed. When you roll a success attempting one of these Acrobatics checks, you get a critical success instead.</p>",
+      "traits": [
+         "conrasu",
+         "heritage"
+      ],
+      "translations": {
+         "fr": {
+            "status": "libre",
+            "name": "Rite de passage",
+            "description": "<p>Votre exosquelette reste connect\u00e9 aux plantes qui l'ont cr\u00e9\u00e9. Vous pouvez ignorer les terrains difficiles et les irr\u00e9gularit\u00e9s du sol caus\u00e9es par les sous-bois. De plus, lorsque vous utilisez la comp\u00e9tence Acrobaties pour Garder l'\u00e9quilibrer sur des surfaces \u00e9troites ou un sol irr\u00e9gulier au sein des for\u00eats, vous n'\u00eates pas Pris au d\u00e9pourvu. Lorsque vous obtenez un succ\u00e8s en tentant l'un de ces tests d'Acrobaties, vous obtenez un succ\u00e8s critique \u00e0 la place.</p>"
+         }
+      }
+   },
+   {
       "_id": "z4cvqtpkkAYoFpHa",
       "name": "Bloodhound Shoony",
       "description": "<p>Your ancestors were famous trackers, and you carry in your blood that same gift of the hunt.</p>\n<p>You gain a special sense: imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine the location of a creature, but it remains @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden}.</p>\n<p>In addition, you gain a +2 circumstance bonus to Survival checks to @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Track} creatures that you have previously sensed with your scent.</p>",
@@ -2592,7 +3139,7 @@
    {
       "_id": "zPhArF36ZVgLeVUU",
       "name": "Ancient Scale Azarketi",
-      "description": "<p>Your lineage stems from azarketis who remain dedicated to their deep-sea roots. Divorced from land society, you\u2019re a foreigner to any world above a thousand fathoms deep. You gain darkvision. Your body is dotted with phosphorescent spots that emit a guiding light and help you communicate. The spots\u2014located primarily on your face, arms, and hands \u2014illuminate a 10-foot radius around you with dim light. You can activate, deactivate, or change the arrangement of lights as an action, which has the concentration trait.</p>",
+      "description": "<p>Your lineage stems from azarketis who remain dedicated to their deep-sea roots. Divorced from land society, you\u2019re a foreigner to any world above a thousand fathoms deep. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>\n<p>Your body is dotted with phosphorescent spots that emit a guiding light and help you communicate. The spots - located primarily on your face, arms, and hands - illuminate a 10-foot radius around you with dim light. You can activate, deactivate, or change the arrangement of lights as an action, which has the concentration trait.</p>",
       "traits": [
          "azarketi"
       ],
@@ -2600,7 +3147,7 @@
          "fr": {
             "status": "libre",
             "name": "Azarketi \u00e9caille antique",
-            "description": "<p>Votre lignage remonte aux azarketis qui sont rest\u00e9s d\u00e9di\u00e9s \u00e0 leurs racines de l'oc\u00e9an profond. Divorc\u00e9 de la soci\u00e9t\u00e9 terrienne, vous \u00eates un \u00e9tranger de tous les mondes qui se trouvent au-dessus d'un millier de brasses de profondeur. Vous obtenez vision dans le noir. Votre corps est dot\u00e9 de points phosphorescents qui \u00e9mettent une lumi\u00e8re qui vous guide et vous aide \u00e0 communiquer. Les points lumineux \u2014 localis\u00e9s principalement sur votre visage, vos bras et vos mains \u2014 \u00e9mettent de la lumi\u00e8re faible dans un rayon de 3 m autour de vous. Vous pouvez activer, d\u00e9sactiver ou change l'arrangement des lumi\u00e8res par une action qui a le trait concentration.</p>"
+            "description": "<p>Votre lignage remonte aux azarketis qui sont rest\u00e9s accroch\u00e9s \u00e0 leurs racines de l'oc\u00e9an profond. Divorc\u00e9 de la soci\u00e9t\u00e9 terrienne, vous \u00eates \u00e9tranger \u00e0 tous les mondes qui se trouvent au-dessus d'un millier de brasses de profondeur. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{vision dans le noir}.</p>\n<p>Votre corps est dot\u00e9 de points phosphorescents qui \u00e9mettent une lumi\u00e8re qui vous guide et vous aide \u00e0 communiquer. Les points lumineux \u2014 localis\u00e9s principalement sur votre visage, vos bras et vos mains \u2014 \u00e9mettent de la lumi\u00e8re faible dans un rayon de 3 m autour de vous. Vous pouvez activer, d\u00e9sactiver ou change l'arrangement des lumi\u00e8res par une action qui a le trait concentration.</p>"
          }
       }
    },

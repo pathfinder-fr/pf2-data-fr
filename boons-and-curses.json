@@ -325,7 +325,7 @@
    },
    {
       "_id": "DuGA57MDiwEKp7Y1",
-      "name": "Saranrae - Major Curse",
+      "name": "Sarenrae - Major Curse",
       "description": "<p><strong>Major Curse</strong>: Sarenrae restricts your ability to harm others.</p>\n<p>All attacks you make, spells you cast, and other sources of damage you deal are nonlethal except against fiends and undead, and you can't ever make them lethal.</p>\n<p>You deal minimum damage except against fiends and undead.</p>\n<p>All creatures except fiends and undead gain a +4 status bonus to their AC and saving throws against your attacks and other effects.</p>",
       "translations": {
          "fr": {
@@ -553,13 +553,13 @@
    },
    {
       "_id": "S1qGyGG25YImRhmS",
-      "name": "Saranrae - Moderate Boon",
+      "name": "Sarenrae - Moderate Boon",
       "description": "<p><strong>Moderate Boon</strong>: Your blade burns the irredeemable. Your attacks deal an additional 1d6 fire damage that ignores fire resistance.</p>",
       "translations": {
          "fr": {
             "status": "libre",
             "name": "Sarenrae - B\u00e9n\u00e9dicition mod\u00e9r\u00e9e",
-            "description": "<p><strong>B\u00e9n\u00e9diction mod\u00e9r\u00e9e</strong> Votre lame br\u00fble ceux qui ne peuvent se repentir. Vos attaquess infligent 1d8 d\u00e9g\u00e2ts de feu suppl\u00e9mentaires qui ignorent la r\u00e9sistance au feu.</p>"
+            "description": "<p><strong>B\u00e9n\u00e9diction mod\u00e9r\u00e9e</strong> Votre lame br\u00fble ceux qui ne peuvent se repentir.</p>\n<p>Vos attaques infligent 1d8 d\u00e9g\u00e2ts de feu suppl\u00e9mentaires qui ignorent la r\u00e9sistance au feu.</p>"
          }
       }
    },
@@ -601,25 +601,25 @@
    },
    {
       "_id": "V7FYIgphCCkYsEXF",
-      "name": "Saranrae - Moderate Curse",
+      "name": "Sarenrae - Moderate Curse",
       "description": "<p><strong>Moderate Curse</strong>: The sun shines its light on everything you say.</p>\n<p>You become unable to tell @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Lies}, and if you attempt to do so, you instead compulsively blurt out the truth on the matter in question. You are still able to withhold information or lie by omission.</p>",
       "translations": {
          "fr": {
             "status": "libre",
             "name": "Sarenrae - Mal\u00e9diction mod\u00e9r\u00e9e",
-            "description": "<p><strong>Mal\u00e9diction mod\u00e9r\u00e9e</strong>Le sleil brille de sa lumi\u00e8re sur tout ce que vous dites.</p>\n<p>Vous devenez incapable de @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir} et si vous tentez de le faire, \u00e0 la place, vous \u00eates incapable de laisser \u00e9chapper la v\u00e9rit\u00e9 sur le sujet en question. Vous \u00eates toujours capable de retenir des informations ou de mentir par omission.</p>"
+            "description": "<p><strong>Mal\u00e9diction mod\u00e9r\u00e9e</strong>Le sleil brille de sa lumi\u00e8re sur tout ce que vous dites.</p>\n<p>Vous devenez incapable de @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir} et si vous tentez de le faire, \u00e0 la place, vous \u00eates incapable de laisser \u00e9chapper autre chose que la v\u00e9rit\u00e9 sur le sujet en question. Vous \u00eates toujours capable de retenir des informations ou de mentir par omission.</p>"
          }
       }
    },
    {
       "_id": "VZodqtMF3qrMl8a7",
-      "name": "Saranrae - Minor Curse",
+      "name": "Sarenrae - Minor Curse",
       "description": "<p><strong>Minor Curse</strong>: The sun burns you for your transgression. You receive a sunburn that causes you to become permanently @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy} 1.</p>",
       "translations": {
          "fr": {
             "status": "libre",
             "name": "Sarenrae - B\u00e9n\u00e9diction mineure",
-            "description": "<p><strong>B\u00e9n\u00e9diction mineure</strong> Le soleil vous br\u00fble du fait de votre transgression. Vous recevez un coup de soleil qui provoque que vous devenez @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 1 de mani\u00e8re permanente.</p>"
+            "description": "<p><strong>B\u00e9n\u00e9diction mineure</strong> Le soleil vous br\u00fble du fait de votre transgression. Vous recevez un coup de soleil qui vous rend @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 1 de mani\u00e8re permanente.</p>"
          }
       }
    },
@@ -769,7 +769,7 @@
    },
    {
       "_id": "dL6r0VfFIWlAazDW",
-      "name": "Saranrae - Major Boon",
+      "name": "Sarenrae - Major Boon",
       "description": "<p><strong>Major Boon</strong>: You are a voice of peace and rehabilitation.</p>\n<p>When you roll a success at a check to @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Request} something, you get a critical success instead.</p>\n<p>In addition, all creatures other than fiends, undead, and mindless creatures allow you one chance to speak your piece and make requests before entering combat. If you or an ally ever use the time from the request to gain an advantage in an ensuing combat (for example, by casting preparatory spells, positioning for combat, or waiting out your opponent's preparatory spells), Sarenrae immediately revokes this boon, or possibly curses your ally.</p>",
       "translations": {
          "fr": {
@@ -829,13 +829,13 @@
    },
    {
       "_id": "e9bdt8UH7ZvpRrLz",
-      "name": "Saranrae - Minor Boon",
+      "name": "Sarenrae - Minor Boon",
       "description": "<p><strong>Minor Boon (Single-Use)</strong>: Your healing hands are blessed with a warm flame.</p>\n<p>Once, when you heal another creature, instead of healing it for the normal amount, you heal the creature to full Hit Points, no matter how much damage it has taken.</p>\n<p>Sarenrae typically grants this boon in extremely consequential circumstances.</p>",
       "translations": {
          "fr": {
             "status": "libre",
             "name": "Sarenrae - B\u00e9n\u00e9diction mineure",
-            "description": "<p><strong>B\u00e9n\u00e9diction mineure (Usage unique)</strong> Vos mains sont b\u00e9nies d'une flamme chaude lorsqu'elles soignent.</p>\n<p>Une fois, lorsque vous soignez une autre cr\u00e9ature, au lieu de la soigner du montant normal, la cr\u00e9ature r\u00e9cup\u00e8re la totalit\u00e9 de ses Points de vie, quel que soit les d\u00e9g\u00e2ts qu'elle ait subis.</p>\n<p>Sarenrae accorde typiquement cette b\u00e9n\u00e9diction dans des circonstances extr\u00eamement fondamentales.</p>"
+            "description": "<p><strong>B\u00e9n\u00e9diction mineure (Usage unique)</strong> Vos mains sont b\u00e9nies par une flamme chaude lorsqu'elles soignent.</p>\n<p>Une fois, lorsque vous soignez une autre cr\u00e9ature, au lieu de la soigner du montant normal, la cr\u00e9ature r\u00e9cup\u00e8re la totalit\u00e9 de ses Points de vie, quel que soit les d\u00e9g\u00e2ts qu'elle a subis.</p>\n<p>Sarenrae accorde typiquement cette b\u00e9n\u00e9diction dans des circonstances extr\u00eamement importantes.</p>"
          }
       }
    },
@@ -1358,12 +1358,12 @@
    {
       "_id": "xrczhivVmi7MrEfz",
       "name": "Irori - Moderate Boon",
-      "description": "<p>Your body rebuilds after adversity, becoming stronger. You can cast @Compendium[pf2e.spells-srd.qJZZdYBdNaWRJFER]{Wholeness of Body} as an occult ki spell. If you didn't have one already, you gain a focus pool with 1 Focus Point and are trained in occult spell attack rolls and spell DCs (Pathfinder Core Rulebook 157 has full information on what happens when you gain your first ki spell).</p>",
+      "description": "<p>Your body rebuilds after adversity, becoming stronger. You can cast @Compendium[pf2e.spells-srd.qJZZdYBdNaWRJFER]{Wholeness of Body} as an occult ki spell. If you didn't have one already, you gain a focus pool with 1 Focus Point and are trained in occult spell attack rolls and spell DCs.</p>",
       "translations": {
          "fr": {
             "status": "libre",
             "name": "Irori - B\u00e9n\u00e9diction mod\u00e9r\u00e9e",
-            "description": "<p><strong>B\u00e9n\u00e9diction mod\u00e9r\u00e9e</p> Votre corps se reconstruit apr\u00e8s l'affrontement, en devenant plus fort.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.qJZZdYBdNaWRJFER]{Pl\u00e9nitude physique} comme un sort de ki occulte. Si vous n'en aviez pas d\u00e9j\u00e0 une,  vous obtenez une r\u00e9serve de ki avec 1 Point de focalisation et \u00eates qualifi\u00e9 avec les attaques de sorts occultes et en DD de sorts.</p>"
+            "description": "<p><strong>B\u00e9n\u00e9diction mod\u00e9r\u00e9e</p> Votre corps se reconstruit apr\u00e8s l'affrontement, en devenant plus fort.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.qJZZdYBdNaWRJFER]{Pl\u00e9nitude physique} comme un sort de ki occulte. Si vous n'en aviez pas d\u00e9j\u00e0 une, vous obtenez une r\u00e9serve de focalisation avec 1 Point de focalisation et \u00eates qualifi\u00e9 avec les attaques de sorts et les DD de sorts occultes.</p>"
          }
       }
    },

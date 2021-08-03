@@ -7,7 +7,7 @@
          "fr": {
             "status": "libre",
             "name": "Attaque en puissance",
-            "description": "<p><strong>Fr\u00e9quence</strong> une fois par round</p>\n<p><strong>Effet</strong> Le monstre effectue une Frappe au corps-\u00e0-corps. Cela compte comme deux attaques lorsque vous calculez la P\u00e9nalit\u00e9 d'attaque multiple du monstre. Si la Frappe touche, le monstre inflige un d\u00e9 d'arme suppl\u00e9mentaire.</p>"
+            "description": "<p><strong>Fr\u00e9quence</strong> une fois par round</p>\n<p><strong>Effet</strong> Le monstre effectue une Frappe au corps-\u00e0-corps. Cela compte comme deux attaques lorsque vous calculez la P\u00e9nalit\u00e9 d'attaque multiple du monstre. Si la Frappe touche, le monstre inflige un d\u00e9 de d\u00e9g\u00e2ts d'arme suppl\u00e9mentaire.</p>"
          }
       }
    },
@@ -595,7 +595,7 @@
          "fr": {
             "status": "officielle",
             "name": "Sens de la vie",
-            "description": "<p>La perception de la vie permet \u00e0 un monstre de ressentir l\u2019essence vitale des cr\u00e9atures vivantes et mortes-vivantes sur une port\u00e9e donn\u00e9e. Ce sens permet de diff\u00e9rencier les \u00e9nergies positives qui animent les cr\u00e9atures vivantes et les \u00e9nergies n\u00e9gatives qui animent les cr\u00e9atures mortes-vivantes, de la m\u00eame mani\u00e8re que la vue permet de diff\u00e9rencier les couleurs</p>"
+            "description": "<p>La perception de la vie permet \u00e0 un monstre de ressentir l\u2019essence vitale des cr\u00e9atures vivantes et mortes-vivantes sur une port\u00e9e donn\u00e9e. Ce sens permet de diff\u00e9rencier les \u00e9nergies positives qui animent les cr\u00e9atures vivantes et les \u00e9nergies n\u00e9gatives qui animent les cr\u00e9atures mortes-vivantes, de la m\u00eame mani\u00e8re que la vue permet de diff\u00e9rencier les couleurs.</p>"
          }
       }
    },

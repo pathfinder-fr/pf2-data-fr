@@ -212,20 +212,24 @@
    {
       "_id": "95R55tdobViU7ZWe",
       "name": "Mentor, Magical",
-      "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Prerequisites:</strong> Tier 1 with the Grand Archive</p>\n<p><strong>Cost</strong>: 2 Fame</p>\n<p><strong>Effect</strong>: While working with less experienced Pathfinder allies, you provide key spellcasting insights that augment your colleagues' magic. Any PCs benefiting from a Level Bump and whose levels are lower than yours can prepare one additional spell of their highest-level spell slot or cast one additional spell of their highest-level spell slot. When casting spells of a magical tradition that is the same as the tradition you use for spellcasting, the affected PC also increases the Level Bump's modifier to spell DCs to 2.</p>\n<p><strong>Normal</strong>: A Level Bump increases a PC's spell DCs by 1, and it does not grant any additional spells prepared or spell slots.</p>\n<p><strong>Special</strong>: A PC can only benefit from two mentor boons.</p>",
+      "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Prerequisites:</strong> Tier 1 with the Grand Archive</p>\n<p><strong>Cost</strong>: 2 Fame</p>\n<p><strong>Effect</strong>: While working with less experienced Pathfinder allies, you provide key spellcasting insights that augment your colleagues' magic. Any PCs benefiting from a Level Bump and whose levels are lower than yours can prepare one additional spell of their highest-level spell slot or cast one additional spell of their highest-level spell slot. When casting spells of a magical tradition that is the same as the tradition you use for spellcasting, the affected PC also increases the Level Bump's modifier to spell DCs to 2.</p>\n<p><strong>Normal</strong>: A Level Bump increases a PC's spell DCs by 1, and it does not grant any additional spells prepared or spell slots.</p>\n<p><strong>Special</strong>: A PC can only benefit from two mentor boons.</p>\n<p>@Compendium[pf2e.feat-effects.fh8TgCfiifVk0eqU]{Effect: Magical Mentor Boon (PFS)}</p>",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "chang\u00e9",
+            "name": "",
+            "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Pr\u00e9requis:</strong> Niveau 1 avec la Grande Archive</p>\n<p><strong>Co\u00fbt</strong> : 2 Fame</p>\n<p><strong>Effet</strong> : Lorsque vous travaillez avec des alli\u00e9s Pathfinder moins exp\u00e9riment\u00e9s, vous fournissez des connaissances cl\u00e9s en mati\u00e8re de sorts qui augmentent la magie de vos coll\u00e8gues. Tout PC b\u00e9n\u00e9ficiant d'une augmentation de niveau et dont le niveau est inf\u00e9rieur au v\u00f4tre peut pr\u00e9parer un sort suppl\u00e9mentaire de son emplacement de sort de plus haut niveau ou lancer un sort suppl\u00e9mentaire de son emplacement de sort de plus haut niveau. Lorsqu'il lance des sorts d'une tradition magique qui est la m\u00eame que celle que vous utilisez pour lancer des sorts, le PC affect\u00e9 augmente \u00e9galement le modificateur de l'augmentation de niveau aux DC des sorts \u00e0 2.</p>\n<p><strong>Normal</strong> : Une augmentation de niveau augmente les DC de sorts d'un PC de 1, et n'accorde pas de sorts pr\u00e9par\u00e9s ou d'emplacements de sorts suppl\u00e9mentaires.</p>\n<p><strong>Special</strong> : Un PC ne peut b\u00e9n\u00e9ficier que de deux b\u00e9n\u00e9dictions de mentor.</p>"
          }
       }
    },
    {
       "_id": "9w8TdCsGEpttXYuy",
       "name": "Mentor, Worldly",
-      "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Prerequisites:</strong> Tier 1 with the Verdant Wheel</p>\n<p><strong>Cost</strong>: 2 Fame</p>\n<p><strong>Effect</strong>: While working with less experienced Pathfinder allies, you help your less experienced colleagues recognize danger and withstand danger. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump's modifier to Perception checks and Initiative rolls to 2.</p>\n<p><strong>Normal</strong>: A Level Bump increases a PC's Perception modifier by 1.</p>\n<p><strong>Special</strong>: A PC can only benefit from two mentor boons.</p>",
+      "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Prerequisites:</strong> Tier 1 with the Verdant Wheel</p>\n<p><strong>Cost</strong>: 2 Fame</p>\n<p><strong>Effect</strong>: While working with less experienced Pathfinder allies, you help your less experienced colleagues recognize danger and withstand danger. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump's modifier to Perception checks and Initiative rolls to 2.</p>\n<p><strong>Normal</strong>: A Level Bump increases a PC's Perception modifier by 1.</p>\n<p><strong>Special</strong>: A PC can only benefit from two mentor boons.</p>\n<p>@Compendium[pf2e.feat-effects.oKJr59FYdDORxLcR]{Effect: Worldly Mentor Boon (PFS)}</p>",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "chang\u00e9",
+            "name": "",
+            "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Pr\u00e9requis:</strong> Niveau 1 avec la Roue de Verdure</p>\n<p><strong>Co\u00fbt</strong> : 2 Fame</p>\n<p><strong>Effet</strong> : Lorsque vous travaillez avec des alli\u00e9s Pathfinder moins exp\u00e9riment\u00e9s, vous aidez vos coll\u00e8gues moins exp\u00e9riment\u00e9s \u00e0 reconna\u00eetre le danger et \u00e0 y r\u00e9sister. Pour tous les PC b\u00e9n\u00e9ficiant d'une augmentation de niveau et dont le niveau est inf\u00e9rieur au v\u00f4tre, vous augmentez le modificateur de l'augmentation de niveau aux tests de Perception et aux jets d'Initiative \u00e0 2.</p>\n<p><strong>Normal</strong> : Un saut de niveau augmente le modificateur de Perception du PC de 1.</p>\n<p><strong>Special</strong> : Un PC ne peut b\u00e9n\u00e9ficier que de deux b\u00e9n\u00e9dictions de mentor.</p>"
          }
       }
    },
@@ -336,10 +340,12 @@
    {
       "_id": "DkqU67wxvbDu0Qrs",
       "name": "Mentor, Rugged",
-      "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Prerequisites:</strong> Tier 1 with the Horizon Hunters</p>\n<p><strong>Cost</strong>: 2 Fame</p>\n<p><strong>Effect</strong>: While working with less experienced Pathfinder allies, you provide important insights that keep your less experienced colleagues safe from harm. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump's modifier to saving throws to 2.</p>\n<p><strong>Normal</strong>: A Level Bump increases a PC's saving throw modifiers by 1.</p>\n<p><strong>Special</strong>: A PC can only benefit from two mentor boons.</p>",
+      "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Prerequisites:</strong> Tier 1 with the Horizon Hunters</p>\n<p><strong>Cost</strong>: 2 Fame</p>\n<p><strong>Effect</strong>: While working with less experienced Pathfinder allies, you provide important insights that keep your less experienced colleagues safe from harm. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump's modifier to saving throws to 2.</p>\n<p><strong>Normal</strong>: A Level Bump increases a PC's saving throw modifiers by 1.</p>\n<p><strong>Special</strong>: A PC can only benefit from two mentor boons.</p>\n<p>@Compendium[pf2e.feat-effects.ZMFgz4GYSsFeaKKK]{Effect: Rugged Mentor Boon (PFS)}</p>",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "chang\u00e9",
+            "name": "",
+            "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Pr\u00e9requis:</strong> Niveau 1 avec les Chasseurs d'Horizon</p>\n<p><strong>Co\u00fbt</strong> : 2 Fame</p>\n<p><strong>Effet</strong> : Lorsque vous travaillez avec des alli\u00e9s Pathfinder moins exp\u00e9riment\u00e9s, vous fournissez des informations importantes qui permettent \u00e0 vos coll\u00e8gues moins exp\u00e9riment\u00e9s de rester \u00e0 l'abri du danger. Pour tous les PC b\u00e9n\u00e9ficiant d'une augmentation de niveau et dont le niveau est inf\u00e9rieur au v\u00f4tre, vous augmentez le modificateur de l'augmentation de niveau aux jets de sauvegarde \u00e0 2.</p>\n<p><strong>Normal</strong> : Un saut de niveau augmente les modificateurs de jet de sauvegarde d\u2019un PC de 1.</p>\n<p><strong>Special</strong> : Un PC ne peut b\u00e9n\u00e9ficier que de deux boons de mentor.</p>"
          }
       }
    },
@@ -406,10 +412,12 @@
    {
       "_id": "J1hUP5SI4MJvlK36",
       "name": "Mentor, Skillful",
-      "description": "<p><strong>[Social][Mentor]</strong></p>\n<p><strong>Prerequisites</strong>: Tier 1 with the Envoy's Alliance</p>\n<p><strong>Cost</strong>: 2 Fame</p>\n<p><strong>Effect</strong>: While working with less experienced Pathfinder allies, you provide vital advice to sharpen your newer colleagues' skills. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump's modifier to skill checks to 2.</p>\n<p><strong>Normal</strong>: A Level Bump increases a PC's skill check modifiers by 1.</p>\n<p><strong>Special</strong>: A PC can only benefit from two mentor boons.</p>",
+      "description": "<p><strong>[Social][Mentor]</strong></p>\n<p><strong>Prerequisites</strong>: Tier 1 with the Envoy's Alliance</p>\n<p><strong>Cost</strong>: 2 Fame</p>\n<p><strong>Effect</strong>: While working with less experienced Pathfinder allies, you provide vital advice to sharpen your newer colleagues' skills. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump's modifier to skill checks to 2.</p>\n<p><strong>Normal</strong>: A Level Bump increases a PC's skill check modifiers by 1.</p>\n<p><strong>Special</strong>: A PC can only benefit from two mentor boons.</p>\n<p>@Compendium[pf2e.feat-effects.SKjVvQcRQmnDoouw]{Effect: Skillful Mentor Boon (PFS)}</p>",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "chang\u00e9",
+            "name": "",
+            "description": "<p><strong>[Social][Mentor]</strong></p>\n<p><strong>Pr\u00e9requis</strong> : Niveau 1 avec l'Alliance de l'Envoy\u00e9's</p>\n<p><strong>Co\u00fbt</strong> : 2 Fame</p>\n<p><strong>Effet</strong> : Lorsque vous travaillez avec des alli\u00e9s Pathfinder moins exp\u00e9riment\u00e9s, vous fournissez des conseils essentiels pour aiguiser les comp\u00e9tences de vos coll\u00e8gues plus r\u00e9cents'. Pour tous les PC b\u00e9n\u00e9ficiant d'une augmentation de niveau et dont le niveau est inf\u00e9rieur au v\u00f4tre, vous augmentez le modificateur de l'augmentation de niveau aux tests de comp\u00e9tence \u00e0 2.</p>\n<p><strong>Normal</strong> : Un saut de niveau augmente les modificateurs de tests de comp\u00e9tences d'un PC de 1.</p>\n<p><strong>Special</strong> : Un PC ne peut b\u00e9n\u00e9ficier que de deux boons de mentor.</p>"
          }
       }
    },
@@ -556,10 +564,12 @@
    {
       "_id": "PXtBhRVHM28angjV",
       "name": "Mentor, Protective",
-      "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Prerequisites:</strong> Tier 1 with the Radiant Oath</p>\n<p><strong>Cost</strong>: 2 Fame</p>\n<p><strong>Effect</strong>: While working with less experienced Pathfinder allies, you shield your more fragile wards from the threat of death. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase their current and maximum Hit Points by an additional amount equal to 3 times your Radiant Oath reputation tier.</p>\n<p><strong>Normal</strong>: A Level Bump increases a PC's Hit Points by 10% or 10, whichever is higher.</p>\n<p><strong>Special</strong>: A PC can only benefit from two mentor boons.</p>",
+      "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Prerequisites:</strong> Tier 1 with the Radiant Oath</p>\n<p><strong>Cost</strong>: 2 Fame</p>\n<p><strong>Effect</strong>: While working with less experienced Pathfinder allies, you shield your more fragile wards from the threat of death. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase their current and maximum Hit Points by an additional amount equal to 3 times your Radiant Oath reputation tier.</p>\n<p><strong>Normal</strong>: A Level Bump increases a PC's Hit Points by 10% or 10, whichever is higher.</p>\n<p><strong>Special</strong>: A PC can only benefit from two mentor boons.</p>\n<p>@Compendium[pf2e.feat-effects.OKOqC1wswrh9jXqP]{Effect: Protective Mentor Boon (Liked) (PFS)}</p>\n<p>@Compendium[pf2e.feat-effects.lbe8XDSZB8gwyg90]{Effect: Protective Mentor Boon (Admired) (PFS)}</p>\n<p>@Compendium[pf2e.feat-effects.0r2V1nK5pV31IUPY]{Effect: Protective Mentor Boon (Revered) (PFS)}</p>",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "chang\u00e9",
+            "name": "",
+            "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Pr\u00e9requis:</strong> Niveau 1 avec le Serment Radieux</p>\n<p><strong>Co\u00fbt</strong> : 2 Fame</p>\n<p><strong>Effet</strong> : Lorsque vous travaillez avec des alli\u00e9s Pathfinder moins exp\u00e9riment\u00e9s, vous prot\u00e9gez vos gardiens les plus fragiles contre la menace de mort. Pour tous les PC b\u00e9n\u00e9ficiant d'une augmentation de niveau et dont le niveau est inf\u00e9rieur au v\u00f4tre, vous augmentez leurs points de vie actuels et maximaux d'un montant suppl\u00e9mentaire \u00e9gal \u00e0 3 fois votre palier de r\u00e9putation de Serment radieux.</p>\n<p><strong>Normal</strong> : Une augmentation de niveau augmente les points de vie d'un PC de 10% ou de 10, selon le plus \u00e9lev\u00e9 des deux.</p>\n<p><strong>Special</strong> : Un PC ne peut b\u00e9n\u00e9ficier que de deux b\u00e9n\u00e9dictions de mentor.</p>"
          }
       }
    },
@@ -586,10 +596,12 @@
    {
       "_id": "RJYIefY9Skx8CAgw",
       "name": "S1-Q09 - Wayfinder Connections",
-      "description": "<p><strong>[Slotless][Generic]</strong></p>\n<p><strong>Effect</strong>: Thanks to your connection with Venture-Captain Muesello, you have an easier time securing @Compendium[pf2e.equipment-srd.gbwr57aT9ou8yKWT]{Wayfinders}. You can purchase wayfinders of up to your character level + 2 as long as you have access to them. If you own a @Compendium[pf2e.equipment-srd.gbwr57aT9ou8yKWT]{Standard Wayfinder} (Core Rulebook 617), Muesello offers to upgrade it to a @Compendium[pf2e.equipment-srd.gbwr57aT9ou8yKWT]{Wayfinder} with additional features for the difference in cost between the items.</p>",
+      "description": "<p><strong>[Slotless][Generic]</strong></p>\n<p><strong>Effect</strong>: Thanks to your connection with Venture-Captain Muesello, you have an easier time securing @Compendium[pf2e.equipment-srd.gbwr57aT9ou8yKWT]{Wayfinders}. You can purchase wayfinders of up to your character level + 2 as long as you have access to them. If you own a @Compendium[pf2e.equipment-srd.gbwr57aT9ou8yKWT]{Standard Wayfinder}, Muesello offers to upgrade it to a @Compendium[pf2e.equipment-srd.gbwr57aT9ou8yKWT]{Wayfinder} with additional features for the difference in cost between the items.</p>",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "chang\u00e9",
+            "name": "",
+            "description": "<p><strong>[Slotless][Generic]</strong></p>\n<p><strong>Effet</strong> : Gr\u00e2ce \u00e0 votre lien avec le Venture-Captain Muesello, vous avez plus de facilit\u00e9 \u00e0 vous procurer le @Compendium[pf2e.equipment-srd.gbwr57aT9ou8yKWT]{Wayfinders}. Vous pouvez acheter des wayfinders jusqu'\u00e0 votre niveau de personnage + 2 tant que vous y avez acc\u00e8s. Si vous poss\u00e9dez un @Compendium[pf2e.equipment-srd.gbwr57aT9ou8yKWT]{Wayfinder standard} (Core Rulebook 617), Muesello vous propose de l'am\u00e9liorer en un @Compendium[pf2e.equipment-srd.gbwr57aT9ou8yKWT]{Wayfinder} avec des fonctionnalit\u00e9s suppl\u00e9mentaires pour la diff\u00e9rence de co\u00fbt entre les deux articles.</p>"
          }
       }
    },
@@ -998,10 +1010,12 @@
    {
       "_id": "grkmoNwwHOROKER7",
       "name": "AoA #150: Boon A - Legacy of Ashes",
-      "description": "<p>You can make a first-level character with one of the following backgrounds, as found on page 73: @Compendium[pf2e.backgrounds.3kXTGUvodNMnJTxb]{Aiudara Seeker}, @Compendium[pf2e.backgrounds.mxJRdRSMsyZfBf5c]{Hermean Heritor}, @Compendium[pf2e.backgrounds.84uVpQFCqn0Atfpo]{Legendary Parents}, @Compendium[pf2e.backgrounds.4naQmCXBl0007c2W]{Touched by Dahak}</p>",
+      "description": "<p>You can make a first-level character with one of the following backgrounds: @Compendium[pf2e.backgrounds.3kXTGUvodNMnJTxb]{Aiudara Seeker}, @Compendium[pf2e.backgrounds.mxJRdRSMsyZfBf5c]{Hermean Heritor}, @Compendium[pf2e.backgrounds.84uVpQFCqn0Atfpo]{Legendary Parents}, @Compendium[pf2e.backgrounds.4naQmCXBl0007c2W]{Touched by Dahak}</p>",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "chang\u00e9",
+            "name": "",
+            "description": "<p>Vous pouvez cr\u00e9er un personnage de premier niveau avec l'un des arri\u00e8re-plans suivants, comme indiqu\u00e9 \u00e0 la page 73 : @Compendium[pf2e.backgrounds.3kXTGUvodNMnJTxb]{Aiudara Seeker}, @Compendium[pf2e.backgrounds.mxJRdRSMsyZfBf5c]{Hermean Heritor}, @Compendium[pf2e.backgrounds.84 uVpQFCqn0Atfpo]{Parents l\u00e9gendaires}, @Compendium[pf2e.backgrounds.4naQmCXBl0007c2W]{Touch\u00e9 par Dahak}</p>"
          }
       }
    },
@@ -1178,10 +1192,12 @@
    {
       "_id": "rJfATB750MbndGeP",
       "name": "S2-08 - Baba Yaga's Tutelage",
-      "description": "<p>After journeying into Irrisen, you attracted the attention of Baba Yaga, who has decided to teach you a lesson or two - either in thanks for your conduct or in the belief that only through her harsh tutelage will you learn some respect for the Land of Eternal Winter. Choose one of your characters to receive one of the following benefits; keep a copy of this boon with that character's records.</p>\n<p><strong>Option 1:</strong> That character gains access to the rare @Compendium[pf2e.classfeatures.VVMMJdIWL7fAsQf3]{Baba Yaga witch patron}, as well as the character options that she grants: the @Compendium[pf2e.spells-srd.yp4w9SG4RuqRM8KD]{Spirit Object} hex, lesson of the frozen queen major lesson, the @Compendium[pf2e.spells-srd.ZyREiMaul0VhDYh3]{Glacial Heart} hex, and inanimate object familiars.</p>\n<p><strong>Option 2:</strong> The character can also elect not to take Baba Yaga as a patron, in which case they still gain access to the lesson of the frozen queen major lesson and the @Compendium[pf2e.spells-srd.ZyREiMaul0VhDYh3]{Glacial Heart} hex.</p>\n<p>These options are described on pages 32-33 of Lost Omens Legends.</p>\n<p><strong>Character chosen:</strong> -20_________</p>",
+      "description": "<p>After journeying into Irrisen, you attracted the attention of Baba Yaga, who has decided to teach you a lesson or two - either in thanks for your conduct or in the belief that only through her harsh tutelage will you learn some respect for the Land of Eternal Winter. Choose one of your characters to receive one of the following benefits; keep a copy of this boon with that character's records.</p>\n<p><strong>Option 1:</strong> That character gains access to the rare @Compendium[pf2e.classfeatures.VVMMJdIWL7fAsQf3]{Baba Yaga witch patron}, as well as the character options that she grants: the @Compendium[pf2e.spells-srd.yp4w9SG4RuqRM8KD]{Spirit Object} hex, lesson of the frozen queen major lesson, the @Compendium[pf2e.spells-srd.ZyREiMaul0VhDYh3]{Glacial Heart} hex, and inanimate object familiars.</p>\n<p><strong>Option 2:</strong> The character can also elect not to take Baba Yaga as a patron, in which case they still gain access to the lesson of the frozen queen major lesson and the @Compendium[pf2e.spells-srd.ZyREiMaul0VhDYh3]{Glacial Heart} hex.</p>\n<p><strong>Character chosen:</strong> -20_________</p>",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "chang\u00e9",
+            "name": "",
+            "description": "Apr\u00e8s avoir voyag\u00e9 en Irrisen, vous avez attir\u00e9 l'attention de Baba Yaga, qui a d\u00e9cid\u00e9 de vous donner une ou deux le\u00e7ons - soit en remerciement de votre conduite, soit en pensant que ce n'est qu'\u00e0 travers sa dure tutelle que vous apprendrez un peu de respect pour le pays de l'hiver \u00e9ternel. Choisissez l\u2019un de vos personnages pour recevoir l\u2019un des avantages suivants ; gardez une copie de ce bienfait avec les archives de ce personnage.</p>\n<p><strong>Option 1:</strong> Ce personnage gagne l'acc\u00e8s au rare @Compendium[pf2e.classfeatures.VVMMJdIWL7fAsQf3]{m\u00e9c\u00e8ne sorci\u00e8re Baba Yaga}, ainsi que les options de personnage qu'elle accorde : le @Compendium[pf2e. spells-srd.yp4w9SG4RuqRM8KD]{Objet spirituel}, la le\u00e7on majeure de la reine gel\u00e9e, l'hexagone @Compendium[pf2e.spells-srd.ZyREiMaul0VhDYh3]{C\u0153ur glacial}, et des familiers objets inanim\u00e9s.</p>\n<p><strong>Option 2:</strong> Le personnage peut \u00e9galement choisir de ne pas prendre Baba Yaga comme protectrice, auquel cas il a quand m\u00eame acc\u00e8s \u00e0 la le\u00e7on majeure de la reine gel\u00e9e et \u00e0 l'hexagone @Compendium[pf2e.spells-srd.ZyREiMaul0VhDYh3]{C\u0153ur glacial}.</p>\n<p>Ces options sont d\u00e9crites aux pages 32-33 de Lost Omens Legends.</p>\n<p><strong>Personnage choisi:</strong> -20_________</p>"
          }
       }
    },
@@ -1238,10 +1254,12 @@
    {
       "_id": "vYSA5M9fgBdYiGLT",
       "name": "Mentor, Combat",
-      "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Prerequisites:</strong> Tier 1 with the Vigilant Seal</p>\n<p><strong>Cost</strong>: 2 Fame</p>\n<p><strong>Effect</strong>: While working with less experienced Pathfinder allies, you provide pointers and lead drills that ensure your newer colleagues' attacks strike true. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump's modifier to attack rolls and spell attack rolls to 2.</p>\n<p><strong>Normal</strong>: A Level Bump increases a PC's attack roll and spell attack roll modifiers by 1.</p>\n<p><strong>Special</strong>: A PC can only benefit from two mentor boons.</p>",
+      "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Prerequisites:</strong> Tier 1 with the Vigilant Seal</p>\n<p><strong>Cost</strong>: 2 Fame</p>\n<p><strong>Effect</strong>: While working with less experienced Pathfinder allies, you provide pointers and lead drills that ensure your newer colleagues' attacks strike true. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump's modifier to attack rolls and spell attack rolls to 2.</p>\n<p><strong>Normal</strong>: A Level Bump increases a PC's attack roll and spell attack roll modifiers by 1.</p>\n<p><strong>Special</strong>: A PC can only benefit from two mentor boons.</p>\n<p>@Compendium[pf2e.feat-effects.q2kY0TzXloJ8HLNO]{Effect: Combat Mentor Boon (PFS)}</p>",
       "translations": {
          "fr": {
-            "status": "aucune"
+            "status": "chang\u00e9",
+            "name": "",
+            "description": "<p><strong>[Mentor][Social]</strong></p>\n<p><strong>Pr\u00e9requis:</strong> Niveau 1 avec le Sceau Vigilant</p>\n<p><strong>Co\u00fbt</strong> : 2 Fame</p>\n<p><strong>Effet</strong> : Lorsque vous travaillez avec des alli\u00e9s Pathfinder moins exp\u00e9riment\u00e9s, vous fournissez des conseils et des exercices qui garantissent que les attaques de vos coll\u00e8gues plus r\u00e9cents sont efficaces. Pour tous les PC b\u00e9n\u00e9ficiant d'une augmentation de niveau et dont le niveau est inf\u00e9rieur au v\u00f4tre, vous augmentez le modificateur de l'augmentation de niveau aux jets d'attaque et aux jets d'attaque de sorts \u00e0 2.</p>\n<p><strong>Normal</strong> : Un saut de niveau augmente les modificateurs de jet d\u2019attaque et de jet d\u2019attaque des sorts d\u2019un PC de 1.</p>\n<p><strong>Special</strong> : Un PC ne peut b\u00e9n\u00e9ficier que de deux b\u00e9n\u00e9dictions de mentor.</p>"
          }
       }
    },

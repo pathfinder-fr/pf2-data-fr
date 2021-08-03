@@ -154,10 +154,10 @@
    {
       "_id": "BHq5wpQU8hQEke8D",
       "name": "Hidden Pit",
-      "description": "A wooden trapdoor covers a pit that's 10 feet square and 20 feet deep.",
+      "description": "<p>A wooden trapdoor covers a pit that's 10 feet square and 20 feet deep.</p>",
       "translations": {
          "fr": {
-            "status": "officielle",
+            "status": "chang\u00e9",
             "name": "Fosse dissimul\u00e9e",
             "description": "<p>Une trappe de bois recouvre une fosse de 3 m sur 3 et de 6 m de profondeur.</p>"
          }
